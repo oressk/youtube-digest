@@ -1,0 +1,36 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>YouTube新着ダイジェスト</title>
+<style>
+body{margin:0;font-family:-apple-system,"Hiragino Sans","Noto Sans JP",sans-serif;background:#f5f6f8;color:#222;line-height:1.7}
+header{background:#c00;color:#fff;padding:14px 16px}header h1{margin:0;font-size:1.2rem}header p{margin:2px 0 0;font-size:.8rem;opacity:.85}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding:10px 12px;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0}
+.tabs button{border:1px solid #ccc;background:#fff;border-radius:20px;padding:6px 14px;font-size:.9rem;white-space:nowrap;cursor:pointer}
+.tabs button.on{background:#c00;color:#fff;border-color:#c00}
+main{max-width:820px;margin:0 auto;padding:12px}
+h2.run{font-size:1rem;color:#555;border-left:4px solid #c00;padding-left:8px;margin:20px 0 10px}
+.card{background:#fff;border-radius:10px;padding:14px 16px;margin-bottom:12px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.ch{font-size:.8rem;color:#c00;font-weight:bold}.card h3{margin:4px 0;font-size:1rem}.card h3 a{color:#111;text-decoration:none}
+.dur{font-size:.8rem;color:#777}.sum ul{padding-left:1.2em;margin:8px 0}.sum p{margin:6px 0}
+.yt{display:inline-block;margin-top:6px;background:#c00;color:#fff;padding:5px 12px;border-radius:6px;text-decoration:none;font-size:.85rem}
+.empty{color:#888;text-align:center;padding:40px}
+</style></head><body>
+<header><h1>YouTube新着ダイジェスト</h1><p>3時間ごとに更新・直近5日分を表示</p></header>
+<nav class="tabs" id="tabs"></nav><main id="main"><p class="empty">読み込み中…</p></main>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const inl=s=>esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
+function md(t){let h='',ul=false;for(const l of String(t||'').split('\n')){const m=l.match(/^\s*[-*]\s+(.*)/);
+if(m){if(!ul){h+='<ul>';ul=true}h+='<li>'+inl(m[1])+'</li>'}else{if(ul){h+='</ul>';ul=false}if(l.trim())h+='<p>'+inl(l)+'</p>'}}return h+(ul?'</ul>':'')}
+const wd=d=>'日月火水木金土'[new Date(d+'T00:00:00+09:00').getUTCDay()];
+fetch('data/entries.json?'+Date.now()).then(r=>r.json()).then(runs=>{
+const by={};runs.forEach(r=>(by[r.date]=by[r.date]||[]).push(r));const dates=Object.keys(by).sort().reverse();
+const tabs=document.getElementById('tabs'),main=document.getElementById('main');
+if(!dates.length){main.innerHTML='<p class="empty">まだ新着はありません</p>';return}
+function show(d){[...tabs.children].forEach(b=>b.classList.toggle('on',b.dataset.d===d));
+main.innerHTML=by[d].sort((a,b)=>b.time.localeCompare(a.time)).map(r=>{
+const g={};r.videos.forEach(v=>(g[v.channel]=g[v.channel]||[]).push(v));
+return `<h2 class="run">${esc(r.time)} のチェック（${r.videos.length}本）</h2>`+Object.entries(g).map(([c,vs])=>vs.map(v=>
+`<div class="card"><div class="ch">${esc(c)}</div><h3><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a></h3><div class="dur">${esc(v.duration)}</div><div class="sum">${md(v.summary_md)}</div><a class="yt" href="${esc(v.url)}" target="_blank" rel="noopener">▶ YouTubeで見る</a></div>`).join('')).join('')}).join('')}
+dates.forEach(d=>{const b=document.createElement('button');b.dataset.d=d;b.textContent=d.slice(5).replace('-','/')+'('+wd(d)+')';b.onclick=()=>show(d);tabs.appendChild(b)});
+show(dates[0])}).catch(()=>document.getElementById('main').innerHTML='<p class="empty">読み込みに失敗しました</p>');
+</script></body></html>

@@ -12,25 +12,34 @@ h2.run{font-size:1rem;color:#555;border-left:4px solid #c00;padding-left:8px;mar
 .ch{font-size:.8rem;color:#c00;font-weight:bold}.card h3{margin:4px 0;font-size:1rem}.card h3 a{color:#111;text-decoration:none}
 .dur{font-size:.8rem;color:#777}.sum ul{padding-left:1.2em;margin:8px 0}.sum p{margin:6px 0}
 .yt{display:inline-block;margin-top:6px;background:#c00;color:#fff;padding:5px 12px;border-radius:6px;text-decoration:none;font-size:.85rem}
+.sub{display:flex;gap:6px;margin:4px 0 8px}.sub button{border:none;background:#e4e6ea;border-radius:6px;padding:6px 16px;font-size:.9rem;cursor:pointer}.sub button.on{background:#333;color:#fff}
+.deg h2.run{border-left-color:#5865f2}.deg .card h3,.deg .card h4{margin:10px 0 4px}.sum a{color:#5865f2}
 .empty{color:#888;text-align:center;padding:40px}
 </style></head><body>
 <header><h1>YouTube新着ダイジェスト</h1><p>3時間ごとに更新・直近5日分を表示</p></header>
 <nav class="tabs" id="tabs"></nav><main id="main"><p class="empty">読み込み中…</p></main>
 <script>
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const inl=s=>esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
-function md(t){let h='',ul=false;for(const l of String(t||'').split('\n')){const m=l.match(/^\s*[-*]\s+(.*)/);
-if(m){if(!ul){h+='<ul>';ul=true}h+='<li>'+inl(m[1])+'</li>'}else{if(ul){h+='</ul>';ul=false}if(l.trim())h+='<p>'+inl(l)+'</p>'}}return h+(ul?'</ul>':'')}
+const safeUrl=u=>/^https?:\/\//i.test(u)?u:'#';
+const inl=s=>{const L=[];s=String(s??'').replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,(m,t,u)=>{L.push([t,u]);return '\u0000'+(L.length-1)+'\u0000'});
+return esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\u0000(\d+)\u0000/g,(m,i)=>`<a href="${esc(safeUrl(L[i][1]))}" target="_blank" rel="noopener">${esc(L[i][0]).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}</a>`)};
+function md(t){let h='',ul=false;for(const l of String(t||'').split('\n')){const m=l.match(/^\s*[-*]\s+(.*)/),hd=l.match(/^(#{1,4})\s+(.*)/);
+if(m){if(!ul){h+='<ul>';ul=true}h+='<li>'+inl(m[1])+'</li>'}else{if(ul){h+='</ul>';ul=false}if(hd){const n=Math.min(hd[1].length+2,6);h+=`<h${n}>${inl(hd[2])}</h${n}>`}else if(l.trim())h+='<p>'+inl(l)+'</p>'}}return h+(ul?'</ul>':'')}
 const wd=d=>'日月火水木金土'[new Date(d+'T00:00:00+09:00').getUTCDay()];
 fetch('data/entries.json?'+Date.now()).then(r=>r.json()).then(runs=>{
 const by={};runs.forEach(r=>(by[r.date]=by[r.date]||[]).push(r));const dates=Object.keys(by).sort().reverse();
-const tabs=document.getElementById('tabs'),main=document.getElementById('main');
+const tabs=document.getElementById('tabs'),main=document.getElementById('main');let cur=dates[0],sub='youtube';
 if(!dates.length){main.innerHTML='<p class="empty">まだ新着はありません</p>';return}
-function show(d){[...tabs.children].forEach(b=>b.classList.toggle('on',b.dataset.d===d));
-main.innerHTML=by[d].sort((a,b)=>b.time.localeCompare(a.time)).map(r=>{
+function yt(rs){if(!rs.length)return '<p class="empty">この日のYouTube新着はありません</p>';return rs.map(r=>{
 const g={};r.videos.forEach(v=>(g[v.channel]=g[v.channel]||[]).push(v));
 return `<h2 class="run">${esc(r.time)} のチェック（${r.videos.length}本）</h2>`+Object.entries(g).map(([c,vs])=>vs.map(v=>
 `<div class="card"><div class="ch">${esc(c)}</div><h3><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a></h3><div class="dur">${esc(v.duration)}</div><div class="sum">${md(v.summary_md)}</div><a class="yt" href="${esc(v.url)}" target="_blank" rel="noopener">▶ YouTubeで見る</a></div>`).join('')).join('')}).join('')}
+function deg(rs){if(!rs.length)return '<p class="empty">この日のDEG鯖の要約はありません</p>';return '<div class="deg">'+rs.map(r=>
+`<h2 class="run">${esc(r.time)}${r.title?' '+esc(r.title):' の要約'}</h2><div class="card"><div class="sum">${md(r.summary_md)}</div></div>`).join('')+'</div>'}
+function show(d,s){cur=d;sub=s||sub;[...tabs.children].forEach(b=>b.classList.toggle('on',b.dataset.d===d));
+const rs=by[d].slice().sort((a,b)=>b.time.localeCompare(a.time));const isD=r=>(r.source||'youtube')==='deg';
+main.innerHTML=`<div class="sub"><button data-s="youtube" class="${sub==='youtube'?'on':''}">YouTube</button><button data-s="deg" class="${sub==='deg'?'on':''}">DEG鯖</button></div>`+(sub==='deg'?deg(rs.filter(isD)):yt(rs.filter(r=>!isD(r))));
+main.querySelectorAll('.sub button').forEach(b=>b.onclick=()=>show(cur,b.dataset.s))}
 dates.forEach(d=>{const b=document.createElement('button');b.dataset.d=d;b.textContent=d.slice(5).replace('-','/')+'('+wd(d)+')';b.onclick=()=>show(d);tabs.appendChild(b)});
 show(dates[0])}).catch(()=>document.getElementById('main').innerHTML='<p class="empty">読み込みに失敗しました</p>');
 </script></body></html>

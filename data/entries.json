@@ -7,6 +7,13 @@
   "title": "テストdeg-stock"
  },
  {
+  "source": "deg-stock",
+  "date": "2026-10-15",
+  "time": "17:03",
+  "summary_md": "- **deg** test",
+  "title": "テストdeg"
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-10-15",
   "time": "17:010",

@@ -14,6 +14,13 @@
   "title": "DEG鯖 🚀クリプト雑談"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-16",
+  "time": "00:00",
+  "summary_md": "## DeepSeek V4.1 Flash が OpenCode で無料に\n- [OpenCode公式ポスト](https://x.com/opencode/status/2110635747648909472)：DeepSeek V4.1 Flash が無料化。「中華モデルのダンピングがついに無料到達」との反応\n- 無料枠は200kまで、`-free` 付きモデルの話、ロングコンテキストは厳しいとの指摘。Muse1.3 も含め無料運用でよさそうとの声（だって人間だもの、juiCYMod、ハム太郎）\n\n## MiniMax H3 キャラ置換LoRA・AI MV\n- [キャラ置換LoRA（ComfyUI）](https://github.com/TheBeast-Spec/minimax-h3-character-swap-lora-comfyui)と[HYDRO KING MV](https://www.youtube.com/watch?v=Sr8gza8woqc)共有。ローカルMiniMax H3で2週間超、Opus 5.5が全面操作して制作との[元ポスト](https://x.com/AzusaTsang/status/2108479625429147810)\n- refがあれば投げっぱなしで可能、時間がかかるのはゼロから作る場合（邪悪なネコ、hare）\n\n## Claude APIクレジット・dots VM の IP BAN\n- Max以上で毎月API分が付与、Teamsだと500ドル程度。余るならClaude Managed Agentで自分用bot作成がおすすめ（ハム太郎、楓）\n- dots の VM が ChatGPT から IP BAN され困惑、月84,000円でこの品質との不満。操作許可判定の悪さも指摘され「時代はgrok botか」との声（namazu、しろくろべあー🐻）\n\n## YouTubeショート：10万再生報告と改善論\n- なぞこいさんが連日ATH、エンゲージメント率60%前後→77%、ついに10万再生で「チュートリアルクリア」。Ghintsさんも100k超え\n- なべさんからDEGさん動画への改善点：冒頭で疑問を持たせる、原色フォント、1文テロップをテンポよく、主役は画面上部に\n- 「ドパ（ドーパミン系）」路線への転向ネタ、YouTube銀盾の扱い（刻印は申請時手入力、売却はポリシー違反）の雑談（なぞこい、なべ、Ghints）\n\n## 視聴者層（ドパ婆専）とアルゴリズム\n- 13〜44歳が1%など高齢層に偏る数字の共有。デモグラは正確でない可能性、初期ランダム配信後に拡散して分布がバラつくとの見方\n- 偏ったスコープの方がおすすめに乗りやすい説、結局は予選突破→全体フィードに出ないと伸びないとの意見（なべ、hexe、なぞこい）",
+  "title": "DEG鯖 📕AI総合"
+ },
+ {
   "date": "2026-10-15",
   "time": "21:00",
   "videos": [

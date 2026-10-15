@@ -41,6 +41,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-10-15",
+  "time": "18:00",
+  "summary_md": "## 市況：BTC急落・アルト壊滅\n- BTCが8万1,000ドル割れ、のち8万割れ警戒。日経は前引け大幅安。[CB Terminal 6時間まとめ](https://cb-terminal.dev/ja/topic/d87f0181-ffdb-4b3d-b446-c64f1796c1ac)\n- いつものパターン：BTCがフラフラの間にアルトが壊滅。LIT半額級、SOL不調の声。ショート利確（ROI+60%前後）報告も\n- 10/14 ETFフロー：BTC −$261.4M / ETH −$129.5M / SOL −$1.3M / HYPE −$4.9M\n- 韓国株はコロナ超え級の下落・サーキットブレーカー連発の共有。[例](https://vxtwitter.com/inagi666/status/2110581933860360402)。一時リバも観測\n\n## HYPE\n- 約$98→$78付近まで下落、のち$80前後に戻る局面。底値想定$60／最悪$25の見方も。高$60s買い希望の声\n- CoreWeave（コアウィーブ）系株安がクリプトに波及するとの不満\n\n## 個別イベント・話題\n- Upbit：PUFFERがKRW市場に上場（転送）\n- [StandX DUSD Airdrop](https://x.com/standx_official/status/2110613283967230232)発表。「ネクストAster」「No Token」反応。つらいとの声も\n- [alphaarena.ai](https://alphaarena.ai/)：LLMトレード試合でGrok 4.20のみ黒字との話題。ペーパートレードのルーレットネタも\n- moycoin氏のHYPE大損・別れ投稿が鯖内で拡散（例：[投稿](https://x.com/moycoin/status/2110379492128801023)）\n- DeFiバグバウンティ報告中で約$10k見込み、の言及。相場ジョークとしての「証拠金airdrop」も\n\n## 雑談トーン\n- 工場・ブルーカラー・派遣給与、AI/ロボバブルが終わるまでの忙しさ、米時間のさらなる下落懸念など",
+  "title": "DEG鯖 🚀クリプト雑談"
+ },
+ {
   "source": "deg-ai",
   "date": "2026-10-15",
   "time": "18:00",

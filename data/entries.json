@@ -1,5 +1,12 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-16",
+  "time": "06:00",
+  "summary_md": "## AIツールへの不満（Claude・ChatGPT・dot）\n- ChatGPTのリセットチケットをClaudeに変換できないか、という声\n- Claudeのアップデートでファイルの並びがめちゃくちゃになったとの報告\n- AIエージェント「dot」の劣化が話題に。スレッドをアーカイブして新規開始するよう指示したのに、アーカイブを解除して続きから再開してしまうとの不満\n- 対策として「定期的にリセット／削除して作り直したほうが良い」「dotくん、2日で劣化するね」との意見\n（ミドルリスク長期投資家、Ghints（ぎんつ）、gorillapower）\n\n## Xの「Video Kickstart Bonus」\n- Xが招待制の動画クリエイター報酬プログラムを試験導入（縦型・3分未満・自作動画が条件）\n- [Allegra Jacchia氏のポスト](https://x.com/allegrajacchia/status/2110821237517959503?s=46&t=Q_iA7nSTieG_ASotkiBjsw)\n- 「参加したかった」「5000ドルがタダでもらえるも同然」、金額は3000ドルか5000ドルか、という反応\n（Ghints（ぎんつ））",
+  "title": "DEG鯖 📕AI総合"
+ },
+ {
   "date": "2026-10-16",
   "time": "00:00",
   "videos": [

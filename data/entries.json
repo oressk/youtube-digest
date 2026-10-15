@@ -41,6 +41,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-15",
+  "time": "18:00",
+  "summary_md": "## 長尺AI動画・制作環境\n- ローカルは一週間級、クラウドは作り直しコストが重いとの声。Mac Studioや[tinybox](https://tinygrad.org/)（深層学習向けマシン）言及\n- 長尺はショート以上に概要欄（出典・BGM・効果音）が重要、きちんと書くと数字が伸びたとの体験談\n\n## Google Flow Music（Lyria）\n- [Flow Music](https://www.flowmusic.app/playlist/3d9d1ae8-2755-4f91-ba82-eff1f40a4f0f)共有。Google ONE / AI Proでクレジット付与の話。2曲で10クレジット程度との体感\n- Sunoとの比較：さくっと作れる系を求める声と、Studio本格運用の話\n\n## みずほAI開発者転換\n- [日経](https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/)：全社員から選抜し10年で数千人規模のAI開発者へ。元営業の転換に驚きと懸念（法令・セキュリティ）\n\n## AIアニメ・IP・個人アプリ\n- bilibiliに[Re:ゼロ未アニメ化部分のAIアニメ](https://www.bilibili.com/video/BV1LQHr6NEx3/)投稿（再生51万超）。声質・クオリティ評価と海賊版／同人との線引き議論。[元ポスト](https://x.com/ikettitencho/status/2110347014362050967)\n- [Impress](https://x.com/impress_watch/status/2110612690452512791)：AIで自分用アプリを作りGoogle Play経由で実行可能に\n\n## YouTube・収益化雑談\n- なぞこいさんの再生・エンゲージメント改善と収益化ライン、なべ塾言及。AIアイデアはコストと本人がボトルネックとの声",
+  "title": "DEG鯖 📕AI総合"
+ },
+ {
   "date": "2026-10-15",
   "time": "12:00",
   "videos": [

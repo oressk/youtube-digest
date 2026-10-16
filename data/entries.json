@@ -1,5 +1,12 @@
 [
  {
+  "source": "deg-stock",
+  "date": "2026-10-16",
+  "time": "15:00",
+  "summary_md": "## 緊急地震速報「択捉島付近M9.9・最大震度7」が誤報で取り消し\n- 12:37頃に緊急地震速報。揺れはなく、12:50頃に取り消し。「地震計ハック？」「株価操作につながる」と話題に\n- 速報：[特務機関NERV](https://x.com/UN_NERV/status/2110938398416646499)、[たけぞう](https://x.com/noatake1127/status/2110940887807316186)。参考：[Polymarket 2027年以前のM9以上地震](https://polymarket.com/ja/event/9pt0-or-above-earthquake-before-2027)\n- 指数は一時売られたがすぐ戻り、TOPIXは約0.4%の動き。「誤報を好感して誤報前より上がってる」。カムチャツカ沖でM6.7〜6.9の地震は実際にあった\n- 気象庁は14:00に会見（[告知](https://x.com/JMA_kishou/status/2110948958155739255)、[会見動画](https://www.youtube.com/live/KbD65hdsUYA)）。サイバー攻撃の可能性はなく、マグニチュードを過大評価したと説明（[@aryarya](https://x.com/aryarya/status/2110960641691488682)）\n（namazu、mmk7636、しろくろべあー🐻）\n\n## セキュリティ株が急伸→会見後に急落\n- 誤報で連想買いが入り「セキュリティ20%上がってる」。トレンドマイクロも強い。昨日の半導体暴落中にセキュリティを拾った話（[@oz_onpu](https://x.com/oz_onpu/status/2110861339669438499)）\n- ベイカレントは純利益29%増、AIやセキュリティ需要が追い風（[日経](https://x.com/nikkei/status/2110871635007840322)）\n- 会見で「ハッキングではない」となり急落（[塩漬けマン](https://fxtwitter.com/shiozukemann/status/2110961957696360572)）。「こんなの予想できない」「小型株は流動性がなく逃げられない」\n（namazu、nnf、mmk7636）\n\n## AIペネトレーションテストとセキュリティ事業者の整理\n- JSOLはNodeZero、東京エレクトロンデバイスはPentera、NRIセキュアは人による診断と整理。参考：[GRCS RidgeBot](https://www.grcs.co.jp/products/ridgebot)、[NRIセキュア フロンティアAI脆弱性サービス](https://www.nri.com/jp/news/newsrelease/20260623_1.html)、[NRIセキュア AI駆動開発支援](https://prtimes.jp/main/html/rd/p/000000212.000052432.html)\n- 「NRIセキュアの野村総研を買いたくなる」。大手は富士通やNECに頼むとの話も。AIで作るセキュリティ記事メディアがアクセス急増という体験談\n（hexe、gorillapower、nnf）\n\n## 個別株・その他の材料\n- ウインテストがストップ高、昨日から倍に（[@aryarya](https://x.com/aryarya/status/2110945744643563673)）\n- 片山晃氏がリンテック（7966）を200万株に買い増し、100億円超え（[@Nathan9983](https://x.com/nathan9983/status/2110884182142689487)）\n- ヤマト運輸で個人情報530万件あまりが流出（[NHK](https://x.com/nhk_news/status/2110970508250579183)）\n- 未上場のBMSGの決算公告で純利益46億円・利益剰余金112億円（[官報決算DB](https://x.com/kessan_db/status/2110585609547038878)）\n- 欧州の自動車優遇策に日本は含めずとの報道（[47NEWS](https://x.com/47news_official/status/2110925456988098917)）。hexeの半導体相場アンケート、「TSLAよりSPCXの方が強い」\n（mmk7636、越前、hexe）\n\n## 海外市場：インドネシア株−11%、KOSPI+4%\n- MSCIが「新興国市場」から格下げを検討し、インドネシア株は11%超下落、ルピアも急落（[ロイター](https://www.reuters.com/jp/opinion/WJUHU7FM6NJHNJTCADONQKXKW4-2026-10-16/)）。「1年前から格下げ報道」「取引所のガバナンスが問題」\n- KOSPIは4%高、KOSDAQはサイドカー発動。台湾が米国との合意で中国へのAIチップ輸出を制限へ\n（ガリンペイロ、namazu、mmk7636）\n\n## DEGのショート損切りと雑談\n- DEGの半導体ショートは損切りヒット。「Variationalで損したから大丈夫（大丈夫じゃない）」。GROKのトークン量が減っている話も\n（DEG、越前）\n",
+  "title": "DEG鯖 株式-為替-商品"
+ },
+ {
   "date": "2026-10-16",
   "time": "12:00",
   "videos": [

@@ -7,6 +7,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-10-16",
+  "time": "18:00",
+  "summary_md": "## 地震アラートの誤報騒ぎ\n- 12:40ごろ千島列島でM9.9〜10級という地震アラートが出て騒然、直後に取り消し。「取り消しでもアラートが鳴るのは心臓に悪い」「乗っ取りによる悪用でなければいいが」と話題に\n（ウサギ乾電池、RIO、節子）\n\n## 「ジョブンホ／ジカンホ」をAIに聞く遊びの続き\n- ChatGPT・Gemini・Grokに鯖のスラングを調べさせて答えを見比べ、「Geminiは虚言癖」「ChatGPTは友達がいなさそう」と盛り上がる\n（Goose、節子、Meclizine）\n\n## 相場・ETF・ニュース\n- 10/15のETFフロー：BTC +510万ドル、ETH -6,030万ドル、SOL -980万ドル、Hyperliquid -1,030万ドル\n- CB Terminalの6時間まとめ：MSCIの新基準でStrategyなどが除外候補、TeslaはRoadster披露後に時間外で下落 https://cb-terminal.dev/ja/topic/cf2bf489-d18e-44c7-9ad2-8b0a6c319178\n- BinanceがVelodrome（VELODROME）のAerodrome（AERO）へのトークン統合に対応すると発表\n- 夕方には「にゃー」が再びピクついてきた、との声\n（邪悪なネコ、CB Terminal、転送bot）\n\n## スマホウォレットのトラブル相談\n- iPhoneのBase WalletでHyperEVMのUSDCをHyperSwapでPSTRに替えようとするとエラー、という相談\n- 「ウォレット側でチェーンを切り替える」「大金ならデスクトップ＋ハードウェアウォレットで」「Rabby Walletがおすすめ」と回答が集まり、最終的にRabbyで解決。ただしリカバリーフレーズを入力した以上、そのウォレットに大金は置かない方がいいと注意\n（inossyu、長野桃羽ちゃんの奴隷、邪悪なネコ）\n\n## GPU貸し出し（Nosana）で稼げるか\n- RTX 4090を空き時間に貸し出した記事 https://note.com/soh_______/n/n830524388675 をきっかけに、RTX 5080でNosanaに参加するとどれくらい稼げるかという話\n- 「VRAM 16GBだとAI用途では微妙」「OSはUbuntuの方が楽」「常駐サービスなのでNosanaを信用できるか、サンドボックス化されているか次第」「コードを確認してから」 https://github.com/nosana-ci/nosana-cli 、「実績は1週間で0.7ドル」「借り手がいないと稼げない、io.netなど昔からある」「日本は電気代が高い」と慎重な意見が多め\n（ニコライ、邪悪なネコ、hexe）\n\n## Surf AIのNFT配布\n- Surf AIのNFTコレクションが公開、30日間請求できる https://x.com/SurfAIHQ/status/2110566373705597407 。「払った分くらいは戻ってきた」との報告\n（元魔剤bot）",
+  "title": "DEG鯖 🚀クリプト雑談"
+ },
+ {
   "source": "deg-ai",
   "date": "2026-10-16",
   "time": "18:00",

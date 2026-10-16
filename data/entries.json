@@ -7,6 +7,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-16",
+  "time": "18:00",
+  "summary_md": "## X・YouTubeの動画報酬プログラムと「ドパ活」\n- XのVideo Kickstart Bonus（招待制。縦型・3分未満の自作動画を30日のうち15日以上投稿すると再生数に関係なく報酬、登録締切10/30）の続報 https://x.com/polymarketjapan/status/2110890970640265537 / https://x.com/allegrajacchia/status/2110821237517959503\n- YouTubeにもショートファンドプログラム（11/1〜1/31、毎月16本公開で月4.5万円保証）が来ているとの共有 https://x.com/ronyoutube55/status/2110818412796715287\n- 「専用アカウントを作ってストック1000本を流す」「X Premium加入・フォロワー500・インプ数の条件が厳しい」「結局すでに影響力のある人向け」と議論。夕方には「みんなでRTし合うグループを作れば…」という冗談も\n（なべ、0x コテキン、なぞこい）\n\n## AI利用コストと無料モデル\n- AccentureがClaude利用の会社負担を月29ドルまでに制限、という報道 https://x.com/josephfcox/status/2110774735252435435 。「残りは案件・チーム側の負担になっただけで、AI締め付けという見出しは大げさ」との指摘\n- DeepSeek V4.1 FlashがOpenCodeで無料に https://x.com/opencode/status/2110635747648909472\n（hexe、0x コテキン、TheCat小屋ずん）\n\n## 便利なAIツールの共有\n- 音声合成モデル fishaudio/drama-3：声がきれいでCPU（i7-13700KF）だけでも動く（14秒の音声に約45秒） https://huggingface.co/fishaudio/drama-3\n- 喋るだけで漫画が作れる無料スキル（Claude Code・Codex向け、MITライセンス） https://x.com/_sagyoai/status/2110695188729659703\n- ショートで今流行っているのは「令和の中に昭和が1つだけ」「詰将棋」系、という話\n（YOU、gorillapower、BIGDANIEL）\n\n## 雑談・その他\n- 社内のAI部署への異動を目指してG検定を受けるという報告\n- X投稿がログインなしだと見えない問題には fixupx を使おう、という話。dotのVMからChatGPTへのIP BANは解除された\n（たこす、namazu）",
+  "title": "DEG鯖 📕AI総合"
+ },
+ {
   "date": "2026-10-16",
   "time": "15:00",
   "videos": [

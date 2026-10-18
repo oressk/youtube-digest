@@ -20,6 +20,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-18",
+  "time": "18:00",
+  "summary_md": "## YouTubeの新機能「ショートシリーズ」\n- YouTube Creatorsの「Made On YouTube 2026」で2026年末までの追加機能が紹介された https://youtu.be/IaszQaGHi5w?si=O8G8Q2g5VEYlcGc7\n- 中でもショートをシリーズ化してワンボタンで自分の他のショートに流入させる「shorts series」がショート勢に効きそうという話。今月後半から追加予定と動画内で言及\n- 収益化済みクリエイターから先行展開の可能性、月16本投稿で報酬が出る施策もあるらしく、YouTubeのショート需要の強さを感じるという声\n（NINO、連鎖阻止、Ghints）\n\n## 広告の話題（X・ChatGPT）\n- イーロン・マスクがXの「見苦しい」広告を排除し、うるさい・誇張広告の出稿者をBANする方針という速報 https://x.com/polymarketjapan/status/2111245808704315808\n- ドパ系の謎広告がもう見られなくなるのかという反応 https://fxtwitter.com/marina_elias404/status/2065767714220834845?s=20\n- OpenAIの広告案内ページ https://ads.openai.com/ja-JP が共有され、「応答に広告を混ぜ込まれるのは最悪」との声\n（Ghints、TheCat小屋ずん、邪悪なネコ）\n\n## AI作業用マシン・クラウドの選び方\n- ラズパイ5で4並列レンダリングしたら電源が落ち、AI作業用にMac miniのようなマシンが欲しいという相談\n- ラズパイ5を売ってGPUを買う、Colabの無料枠を使う、中古PC・整備済み品を探すなどの提案。常用ミニPC＋必要時だけ起動する自作GPU機の2台構成の例も\n- クラウドではGoogle CloudのVM無料枠（請求に注意）、Cloud RunのGPUのゼロスケール課金、vast.aiやAkamai Cloud、料金が明瞭なAWS Lightsail https://aws.amazon.com/jp/lightsail/pricing/ 、OCIの無料VMなどが挙がる。結局自宅GPUでいいかもという声も\n（連鎖阻止、ハム太郎、NINO）\n\n## OpenCodeのセキュリティ侵害\n- OpenCodeが大規模な蒸留攻撃に関連する侵害で、Consoleユーザーの1.4%（外部プロバイダー連携者の一部）に影響し、対象者にはメールで通知したと発表 https://x.com/opencode/status/2111519637049319818\n- APIキーを変えようとしたらログインできない、キーのローテーションが面倒という反応\n（邪悪なネコ、ハム太郎）\n\n## ChatGPTのGitHub連携の権限が強すぎる問題\n- ChatGPTでGitHubを連携していると、依頼しなくてもコードや履歴を勝手に見に行って問題を通知してくる。チャット履歴も参照しているようでデフォルト権限が強すぎ、プライベートリポジトリの情報もOpenAIに筒抜けでは、という懸念\n（YOU）\n\n## その他\n- 自動ズームを任せたら酔うほどズームを繰り返す動画ができた、コメントが荒れそうな動画が数万再生なのにコメント0、という制作の小話\n（Ghints、なぞこい）\n",
+  "title": "DEG鯖 📕AI総合チャット"
+ },
+ {
   "date": "2026-10-18",
   "time": "15:00",
   "videos": [

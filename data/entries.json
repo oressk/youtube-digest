@@ -1,5 +1,12 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-20",
+  "time": "06:00",
+  "summary_md": "## Gemini 4 Argonの利用枠が少なすぎる問題\n- 有料プランでもOpus 5.5の約1/17、GPT-6 Astraの約1/7しか使えないという投稿や、Proプランで約12分しか使えなかったという報告が共有され「少なっ」「ひどい」の反応\n- 画像生成が手放せないのでGemini移行を見送ってよかった、ただストレージ問題は解決せずNAS導入を検討中という声\n- リンク: [Aanya](https://x.com/xoaanya/status/2111944192088015051)、[Praney Behl](https://x.com/praneybehl/status/2112007649294446776)\n（0x コテキン、Ghints）\n\n## 新モデル情報（DeepSeek・MiniMax）\n- OpenCode Go/FreeでDeepSeek V4.1 Flashが1017版に更新（ユーザー側の変更不要）\n- MiniMax M3.1 FlashがOllamaに登場（米国ホスト・データ保持なし、コーディング/エージェント向け、画像理解、1Mコンテキスト）。公式Discordによると3日間だけ無料で、「週末にやってくれよ」の声\n- SpaceBunnyがイマイチだったのであまり期待していないという意見も\n- リンク: [OpenCode](https://x.com/opencode/status/2112220734768779441)、[ollama](https://x.com/ollama/status/2112249324398858505)\n（NINO、ハム太郎、TheCat小屋ずん）\n\n## エミュ鯖話の続きとYouTube運用\n- 昔のオンラインゲームのエミュ鯖はリークをベースに有志が開発・メンテし、アップデートも手動で追いかけていたという補足に「愛されてたんだなぁ（違法）」\n- ショートのエンゲージメントの高さに驚く声、週替わり調整後の数字に悩む投稿、登録者数が収益化ラインを突破し次は再生1000万回を目指すという報告\n（hexe、肉彦、連鎖阻止）\n",
+  "title": "DEG鯖 📕AI総合"
+ },
+ {
   "date": "2026-10-20",
   "time": "00:00",
   "videos": [

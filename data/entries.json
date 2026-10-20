@@ -41,6 +41,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-10-21",
+  "time": "00:00",
+  "summary_md": "## 市況まとめとPingCAP（TiDB Cloud）の情報流出疑惑\n- CB Terminalのまとめで、日経平均が1,000円超安、米国BTC現物ETFには5.27億ドルの流入。それでもBTCが上がらないという声\n- PingCAP（TiDB Cloud）から10.6TB・約490万ファイルが盗まれたとハッカーが主張。BitgetやPionexも関係し、18万超の組織に影響の可能性があると共有された\n- リンク: [CB Terminal](https://cb-terminal.dev/ja/topic/7723dc31-a581-4b50-bc5f-158d8d409447)、[Hackmanac](https://fixupx.com/H4ckmanac/status/2112471262710608254)\n（NINO、邪悪なネコ）\n\n## 「にゃー」（NEAR）やGRVTなど個別銘柄\n- 「にゃー」の値動きや運営対応への不満、4ドル・2.22ドルでの指値、6ドルや6.66ドルまでの放置など、ポジションの話が続いた\n- GRVTが流通量の約1%にあたる110万GRVTのバイバック＆バーンを毎月実施すると発表（Grvt 2.0への第一歩）\n- 「キャリアも資産もすべてをビットコインに賭ける」発言は言い過ぎでは、という話も\n- リンク: [hong.grvt](https://x.com/hong_grvt/status/2112530589530407085)\n（節子🤜、2b2c、gorillapower）\n\n## 23時台のクリプト急騰（イラン合意報道）\n- 23時ごろからBTC・HYPEなどが急騰（BTC 83k）し、「最強の10月」「戦士リバリバ」とチャンネルが沸いた\n- きっかけは、パキスタン軍司令官が示した案を米国が承認し、イランも予備的に合意したというイスラエルChannel 12の報道。ソースがイスラエルなので慎重に、という声も\n- 早めに利確した人、ヘッジを切って正解だった人、HYPEはエアドロ前にヘッジしておくという人など反応はさまざま\n- リンク: [FinancialJuice](https://x.com/financialjuice/status/2112547256352002184)\n（hattipottipatti、司/tsukasansan、魚くんさん）\n",
+  "title": "DEG鯖 🚀クリプト雑談"
+ },
+ {
   "source": "deg-ai",
   "date": "2026-10-21",
   "time": "00:00",

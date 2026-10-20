@@ -41,6 +41,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-20",
+  "time": "18:00",
+  "summary_md": "## スタートアップ枠の当落とGrok bot活用\n- Anthropicのスタートアップ枠（無料Premiumシート）に「ずるすぎる」という声の一方、ここで紹介した本人や他の人が落選していたという報告\n- Grok botにDiscordを繋ぎ、Xのリンクを fixupx.com に変換して送らせるとXのバックアップが捗るというTip\n- DeepSeekの劣化を疑う声、DPv4.1でUE製ゲームのカンストセーブデータを作らせた例も\n（0x コテキン、NINO、YOU）\n\n## AIエージェント環境の自前構築（Dot・Grok botの代替）\n- お金をかけたくないなら、VPSにCodex／Claude Code／OpenCodeを好きなインターフェースで触れるOSSを入れるのが一番という意見。OpenCodeならVPS代以外はかからない\n- OpenCodeをDiscordに統合する kimaki が紹介された（DiscordのBotがマネージドで動いて楽だが、メッセージがそのゲートウェイを通る点は注意）\n- メール接続1つならClaude Codeのprojectsでほぼ代替できるが、会社・個人・家族のメールをまとめるには不向きという指摘\n- リンク: [remorses/kimaki](https://github.com/remorses/kimaki)\n（ハム太郎、0x コテキン、namazu）\n\n## ローカルLLM用に278万円のGPU購入\n- 邪悪なネコ氏がBlackwell世代のGPUを購入（約278万円、「今年の利益が飛んだ」）。128GBメモリのPCに載せてUbuntuサーバー化し、GLM-5.3-Flashなどを回す予定。RTX5070Tiでは物足りなくなったとのこと\n- 「クラウドの方が安いのは分かっているがローカルLLMはロマン」、Macの方が良かったかもという迷いも。国際情勢悪化時やクラウドでは規約上できない生成に強いという声\n- AI専用チップへの移行や、Tenstorrentの買収観測にも話が及んだ\n（邪悪なネコ、ハム太郎、0x コテキン）\n\n## Codexの使用量リセットとプラン価格\n- OpenAIのTibo氏が再び使用量リセットを告知。「リセットよりPro 200ドルのトークン量を戻して」という不満も\n- Codexが「お金が動くから」とBotの起動すら拒否して時間を無駄にした体験談、Codex CLIからCodex Cloudを呼べればローカルビルド不要になるという要望\n- 5時間制限が外れるのはPro 500だけという価格設定に驚く声。画像生成専用の50ドル程度のプランが欲しい、Pro500なら複数アカウントのClaudeの方がいいという意見も\n- リンク: [Tibo](https://x.com/thsottiaux/status/2112432076767289678)、[ぬこぬこ](https://x.com/nukonuko/status/2112429878268297663)\n（ハム太郎、namazu、Ghints）\n\n## AI時代のゲーム量産とYouTube長尺論\n- 先行公開されたゲームのデモやPVを元に安く実装して売れば儲かるか、という問い。バズった直後に先回り実装したゲームが乱立した事例や、ハイパーカジュアル業界の流れにAIが入って複雑になっているという指摘\n- 「実装コストが下がりすぎてミームコインのような一瞬のトレンドの奪い合い」という見方\n- YouTubeはショートより長尺を作れという投稿が共有され、「長尺は資産」という声。DEG氏は「株が微妙なのでお金はAIに使った方がいい気がしてきた」\n- リンク: [Unity ハイパーカジュアル業界の記事](https://unity.com/ja/blog/the-hyper-casual-gaming-industry-past-present-and-future)、[社畜ジャパン](https://x.com/eE7eVkmvXT68017/status/2112435893932040663)\n（namazu、なぞこい、gorillapower）\n",
+  "title": "DEG鯖 📕ꓮꓲ総合"
+ },
+ {
   "source": "deg-stock",
   "date": "2026-10-20",
   "time": "15:00",

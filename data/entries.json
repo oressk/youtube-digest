@@ -1,5 +1,12 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-22",
+  "time": "06:00",
+  "summary_md": "### 1. 相次ぐ脆弱性とブラウザ更新の呼びかけ\n- node.jsが破られたらどうなるのかという不安に対し、「普通にアップデートするだけ」との声。LiteLLMやOracle Javaなど今日は脆弱性が多すぎるという嘆きも\n- 開発者以外もブラウザ更新を、証明書の件（eMudhra中間CAの侵害）のほうが深刻という指摘: https://emudhra.we-have-a-problem.com/\n- PHPの重大脆弱性について、パッチ公開から40分で30分の解説動画が出たことに驚く声: https://youtu.be/iLUnK6UEnjM\n（邪悪なネコ、TheCat小屋ずん前、NINO）\n\n### 2. AIツールの使い勝手\n- dotsのレスポンスが速くなった気がするという話\n- WindowsのChatGPTでAgentの実行場所（ネイティブとWSL）の切り替えが分かりにくく、片方だともう片方の作業ができないという不満\n（TheCat小屋ずん前、連鎖阻止）\n\n### 3. Claude Duetのリサーチプレビュー公開\n- Claudeが能動的なエージェントとして動き、離席中も作業を続け、代理で動く前に確認してくれる新アプリ: https://x.com/claudeai/status/2112984664256241837\n- 「ついにClaudeにも」という反応\n（wz、くーちん）\n",
+  "title": "DEG鯖 📕AI総合"
+ },
+ {
   "date": "2026-10-22",
   "time": "00:00",
   "videos": [

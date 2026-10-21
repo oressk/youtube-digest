@@ -1,5 +1,12 @@
 [
  {
+  "source": "deg-stock",
+  "date": "2026-10-22",
+  "time": "00:00",
+  "summary_md": "## PHPの重大脆弱性「php2shell」騒動（22:01〜23:46）\n- 10/21夜、PHPに重大な脆弱性2件（CVSS 9.2、認証なしで乗っ取り可能とされる）が公表され、高市首相のXでも「今夜中の対応」を呼びかけ（[高市早苗氏のXポスト](https://x.com/takaichi_sanae/status/2112890642590564386)）\n- 22:40頃（JST）にPHP開発チームがセキュリティリリースを公開（[PHP News Archive](https://www.php.net/archive/2026.php#2026-10-21-5)、解説は[Flatt Securityのブログ](https://blog.flatt.tech/entry/php2shell)）。パッチは通常どおりapt・yum等のパッケージで降りてくるとの指摘\n- 「会社は停止済み」「ECサイトはメンテ画面を出したところと開いたままのところがある」など現場の声。PHP 5.6など更新できない古いサイトは「ノーガード戦法」で危ない、DBと直結しているのでポイント・プリペイド残高の書き換えリスクもという見方\n- 煽り気味の投稿（[三日前氏](https://x.com/expokun/status/2112795132374495687?s=20)、[イッチ速報](https://x.com/icchi_sokuho/status/2112834355722928364?s=20)）には「盛りすぎ」との声。カビュウ（株管理アプリ）は緊急メンテ（[告知](https://fixupx.com/kaview_jp/status/2112858674947395814?s=46)）、Steam停止の報告も\n- 同日にNode.jsもセキュリティリリース（[Xトレンド](https://x.com/i/trending/2112887212669087987)）。PHPの欠陥発見にはOpenAIのモデルが関わったとの発表（[OpenAIのXポスト](https://x.com/OpenAI/status/2112907856018309586)）\n- 投資面では「Cloudflareが上げてきた（その後少し下げ）」「CloudflareはAI時代の覇権に」との声\n（namazu@打倒！井村ファンド、みんとん、wz）\n\n## SpaceX株の反発とJPモルガンの目標株価引き上げ（21:35〜23:30）\n- SpaceXが一時下げた後に「激リヴァ」したとの実況。明日のアンロック（売却制限解除）を気にする声も\n- JPモルガンがSpaceXの目標株価を240ドルから500ドルへ引き上げたという速報（[Polymarket Japanのポスト](https://x.com/polymarketjapan/status/2112912271739601127)）に「アナリスト適当すぎ」とのツッコミ\n（てつ、NINO、jaga）\n\n## マーケット・ニュース断片（21:08〜23:33）\n- ドル円157.5待ち、原油が下落後に荒れる展開。オマーン沖でタンカーが正体不明の飛翔体に被弾との速報（[BRICS Newsのポスト](https://x.com/BRICSinfo/status/2112889351646445634)）\n- デジタルアーツが不正アクセスでPTS急落、SOXは寄り付き強かったが失速、ダウ下落の声。Metaの決算またぎを検討する人も\n- OpenAIのモデルがGoogle Cloudに登場との速報。赤沢基金の残り4000億ドルとAIデータセンター用発電所の話から「将来のデジタル赤字を誘発しそう」との見方\n- イタリアでパスタ売り場が空になったという投稿（[Xポスト](https://x.com/Serkan_Bolat1/status/2112595531268522417)）\n（越前、楓、mmk7636）\n\n## その他の雑談\n- ヘイト判定チェッカーの続きのネタ、[柴田智也氏のポスト](https://x.com/tomoya_shibata/status/2112860205163937967?s=46)から「ロックマンエグゼの世界観に近づいてる」など\n（2b2c、nnf）\n",
+  "title": "DEG鯖 株式-為替-商品"
+ },
+ {
   "date": "2026-10-21",
   "time": "21:00",
   "videos": [

@@ -7,6 +7,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-21",
+  "time": "12:00",
+  "summary_md": "## Grok BotのiPhoneアクションボタン対応\n- Grok BotをiPhoneのアクションボタンに割り当てて話しかけられるようになったという投稿が共有され、「あのボタンに割り当てるのは確かに便利かも」という反応\n- リンク: [瀬戸弘司氏のポスト](https://fxtwitter.com/eguri89/status/2112392560857805196)\n（wz）\n\n## リアルタイム音声AIの比較とコスト\n- OpenAI gpt-realtime-2.1、ElevenLabs eleven_realtime_v1、xAI grok-voice-latestの3つを試し「どれも凄すぎる」との感想\n- ただし1分10円前後だと気軽には使えず、人間のオペレーターとそこまで差がないとも。話していない間は課金されないOpenAIが良心的、オープンモデルも探してみるとのこと\n- 質はElevenLabsが一番良い印象だが価格もかなり強気、長尺ならElevenLabsでやりたいという声\n- リンク: [ElevenLabs Eleven Realtime](https://x.com/ElevenLabs/status/2112550782063247521)\n（YOU、0x コテキン、なぞこい）\n\n## OpenAIのキャッシュ永久化\n- APIで12時間キャッシュが可能に、CodexとWorkのログインユーザーはキャッシュを永久保持し、古い会話の再開でも確実にキャッシュヒットするという発表が共有され「札束モードだな」\n- 「DeepResearchがはかどりそう」「どうやって永久にしているのか、HDDレベルまで退避しているのでは」「LLMの応答時間に隠れるからいけそう」など、仕組みへの推測が飛び交う\n- リンク: [Tibo氏のポスト](https://x.com/thsottiaux/status/2112712984644784534)\n（Ghints (ぎんつ)、ハイビームの妖精、ハム太郎）\n\n## Claude CodeでFANZAデータ一括取得\n- Claude CodeでFANZAのデータを一括取得したという報告に「FANZA流出だ」との反応\n- 売れ筋データをもとにAIにコピーさせてどこかで販売する流れか？という推測\n（ADAM、YOU）\n\n## Opusの品質低下？\n- ここ数日Opusがポンコツになっている気がする、何かあったのかという声\n- Claudeの記憶をいじって映画『メメント』のようなことをしてしまった、という冗談めいた投稿も\n（iamyamada、Ghints (ぎんつ)）\n",
+  "title": "DEG鯖 📕ꓮꓲ総合"
+ },
+ {
   "date": "2026-10-21",
   "time": "09:00",
   "videos": [

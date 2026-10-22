@@ -7,6 +7,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-22",
+  "time": "18:00",
+  "summary_md": "### 1. AIで作った12ページ漫画\n- Claude系エージェントに「テーマ」と「12ページ」だけ指定して作らせたAI漫画を共有。筋・人物・オチまでAI作で「普通に面白い」と好評: https://x.com/Claw_PiCar/status/2113090570789019727\n- 短編はAIで十分、長編は未挑戦。漫画の動画化は手間とコストが課題。自作dashboardやChatGPT/Grokのチャットから漫画・ショート動画・解説動画を依頼できる仕組みの紹介\n- 読者投票でストーリーが変わる投げ銭式の短周期漫画のアイデアも\n（YOU、hexe、NINO）\n\n### 2. 動画制作とエージェントの不調\n- YouTube 300K初タッチ、今週分は伸び悩みつつ収益化ペースぎりぎり維持という報告\n- Opus 5.5 maxが4時間かけて動画を完成できず、auto-compactに失敗して停止していたという話\n（連鎖阻止）\n\n### 3. Codexのリセット日\n- OpenAIのTiboが「今日はリセット日」と投稿、ローンチは明日（米太平洋時間10時前）とのこと: https://x.com/thsottiaux/status/2113162277688070445 / https://x.com/thsottiaux/status/2113162413008884099\n- 利用枠「80%の壁が遠い」という声も\n（2b2c、DEG）\n\n### 4. Claude Fableへの期待\n- Polymarket Japanで「Claude Fableの新モデルが今月中に公開される確率74%」: https://x.com/polymarketjapan/status/2113178544381784502\n- Opusの枠の多さに慣れていて使えないかも、3DCGが上手ければ使いたい、少し使ったら「味の濃さが違った」などの感想\n（NINO、てつ、hare）\n\n### 5. その他\n- 「罰金」と書き添えるとGemini 3 Flashがむしろルール違反するという研究（AIES 2026）: https://x.com/ai_database/status/2112823686894166510\n- UnitreeのH2-Xカンフー動画、人間vsロボットのシーンが怖いという反応: https://youtu.be/Y3zb4o47yqA\n（0x コテキン、NINO、Gula）\n",
+  "title": "DEG鯖 📕AI総合"
+ },
+ {
   "date": "2026-10-22",
   "time": "15:00",
   "videos": [

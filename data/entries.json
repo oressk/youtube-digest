@@ -34,6 +34,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-10-23",
+  "time": "00:00",
+  "summary_md": "### 1. BTCと市場全体の下落\n- 夕方から下げが続き「底はどこ」「まだ下がるか」と悲観や自虐ネタが続く。ZECロング、HYPEは72ドル付近まで待つなど個別の動きも\n- CB Terminalの6時間まとめ（日経平均が一時1,700円超安、BinanceはPHP脆弱性対応を完了）: https://cb-terminal.dev/ja/topic/16cef77c-6b5d-4b7a-a70f-f43376ee287d\n- 下落の原因を「PHPショック」やNode.jsの脆弱性に求める声。Node.jsの10月セキュリティリリースは実際に出ているとの指摘: https://nodejs.org/en/blog/vulnerability/october-2026-security-releases / https://x.com/Nishi8maru/status/2113226216723583072\n- 夜には「VIX以外ほぼ赤」「触ったらあかん相場」との声\n（節子、green、ない）\n\n### 2. 業界ニュース\n- a16zがファンド名から「仮想通貨」を外し「a16z Frontier」にリブランド。投資先（Coinbase、Uniswap、Solanaなど）の話題も\n- Visaが暗号資産カストディのFireblocksを約25億ドルで買収協議中との報道\n（越前、転送bot）\n\n### 3. CoinDCXからの資金引き揚げ警告\n- ZachXBTが「資産が大事ならCoinDCXから全額引き出せ」と警告、インド系取引所全般への不信も: https://fixupx.com/zachxbt/status/2113264816546873716\n- 「Triaもインド系では」という話題に\n（モノアイ、アルエ、gorillapower）\n",
+  "title": "DEG鯖 🚀クリプト雑談"
+ },
+ {
   "source": "deg-ai",
   "date": "2026-10-23",
   "time": "00:00",

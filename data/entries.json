@@ -7,6 +7,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-22",
+  "time": "12:00",
+  "summary_md": "### 1. Claude Duetへの期待とレート制限\n- 「Dots、Duet、次はDate？」という反応。Claudeのエージェントは嬉しいがレートリミットはCodeと共有だろうという見方\n- Claude Duetはまだ米国のPro/Max向けで、とりあえずウェイトリスト登録したという報告: https://claude.com/resources/articles/claude-duet\n（hexe、Ghints (ぎんつ)、NINO）\n\n### 2. Claudeのシート・利用枠の落とし穴\n- 利用枠を使い忘れていた、残り70%もあるという声。ボタンを押すと確認なしで即適用されるのは罠すぎるという不満\n- Premium seatを取ったのにStandard tierのまま使っていた、アカウントごとに手動でシート切り替えが必要という話。動画1.5本で枠が枯渇したという嘆きも\n（Ghints (ぎんつ)、くーちん、0x コテキン）\n\n### 3. 脆弱性ラッシュの続き\n- Apache Tomcatに最大深刻度CRITICALの脆弱性（v9/v10/v11に修正版）: https://x.com/madonomori/status/2113045188604284929 、「次はどれが死ぬんだ」という反応\n- Cloudflareのセキュリティ監査スキルが状況のせいでGitHub trending入り: https://github.com/cloudflare/security-audit-skill\n- 公開サイトに罠の.envを置いてAIボットを誘導する「攻性防壁」的な対策の話題: https://x.com/x64koichi/status/2113063467452444773\n（TheCat小屋ずん前、hexe、gorillapower）\n\n### 4. 画像生成・パーソナルエージェント比較\n- Krea 3 UltraがArenaの画像編集部門で上位入り、ウェイト公開を期待する声: https://x.com/arena/status/2112578867521319377\n- Peter Yangによる各パーソナルエージェントのレビュー（Grok Bot、Museなど）を共有: https://x.com/petergyang/status/2113042717270049028\n（TheCat小屋ずん前、0x コテキン）\n",
+  "title": "DEG鯖 📕AI総合"
+ },
+ {
   "date": "2026-10-22",
   "time": "09:00",
   "videos": [

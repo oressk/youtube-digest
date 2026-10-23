@@ -7,6 +7,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-23",
+  "time": "12:00",
+  "summary_md": "### 1. Codex・Claudeの利用枠\n- Codexは使い切れないほど余る一方、Claudeは足りずに×20プランにしたという対比\n- SemiAnalysisが「AnthropicがA/Bテストで利用上限を変えている（月間API換算は約20%減、5時間枠は約20%増）」と指摘: https://x.com/SemiAnalysis_/status/2113383965784502444\n- iPhone Duo向けの新しいClaude体験の紹介: https://x.com/robertjbye/status/2113414436648284432\n（hare、おぢおぢさん、0x コテキン）\n\n### 2. Museの日本上陸と招待コード\n- Museが日本で使えるようになったという告知: https://x.com/muse/status/2113404740931670283\n- 招待コードを入れると双方に10億トークン付与されるとして共有（https://muse.ai/ 、コード BUX06W）。多数が「もらえた」と報告、iOS版はログインが不安定でAndroid版なら通ったという声も\n- 日常使いや会話ではDotよりはるかに快適という評価。一方で「Metaに情報を渡すのが怖い」とGoogle連携をためらう声\n（gorillapower、DEG(admin)、Ghints (ぎんつ)）\n\n### 3. Museでインスタのリサーチ（成人向けアカウント検索の検証）\n- Instagramのリサーチやトレンド収集、マーケティングに使えそうという話から、成人向けアカウントを探せるかの検証に\n- 露骨な語は避けられるが「メンシプ誘導型」「成人向けパフォーマー」などの言い換えならFansly・Patreon誘導系の人も見つかる。顔写真の照合はできないと明言された\n- 同じプロンプトでGrokはそのまま提案してくれたという比較も\n（gorillapower、namazu）\n\n### 4. Geminiの「自信過剰」\n- AA-PersonalityBenchでGeminiが最も自信が強く、不確実性を認めにくいという結果: https://x.com/ArtificialAnlys/status/2113012534513188912\n- 「ハルシネーションがひどい」「調べなくても答えられるという傲慢さ」という感想\n（TheCat小屋ずん前、Ghints (ぎんつ)）\n",
+  "title": "DEG鯖 📕ꓮꓲ総合チャット"
+ },
+ {
   "date": "2026-10-23",
   "time": "09:00",
   "videos": [

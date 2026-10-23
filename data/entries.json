@@ -7,6 +7,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-ai",
+  "date": "2026-10-24",
+  "time": "00:00",
+  "summary_md": "### 1. 長尺動画への挑戦と収益化\n- ショートで400K再生に初到達という報告。長尺は再生数ではなく再生時間で評価されるので、評価軸が違うという指摘\n- 収益化（金の盾ネタまで）の祝福ムード。ショートに合わせて作った長尺が1000再生を超えたという報告も\n- ショートはエンゲージメントと維持率、長尺はサムネと維持率が大事。放置しても再生され続けるので長尺のほうが楽という見方\n- フルAIで伸びている事例の共有: https://x.com/syakkin3/status/2113459300245139690 、https://x.com/os_shim/status/2113252050146615448 、https://x.com/gibkun1/status/2113516501475135726 、https://youtube.com/shorts/_yBSkeCBtQY\n（なぞこい、なべ、0x コテキン）\n\n### 2. AI音声の作り方と品質チェック\n- ElevenLabsは言語ごとに声を作り、「〇〇語話者」と設定すると訛りがかなり減るという話\n- Gemini TTSで作り、Whisperと通常のGeminiに音声を渡して検査し、漏れだけ人がチェックする流れの紹介\n- Opus 5.5は訛りやイントネーションをある程度判定でき、イラストの頭身を揃える調整もできるという報告\n（0x コテキン、NINO、hare）\n\n### 3. Metaの「Muse」とIPの扱い\n- Alexandr Wangがナルトの世界を題材にしたMuseのデモを投稿: https://x.com/alexandr_wang/status/2113488822701089200\n- 他社のIPを尊重しない企業が客のデータをどう扱うか、と倫理観を疑う声\n（0x コテキン、邪悪なネコ）\n\n### 4. その他の共有\n- NVIDIA GTCで登場した小型ロボットの動画: https://youtu.be/Nt6d62vN7CU\n- Seedance 2.5とOpus 5.5で作ったプリビズ付きAI動画の例: https://x.com/ZetoGroovin/status/2113559786830942326\n（NINO、0x コテキン）\n",
+  "title": "DEG鯖 📕ꓮꓲ総合"
+ },
+ {
   "date": "2026-10-23",
   "time": "21:00",
   "videos": [

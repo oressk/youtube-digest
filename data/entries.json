@@ -7,6 +7,13 @@
   "title": "DEG鯖 株式-為替-商品"
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-10-24",
+  "time": "00:00",
+  "summary_md": "### 1. ビットコインのセキュリティとナラティブ\n- 「AIハッキングに強い」がビットコインの新しいナラティブになるかも、という話。コア部分は変わっていないが強度はそれほど変わらないのでは、という見方も\n- 楕円曲線暗号（ECDSA）が古典コンピューターで解かれる方が量子より破滅的、ビットコイナーが結束して対応できるか疑問という指摘\n- イーサリアムのGlamsterdamアップグレードのテストネット実施が延期: https://x.com/WuBlockchain/status/2113463732324180010\n- 伝書鳩でIPを運ぶRFC 1149のネタも: https://datatracker.ietf.org/doc/html/rfc1149\n（0x コテキン、邪悪なネコ、nnf）\n\n### 2. 市況とETF資金流出\n- CB Terminalの6時間まとめ：Arkadikoの資産流出でUSDAがペッグ喪失、米BTC現物ETFは6.36億ドル流出: https://cb-terminal.dev/ja/topic/12882f42-894b-4731-a63d-8c9ecb68a2b2\n- 10/22のETFフロー：BTC −6.36億ドル、ETH −1.11億ドル、SOL・HYPEも流出\n- 夜はBTCが横ばいから上下に激しく動き「キモい」の声。ナンピン報告や半導体の反発も話題に\n（邪悪なネコ、MAGIGAG、ない）\n\n### 3. 安全資産とは何か\n- 今いちばん安全な資産は何かという問いから、原油、美術品、GPUやメモリ、ビンテージ家具などの案が出る\n（邪悪なネコ、ハム太郎、isekaitaiko）\n\n### 4. その他の話題\n- メラニア夫人の停戦仲介ニュースとミームコインの値動き: https://x.com/eazyma/status/2113629346263150751\n- ZetaChainがハックされ被害87ドルというジョーク投稿: https://x.com/Defi_Warhol/status/2113319979689119903\n- papertrade.xyzのオンチェーン・ビルダーコードが公開: https://x.com/papertrade_xyz/status/2113645152585797958\n（78、MAGIGAG、だって人間だもの）\n",
+  "title": "DEG鯖 🚀クリプト雑談"
+ },
+ {
   "source": "deg-ai",
   "date": "2026-10-24",
   "time": "00:00",

@@ -23,6 +23,7 @@ h2.run,h3.run{font-size:1rem;color:#555;border-left:4px solid #c00;padding-left:
 .yt{display:inline-block;margin-top:6px;background:#c00;color:#fff;padding:5px 12px;border-radius:6px;text-decoration:none;font-size:.85rem}
 .deg h3.run{border-left-color:#5865f2}.deg .card h4,.deg .card h5{margin:10px 0 4px}.sum a{color:#5865f2}
 .deg h3.run.daily{border-left-color:#e6a100;color:#7a5600}.card.daily{border:2px solid #e6a100;background:#fffbea}.cc{font-size:.85rem;color:#888;font-weight:normal}.daycc{font-size:.8rem;color:#666;margin:0 0 8px}.daycc b{color:#5865f2}
+.stats table{border-collapse:collapse;margin:12px auto;font-size:.9rem;background:#fff}.stats td,.stats th{border:1px solid #ddd;padding:4px 12px;text-align:right}.stats svg{width:100%;height:auto;background:#fff;border-radius:10px}.lg span{margin-right:14px;font-size:.85rem}
 .empty{color:#888;text-align:center;padding:40px}
 @media(max-width:760px){.bar{flex-wrap:wrap}.pos{order:-1;margin-left:auto}.tabs{flex-basis:100%;order:1}
 .wrap{display:block;padding:0}
@@ -43,7 +44,7 @@ return esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\u0000(\d
 function md(t){let h='',ul=false;for(const l of String(t||'').split('\n')){const m=l.match(/^\s*[-*]\s+(.*)/),hd=l.match(/^(#{1,4})\s+(.*)/);
 if(m){if(!ul){h+='<ul>';ul=true}h+='<li>'+inl(m[1])+'</li>'}else{if(ul){h+='</ul>';ul=false}if(hd){const n=Math.min(hd[1].length+2,6);h+=`<h${n}>${inl(hd[2])}</h${n}>`}else if(l.trim())h+='<p>'+inl(l)+'</p>'}}return h+(ul?'</ul>':'')}
 const wd=d=>'日月火水木金土'[new Date(d+'T12:00:00Z').getUTCDay()];
-const SUBS=[['youtube','YouTube'],['deg-stock','DEG鯖 株'],['deg-crypto','DEG鯖 クリプト'],['deg-ai','DEG鯖 AI']];
+const SUBS=[['youtube','YouTube'],['deg-stock','DEG鯖 株'],['deg-crypto','DEG鯖 クリプト'],['deg-ai','DEG鯖 AI'],['deg-stats','DEG鯖 集計']];
 const srcOf=r=>{const s=r.source||'youtube';return s==='deg'?'deg-stock':s};
 const md2=d=>d.slice(5).replace('-','/');
 function ytRun(r){const g={};r.videos.forEach(v=>(g[v.channel]=g[v.channel]||[]).push(v));
@@ -62,8 +63,21 @@ side.querySelectorAll('a').forEach(a=>{const on=a.dataset.id===cur.id;a.classLis
 const a=side.querySelector('a.on');if(a&&a!==mark.prev){mark.prev=a;a.scrollIntoView({block:'nearest',inline:'nearest'})}
 pos.textContent=cur.dataset.label}
 window.addEventListener('scroll',()=>requestAnimationFrame(mark),{passive:true});window.addEventListener('resize',mark);
+const SER=[['stock','株','#c00'],['crypto','クリプト','#e6a100'],['ai','AI','#5865f2']];
+function renderStats(){main.innerHTML='<p class="empty">読み込み中…</p>';fetch('data/deg-daily-counts.json?'+Date.now()).then(r=>r.ok?r.json():{}).catch(()=>({})).then(h=>{
+const ds=Object.keys(h).filter(d=>d>='2026-10-25').sort();if(tab!=='deg-stats')return;
+if(!ds.length){main.innerHTML='<p class="empty">10/25分から記録します（毎日23:59の1日まとめで更新）</p>';return}
+const W=760,H=320,L=50,R=20,T=20,B=40,mx=Math.max(10,...ds.flatMap(d=>SER.map(s=>h[d][s[0]]||0)));
+const X=i=>ds.length<2?L+(W-L-R)/2:L+i*(W-L-R)/(ds.length-1),Y=v=>T+(H-T-B)*(1-v/mx);
+let g='';for(let k=0;k<=4;k++){const v=Math.round(mx*k/4);g+=`<line x1="${L}" x2="${W-R}" y1="${Y(v)}" y2="${Y(v)}" stroke="#eee"/><text x="${L-6}" y="${Y(v)+4}" font-size="11" text-anchor="end" fill="#888">${v}</text>`}
+ds.forEach((d,i)=>g+=`<text x="${X(i)}" y="${H-B+18}" font-size="11" text-anchor="middle" fill="#888">${md2(d)}</text>`);
+SER.forEach(([k,,c])=>{const pts=ds.map((d,i)=>h[d][k]==null?null:[X(i),Y(h[d][k])]).filter(Boolean);
+g+=`<polyline fill="none" stroke="${c}" stroke-width="2.5" points="${pts.map(p=>p.join(',')).join(' ')}"/>`+pts.map(p=>`<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="${c}"/>`).join('')});
+main.innerHTML=`<div class="stats"><h2 class="date">DEG鯖 1日のコメント数の推移</h2><div class="lg">${SER.map(([,l,c])=>`<span style="color:${c}">● ${l}</span>`).join('')}</div><svg viewBox="0 0 ${W} ${H}">${g}</svg>
+<table><tr><th>日付</th>${SER.map(s=>'<th>'+s[1]+'</th>').join('')}</tr>${ds.slice().reverse().map(d=>`<tr><td>${md2(d)}(${wd(d)})</td>${SER.map(s=>'<td>'+(h[d][s[0]]??'—')+'</td>').join('')}</tr>`).join('')}</table></div>`})}
 fetch('data/entries.json?'+Date.now()).then(r=>r.json()).then(runs=>{
 function render(){[...tabs.children].forEach(b=>b.classList.toggle('on',b.dataset.s===tab));
+if(tab==='deg-stats'){side.innerHTML='';heads=[];mark();renderStats();return}
 const label=SUBS.find(x=>x[0]===tab)[1];
 const rs=runs.filter(r=>srcOf(r)===tab).sort((a,b)=>{const ka=a.date+(a.daily?'~':a.time),kb=b.date+(b.daily?'~':b.time);return ka<kb?1:ka>kb?-1:0});
 rs.forEach(r=>r.id='r'+r.date.replace(/-/g,'')+'-'+r.time.replace(/\D/g,''));

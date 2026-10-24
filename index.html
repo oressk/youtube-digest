@@ -22,6 +22,7 @@ h2.run,h3.run{font-size:1rem;color:#555;border-left:4px solid #c00;padding-left:
 .dur{font-size:.8rem;color:#777}.sum ul{padding-left:1.2em;margin:8px 0}.sum p{margin:6px 0}
 .yt{display:inline-block;margin-top:6px;background:#c00;color:#fff;padding:5px 12px;border-radius:6px;text-decoration:none;font-size:.85rem}
 .deg h3.run{border-left-color:#5865f2}.deg .card h4,.deg .card h5{margin:10px 0 4px}.sum a{color:#5865f2}
+.deg h3.run.daily{border-left-color:#e6a100;color:#7a5600}.card.daily{border:2px solid #e6a100;background:#fffbea}.cc{font-size:.85rem;color:#888;font-weight:normal}.daycc{font-size:.8rem;color:#666;margin:0 0 8px}.daycc b{color:#5865f2}
 .empty{color:#888;text-align:center;padding:40px}
 @media(max-width:760px){.bar{flex-wrap:wrap}.pos{order:-1;margin-left:auto}.tabs{flex-basis:100%;order:1}
 .wrap{display:block;padding:0}
@@ -48,7 +49,11 @@ const md2=d=>d.slice(5).replace('-','/');
 function ytRun(r){const g={};r.videos.forEach(v=>(g[v.channel]=g[v.channel]||[]).push(v));
 return `<h3 class="run" id="${r.id}">${esc(r.time)} のチェック（${r.videos.length}本）</h3>`+Object.entries(g).map(([c,vs])=>vs.map(v=>
 `<div class="card"><div class="ch">${esc(c)}</div><h3><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a></h3><div class="dur">${esc(v.duration)}</div><div class="sum">${md(v.summary_md)}</div><a class="yt" href="${esc(v.url)}" target="_blank" rel="noopener">▶ YouTubeで見る</a></div>`).join('')).join('')}
-function degRun(r){return `<h3 class="run" id="${r.id}">${esc(r.time)}${r.title?' '+esc(r.title):' の要約'}</h3><div class="card"><div class="sum">${md(r.summary_md)}</div></div>`}
+const hasCC=r=>Number.isInteger(r.comment_count);
+function degRun(r){if(r.daily)return `<h3 class="run daily" id="${r.id}">📅 1日まとめ${hasCC(r)?' <span class="cc">・ 💬 1日 '+r.comment_count+'件</span>':''}${r.title?' '+esc(r.title):''}</h3><div class="card daily"><div class="sum">${md(r.summary_md)}</div></div>`;
+return `<h3 class="run" id="${r.id}">${esc(r.time)}${hasCC(r)?' <span class="cc">・ 💬 '+r.comment_count+'件</span>':''}${r.title?' '+esc(r.title):' の要約'}</h3><div class="card"><div class="sum">${md(r.summary_md)}</div></div>`}
+function dayCC(runs,d){const p=SUBS.slice(1).map(([k,l])=>{const x=runs.find(r=>srcOf(r)===k&&r.date===d&&r.daily&&hasCC(r));return x?`${l.replace('DEG鯖 ','')} <b>${x.comment_count}</b>件`:null});
+return p.some(Boolean)?`<div class="daycc">💬 1日のコメント数: ${p.map(x=>x||'—').join(' / ')}</div>`:''}
 const tabs=document.getElementById('tabs'),main=document.getElementById('main'),side=document.getElementById('side'),pos=document.getElementById('pos');
 let heads=[],tab=(location.hash.slice(1).split(':')[0])||'youtube';if(!SUBS.some(s=>s[0]===tab))tab='youtube';
 function mark(){if(!heads.length){pos.textContent='–';return}let cur=heads[0];const y=main.getBoundingClientRect?0:0;
@@ -60,14 +65,14 @@ window.addEventListener('scroll',()=>requestAnimationFrame(mark),{passive:true})
 fetch('data/entries.json?'+Date.now()).then(r=>r.json()).then(runs=>{
 function render(){[...tabs.children].forEach(b=>b.classList.toggle('on',b.dataset.s===tab));
 const label=SUBS.find(x=>x[0]===tab)[1];
-const rs=runs.filter(r=>srcOf(r)===tab).sort((a,b)=>(b.date+b.time).localeCompare(a.date+a.time));
+const rs=runs.filter(r=>srcOf(r)===tab).sort((a,b)=>{const ka=a.date+(a.daily?'~':a.time),kb=b.date+(b.daily?'~':b.time);return ka<kb?1:ka>kb?-1:0});
 rs.forEach(r=>r.id='r'+r.date.replace(/-/g,'')+'-'+r.time.replace(/\D/g,''));
 const by={};rs.forEach(r=>(by[r.date]=by[r.date]||[]).push(r));const dates=Object.keys(by).sort().reverse();
 if(!rs.length){main.innerHTML=`<p class="empty">直近5日間の${label}はありません</p>`;side.innerHTML='';heads=[];mark();return}
-main.innerHTML=(tab==='youtube'?'':'<div class="deg">')+dates.map(d=>`<h2 class="date">${md2(d)}(${wd(d)})</h2>`+by[d].map(tab==='youtube'?ytRun:degRun).join('')).join('')+(tab==='youtube'?'':'</div>');
-side.innerHTML=dates.map(d=>`<div class="d">${md2(d)}(${wd(d)})</div>`+by[d].map(r=>`<a href="#${tab}:${r.id}" data-id="${r.id}">${esc(r.time)}${tab==='youtube'?'（'+r.videos.length+'本）':''}</a>`).join('')).join('');
+main.innerHTML=(tab==='youtube'?'':'<div class="deg">')+dates.map(d=>`<h2 class="date">${md2(d)}(${wd(d)})</h2>`+(tab==='youtube'?'':dayCC(runs,d))+by[d].map(tab==='youtube'?ytRun:degRun).join('')).join('')+(tab==='youtube'?'':'</div>');
+side.innerHTML=dates.map(d=>`<div class="d">${md2(d)}(${wd(d)})</div>`+by[d].map(r=>`<a href="#${tab}:${r.id}" data-id="${r.id}">${r.daily?'📅 まとめ':esc(r.time)}${tab==='youtube'?'（'+r.videos.length+'本）':''}</a>`).join('')).join('');
 side.querySelectorAll('a').forEach(a=>a.onclick=e=>{e.preventDefault();document.getElementById(a.dataset.id).scrollIntoView({behavior:'smooth'});history.replaceState(null,'','#'+tab+':'+a.dataset.id)});
-heads=[...main.querySelectorAll('h3.run')];heads.forEach(h=>{const r=rs.find(x=>x.id===h.id);h.dataset.label=md2(r.date)+' '+r.time});
+heads=[...main.querySelectorAll('h3.run')];heads.forEach(h=>{const r=rs.find(x=>x.id===h.id);h.dataset.label=md2(r.date)+' '+(r.daily?'1日まとめ':r.time)});
 mark.prev=null;mark()}
 SUBS.forEach(([k,l])=>{const b=document.createElement('button');b.dataset.s=k;b.textContent=l;b.onclick=()=>{tab=k;history.replaceState(null,'','#'+k);window.scrollTo(0,0);render()};tabs.appendChild(b)});
 render();const id=location.hash.split(':')[1];if(id&&document.getElementById(id))document.getElementById(id).scrollIntoView()

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-26",
+  "time": "00:10",
+  "summary_md": "### Muse（Meta系AI）の招待リンクと「緩さ」\n- WIRED.jp「メタはAI『Muse』に性的な会話を許可」を共有 https://x.com/wired_jp/status/2114268140708438065\n- 招待リンクが30人分の上限に達し、新しいコードが共有された（https://muse.ai/join）\n- 「制限がかなり緩い」との声。ただし会話は可で、画像・動画の露骨な表現は生成側でブロックされるとの検証も（gorillapower、おぢおぢさん、iamyamada）\n\n### 「もしも◯◯」系スロップ動画とHiggsfield\n- 同じ「もしも5秒間だけ絶対零度に…」系ショートがチャンネル名を変えて大量に出回っている話題 https://youtube.com/shorts/_yBSkeCBtQY\n- Higgsfieldは「ツルハシ屋」、Xのインフルエンサーは宣伝役で、有料パートナーシップ表示も見えるとの指摘 https://x.com/higgsfield_ai/status/2113178826100605262 / https://x.com/Mho_23/status/2113372670364422229\n- 「変な動画に影響された」と法廷で後悔、というTBSの記事も共有 https://newsdig.tbs.co.jp/articles/-/3032807\n- TikTokやYouTubeショートで「AI」という言葉を入れると伸びにくいらしいとの報告 https://x.com/akakiseisai3/status/2114373901975535805（0x コテキン、ziban、Donald_Fujita）\n\n### AI動画チャンネル運営の悩み\n- 長尺動画に人が流れ始めた、エンゲージメント80超えでも再生数が伸びない、趣味に寄ると伸びない、一発で収益化しても登録者が伸びにくい、などの実感が共有された\n- Mrs. GREEN APPLE「シンデレラ」のMVが生成AIでディズニー風に寄せている、との指摘 https://x.com/AORINGOHUZIN/status/2113646659339268113（koro、ずがーん、YOU）\n\n### ターミナルでチャート表示\n- ブラウザが重いのでターミナルだけでローソク足チャートを確認できるツールを作った報告。描画には plotext を採用 https://github.com/piccolomo/plotext（ハム太郎、0x コテキン）\n\n### その他\n- Googleが学生向けAI Proアップグレードを大量キャンセルし返金しているとの情報 https://x.com/StatsWire/status/2114017054411866507（0x コテキン）\n\n※コメント数はスクロールで数えた（ボット投稿なし、スレッド返信なし）。\n",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 59
+ },
+ {
   "source": "deg-stock",
   "date": "2026-10-26",
   "time": "00:00",

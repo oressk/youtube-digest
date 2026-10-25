@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-25",
+  "time": "12:10",
+  "summary_md": "### Hugging Faceから無検閲モデルが消えている件\n- Nova (@NovaXCode) の投稿を共有：「Kimi-K2.7-Code-abliterated」「MiMo-V2.6-Pro」「penclaw-GLM-5.3」などがダウンロード途中で404に。「オープンウェイトはセルフホストしてこそ」 https://x.com/NovaXCode/status/2113543585421468155\n- 「地下でやれってことか」「閉じたコミュニティが加速しそう」「海賊版のような言葉が生まれそう」との反応\n- 非公式配布だとマルウェア等が仕込まれやすく、安全な入手手段がなくなる懸念。旧来のアップローダー（uploaded.to、mediafire、megauploadなど）を挙げるネタも\n- 量子化すると悪意ある挙動に変わるモデルなど、LoRAトリガーを超えたオープンモデルへのバックドア研究の紹介 https://x.com/AM09_21/status/2113842579817332762\n\n（0x コテキン、TheCat小屋ずん前、邪悪なネコ）\n\n### エージェントでの生成ループ実験\n- codex exec と MiniMax H3 の画像・動画生成ループに品質指示を付け、ほぼ予算なしで Opus5.5 に任せたら試行錯誤を繰り返しているという報告\n- Muse wonder が opencode に来ないかという話も\n\n（NINO、may93182）\n",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 13
+ },
+ {
   "source": "deg-stock",
   "date": "2026-10-25",
   "time": "12:00",

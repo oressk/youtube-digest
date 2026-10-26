@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-stock",
+  "date": "2026-10-26",
+  "time": "12:00",
+  "summary_md": "### ブラジル決選投票ショックで朝のギャップダウン\n- ルーラ勝利予想（DataFolha）でブラジルETF（EWZ）が10%超急落、日経もギャップダウンで寄り付き。ドル円157、日経は200日線付近が支持線との見方\n- SKハイニックスのキオクシア株売却益による特別配当報道→10:01に「未決定」と報道、キオクシアは大きく売られる\n- 1325、商社の底堅さ、イビデンのリバウンド候補なども話題\n- 参考: [Polymarket ブラジル大統領選](https://polymarket.com/ja/event/brazil-presidential-election)、[Jukan](https://x.com/jukan05/status/2114482386914415096)\n（DEG、mmk7636、jinSunthai）\n\n### GMO不正アクセス問題\n- FXの不正取引に端を発した問題で管理の甘さを指摘。損害はGMOインターネット（4784）からグループ（9449）に波及との見方、政府も閣議で言及\n- 値下がりランキングにGMO関連が並び、トップの「ポエム」は不評\n- 参考: [塩漬けマン](https://x.com/shiozukemann/status/2114165352125038820)、[値下がりランキング](https://fixupx.com/news9111/status/2114543345938895050)\n（nnf、mmk7636、hexe）\n\n### AWS売り切れ→データセンター・ネオクラウド\n- アマゾンCEO「AWSの容量は2027年までほぼ売り切れ」を受け、さくらインターネット（今週決算）・IIJなど連想買いを議論。ハイパースケーラーがDC保有企業を高値で買収・提携する可能性も\n- 一方で財務の弱いネオクラウド（「グッピー」）は淘汰されうる、GPU・メモリ価格が先に下がり、その後もAI相場は続くとの見立て。イーロンのツイートはポジトークとの声\n- 参考: [Reuters](https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/)、[AI DC企業への債券市場の警戒](https://x.com/money_tweet1118/status/2114472124912222399)\n（DEG、ハム太郎、namazu）\n\n### オルカン・新興国ETF・指数投資論争\n- 弱いオルカン、S&P500・日経との分散、新興国ETF（台湾・韓国・中国・インドで半導体中心）は「ゴミ」との評価。金に負けているとの指摘も\n- kabu1000を引き合いに、上昇相場の恩恵と銘柄選択力の切り分け、ベンチマーク論（TOPIXか日経か）\n- 参考: [日経記事](https://www.nikkei.com/article/DGXZQOUB206HY0Q6A420C2000000/)、[株まとめ](https://kabumatome.doorblog.jp/archives/66017316.html)\n（越前、mmk7636、namazu）\n\n### その他\n- アップルのタッチスクリーンMacBook Pro（10/28発表）報道、SBGのOpenAI持分で修正PBR0.47、ファナック上昇、豊和工業ストップ高、金は4000ドルを割らないとの見方\n（2b2c、hexe、jugulis）\n\n※対象 07:00〜12:04（03:49〜07:00は投稿なし）。コメント数はスクロールでの目視カウント（約347件、ボット1件除外）。件数が多いため主要な話題に絞って要約。",
+  "title": "DEG鯖 株式-為替-商品",
+  "comment_count": 347
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-10-26",
   "time": "08:20",

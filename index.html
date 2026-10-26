@@ -84,7 +84,7 @@ rs.forEach(r=>r.id='r'+r.date.replace(/-/g,'')+'-'+r.time.replace(/\D/g,''));
 const by={};rs.forEach(r=>(by[r.date]=by[r.date]||[]).push(r));const dates=Object.keys(by).sort().reverse();
 if(!rs.length){main.innerHTML=`<p class="empty">直近5日間の${label}はありません</p>`;side.innerHTML='';heads=[];mark();return}
 main.innerHTML=(tab==='youtube'?'':'<div class="deg">')+dates.map(d=>`<h2 class="date">${md2(d)}(${wd(d)})</h2>`+(tab==='youtube'?'':dayCC(runs,d))+by[d].map(tab==='youtube'?ytRun:degRun).join('')).join('')+(tab==='youtube'?'':'</div>');
-side.innerHTML=dates.map(d=>`<div class="d">${md2(d)}(${wd(d)})</div>`+by[d].map(r=>`<a href="#${tab}:${r.id}" data-id="${r.id}">${r.daily?'📅 まとめ':esc(r.time)}${tab==='youtube'?'（'+r.videos.length+'本）':''}</a>`).join('')).join('');
+side.innerHTML=dates.map(d=>`<div class="d">${md2(d)}(${wd(d)})</div>`+by[d].map(r=>`<a href="#${tab}:${r.id}" data-id="${r.id}">${r.daily?'📅 まとめ':esc(r.time)}${tab==='youtube'?'（'+r.videos.length+'本）':(hasCC(r)?'（'+r.comment_count+'件）':'')}</a>`).join('')).join('');
 side.querySelectorAll('a').forEach(a=>a.onclick=e=>{e.preventDefault();document.getElementById(a.dataset.id).scrollIntoView({behavior:'smooth'});history.replaceState(null,'','#'+tab+':'+a.dataset.id)});
 heads=[...main.querySelectorAll('h3.run')];heads.forEach(h=>{const r=rs.find(x=>x.id===h.id);h.dataset.label=md2(r.date)+' '+(r.daily?'1日まとめ':r.time)});
 mark.prev=null;mark()}

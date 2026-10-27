@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-27",
+  "time": "18:10",
+  "summary_md": "### YouTube収益化・ショート動画戦略の議論\n- DEG鯖の収益化が通ったとの報告をきっかけに、ショートで登録者を集めて長尺で稼ぐか、案件・Shop・アフィリンクで換金するかを議論\n- 2027年2月以降はショートが機能しなくなる見込みのため、ショートで再生を取る力をつけるか長尺のみに絞るべきとの意見。再生数そのものより換金性が大事という指摘も\n- エンゲージメント300万程度でアフィリンクやメンバーシップが開放され、意外と売れるとの体験談\n- Opus 5.5で動画制作のハードルが下がり、この流れを作ったのはまめだいさんの功績という声も（なべ、Z、なぞこい）\n\n### ハーネス／ローカルLLMの話題\n- GLM5.3flash＋dshの代わりになる良いハーネスを探す声。hermes＋strata qwen3.8FN、gooseが気になるなどの情報交換\n- 環境整備に時間を食いがちという悩みや、ZCodeの「GLM-5.3-Flash 毎日3億トークン無料」の告知も共有 https://x.com/zcode_ai/status/2114762939421139426（hexe、saku、邪悪なネコ）\n\n### AnthropicのS-1（上場申請書類）\n- SEC提出のAnthropic S-1が共有され、「最初の方は読み物としても面白い」「倫理・危害のリスク記載もある」との感想 https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm（hexe、てつ）\n\n### AIのダンス生成・3Dモデル・各種ツール\n- 純コードで音に合わせて踊る二次元少女を描かせた投稿 https://fixupx.com/haileyailabs/status/2114620499708064054 、ダンエボ譜面生成への期待（NINO）\n- Kimi K3.1 Proで3Dモデルを作れたが裏でTripo APIを使っていたという話 https://x.com/kazuo_ai001/status/2114939206242091235 、Terraの方がSolよりトークン消費が多いという話題（ハム太郎、TheCat小屋ずん前小屋）\n- Grok BotのX連携が無料化 https://x.com/alexmichael/status/2114894612406100333 、Museがリンク直読み可能・アバターでロールプレイもできそう、芸能人のインスタ特定ツールの話題（wz、juiCYMod、DEG）\n\n---\n※コメント数はスクロールで目視カウント（約80件、ボット0件、スレッド返信なし）。\n",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 80
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-10-27",
   "time": "16:20",

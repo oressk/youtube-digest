@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-29",
+  "time": "00:10",
+  "summary_md": "**対象期間:** 10/27 18:02〜10/29 00:22（約30時間分、ログアウトで見送った回の分も含む）\n\n### 1. YouTube収益化・ショート動画論（最大の話題）\n- なぞこいさんが22日でYouTube収益化を達成し、祝福と驚きが続いた\n- 思考実験・what if系の動画は同じ内容でも再生数が20万と1000に分かれる点を、リサーチ材料にする話\n- 「非公開の予約投稿は損」というXの投稿に、なぞこいさんが「解析は非公開でも始まるのでウソ」と反論\n- 2027年2月以降、90日で1000万再生に届かないチャンネルのショートが収益対象外になるという話\n- DEGさんが「ショート動画プロジェクトを閉鎖」と投稿（10/28 15:37）。合成音声や高齢者向けチャンネルの話も\n- リンク: [なぞこいチャンネル](https://www.youtube.com/@nazotofficial) / [X投稿1](https://x.com/56sk_r/status/2114884533913047509) / [X投稿2](https://x.com/neat40dai/status/2114904144188518701) / [X投稿3](https://x.com/richoffyoutube/status/2114803962075389995) / [X投稿4](https://x.com/ppasilofficial/status/2115055135147900977) / [産経記事](https://www.sankei.com/article/20260723-7DG47TKWBJJA3MLZ4GACOUN3MU/)\n（なぞこい、なべ、0x コテキン）\n\n### 2. GeForceの演算制限を外す「アンロック」ツール\n- 4090/3090/3080の制限解除が話題。3080で解除すると113T、RTX A5000相当との書き込み\n- NVIDIA自身が仕様で演算を意図的に抑えているという解説\n（hare、ziban、くーちん）\n\n### 3. リモート操作とセキュリティ\n- 会社でリモートセッションが切れた件から、Chromeリモートデスクトップ、Codex DesktopのQR連携、Tailscale＋SecureShellFishなどの比較\n- Tailscaleは承認制とMFAでほぼ安全、SSHはデフォルトOFF。「sudoは渡さない」、cloudflare meshを勧める声も\n（なべ、Ghints、0x コテキン）\n\n### 4. Anthropic S-1・各種AIモデル・Codexのリセット\n- AnthropicのS-1（SEC提出書類）が共有され、「読み物としても面白い」との評価\n- Kimi K3.1 Proの3D生成は裏でTripo APIを使っていた話、GPT 6.1のTerraとSolのトークン消費比較\n- Cognitionの隠しモデル「Obsidian 3」がOpus 5.5超え、正体はFable 5.5かとの推測。「Opus 5.5 xHighがコスパ良さそう」との声も\n- リンク: [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) / [Cognition](https://x.com/cognition/status/2115132491107651933/photo/1) / [X投稿](https://x.com/thsottiaux/status/2115273064481218829) / [X投稿](https://x.com/tensorson/status/2115189508870385964)\n（hexe、ハム太郎、Ghints）\n\n### 5. AIゲーム・エージェント\n- Hearthstoneで「AIが作ったAI」が高勝率になった件、Battlegroundsのベンチマーク AutoTavern の共有\n- リンク: [X投稿](https://x.com/ai_database/status/2114944785048117698) / [AutoTavern](https://github.com/MCG-NJU/AutoTavern)\n（hexe、iamyamada）\n\n### 6. AI動画・漫画の雑談\n- Museのダンス動画の元ネタ探し、AIマンガの評価、ノイズリングやハンコ擬音の話\n（NINO、hare、Albert）\n\n---\n※件数はスクロールでの目視とDiscord検索の件数表示を併用した概数（10/27分 約58・10/28分 約166・10/29分 2）。ボット0件、スレッド返信なし。10/27 23:30〜10/28 00:17は一部しか読めていません。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 226
+ },
+ {
   "source": "deg-stock",
   "date": "2026-10-29",
   "time": "00:00",

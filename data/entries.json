@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-10-29",
+  "time": "00:20",
+  "summary_md": "**対象: 10/27 16:28〜10/29 00:21（約379件、ボット19件除外）**\n\n### BTC・HYPEの値動き（最大の話題）\n- 10/27夜は80k割れ、「80kが気にされなくなった」との声。ショート溜まり待ち\n- 10/28朝〜昼に81〜82kへ。17時台の81k超えで「祭り再開」、HYPE 80→100期待\n- 21:15ごろ急落、「なんでクリプトだけ弱いの」。夜は80K死守とFOMC待ち、10/29 0:21時点で「落ちなかった」\n- 共有: [Lighter](https://x.com/Lighter_xyz/status/2114729892546052605)、[Cathie WoodがETH 18万ドル言及](https://x.com/cryptogoos/status/2114748892445385137)\n（green、節子🤜、gorillapower）\n\n### Extended XTEN上場の余波・次のエアドロ候補\n- HyperliquidのプレマーケットでXTEN取引開始、1pt≒4.29 XTENの試算。夜は出来高が少ないとの声\n- 「Extendedの次はVariationalがネクストハイリキ」\n- Umia（SLOPが11/5にRobinhood Chainで開始）、UpbitのNIL KRW上場、edgeXは未上場\n- 共有: [Umia](https://x.com/umia_finance/status/2114764262619120103)\n（節子🤜、DEG、Maisen）\n\n### Google Authenticatorの同期とセキュリティ（10/28夕方）\n- Google同期の是非、同期通信がE2E暗号化されていないリスク\n- 対策案: MS AuthenticatorのiCloud同期、Googleアカウントをパスキー＋2FAに、2FA専用アカウント、シークレット文字列の別バックアップ\n- 共有: [発端の投稿](https://x.com/hanchooo456/status/2115219503818932445)、[GIGAZINE記事](https://gigazine.net/news/20230427-google-authenticator-isnt-e2e-encrypted/)\n（邪悪なネコ、I'm Momi、ハム太郎）\n\n### Bithumbへのサイバー攻撃・eCashハードフォーク\n- 韓国Bithumbが外部攻撃を受け従業員情報流出（[WuBlockchain](https://x.com/WuBlockchain/status/2115256600370024657)）\n- 10/30予定のBitcoinのeCash（ECX）ハードフォーク付与の話（[ecash.com](https://ecash.com/)）\n（モノアイ、しもやけ猫）\n\n### 地政学・マクロ\n- イスラエル総選挙（結果は11/4ごろ）、「ネタニヤフ負けたら相場上がるかも」\n- 転送ニュース: CFTCのPolymarket調査、トランプ氏の対イラン攻撃報道、SKハイニックス好決算、Anthropic IPO関連\n- 「戦争始まるまでは祭り」「中間選挙まで今の相場が続くか」\n（邪悪なネコ、ジンジャー、78）\n\n※ログアウトで10/28の回を見送ったため約32時間分をまとめて掲載。件数はスクロールでの目視カウント（±数件）、スレッド返信は未確認。\n",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 379
+ },
+ {
   "source": "deg-ai",
   "date": "2026-10-29",
   "time": "00:10",

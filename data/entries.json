@@ -33,6 +33,15 @@
   "daily": true
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-10-28",
+  "time": "23:59",
+  "summary_md": "### BTC・HYPEの値動き（最大の話題）\n- 朝〜昼にBTCが81〜82kへ。17時台の81k超えで「祭り再開」、HYPE 80→100への期待\n- 21:15ごろ急落して「なんでクリプトだけ弱いの」。夜は80k死守とFOMC待ち\n（green、節子🤜、gorillapower）\n\n### Extended XTENの余波・次のエアドロ候補\n- HyperliquidのXTENプレマーケットの話題が続き、「Extendedの次はVariationalがネクストハイリキ」との声\n- Umia（SLOPのRobinhood Chain開始）、UpbitのNIL KRW上場など\n（節子🤜、DEG、Maisen）\n\n### Google Authenticatorの同期とセキュリティ（夕方）\n- Google同期がE2E暗号化されていないリスクから、MS AuthenticatorのiCloud同期、パスキー＋2FA、シークレットの別バックアップなど対策案を議論\n（邪悪なネコ、I'm Momi、ハム太郎）\n\n### Bithumbへのサイバー攻撃・地政学\n- 韓国Bithumbが外部攻撃で従業員情報流出、10/30予定のeCashハードフォーク付与の話\n- イスラエル総選挙、CFTCのPolymarket調査、対イラン攻撃報道に「戦争始まるまでは祭り」\n（モノアイ、邪悪なネコ、ジンジャー）\n\n---\n※10/28はログアウトで定時の回が見送られ、10/29 0:20の回（10/27 16:28〜10/29 0:21）の要約のうち10/28分から作成。件数は目視カウントの概数、ボット除外済み。\n",
+  "title": "1日まとめ",
+  "comment_count": 246,
+  "daily": true
+ },
+ {
   "date": "2026-10-28",
   "time": "19:00",
   "videos": [

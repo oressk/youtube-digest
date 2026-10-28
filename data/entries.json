@@ -197,6 +197,15 @@
   "daily": true
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-10-27",
+  "time": "23:59",
+  "summary_md": "**BTC 80k前後のもみ合いとExtended（XTEN）のプレマーケット上場が1日の中心。** 夜には80k割れも。\n\n## BTC 80k攻防（終日）\n- 朝は「80k辺りが底であってほしい」「All time unko」と愚痴、日中は80k前後でもみ合い、8万ドル未満の滞在時間が伸びたとの指摘\n- 夜は80k割れで「80kが気にされなくなった」、ショート溜まり待ち\n- 深夜はHYPEの粘りとKraken親会社のHIP-3参入表明が共有され、HYPEだけ強い理由に\n（節子🤜、green、肉彦）\n\n## Extended XTENのプレマーケット上場\n- LighterとHyperliquidで$XTENのプレマーケット開始、1.2ドル超で推移。1pt≒4.29 XTENの試算\n- 「上場戦はフリーマネー」「ネクストハイリキはVariational」の声\n（DEG、花咲天使、まーちゃん）\n\n## ETH・ETF・ステーブルコイン\n- Cathie WoodのETH 2030年18万ドル予想が「イーサ4枚で億」とネタに。10/26のETFフロー（BTC流入・ETH流出）、JPYC社長の「伸びていない」発言\n（Gula、ziban、邪悪なネコ）\n\n## その他\n- pump dumpで100万円失った報告、UmiaのSLOPがRobinhood Chainで11/5開始、Hyperliquid ETFの話\n（フィン、Usagi-battery、gorillapower）\n\n---\n※1日のコメント数は counts.jsonl の合計（各回の目視カウント＋10/29 0時台の回の10/27分132件）。ボット除外。\n",
+  "title": "1日まとめ",
+  "comment_count": 259,
+  "daily": true
+ },
+ {
   "date": "2026-10-27",
   "time": "19:00",
   "videos": [

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-29",
+  "time": "12:10",
+  "summary_md": "**対象期間**: 10/29 00:26〜12:01（約211件、ボット0件、スレッド返信なし）\n\n### Gemini 4 Carbon 発表\n- GoogleがGemini 4 Carbonを発表。Artificial Analysis Intelligence Index v5で1位（59）、コーディングはOpus 5.5に次ぐ2位\n- 現状はサイバー防御者向け先行提供で一般公開はまだ。「誰も使えないのに世界一」とのネタも。ベンチ方式への疑問も出た\n- [Logan Kilpatrick](https://x.com/OfficialLoganK/status/2115489576622174620) / [Artificial Analysis](https://x.com/ArtificialAnlys/status/2115494553780367384) / [モデルページ](https://artificialanalysis.ai/models/gemini-4-carbon) / [Google DeepMind](https://x.com/GoogleDeepMind/status/2115489356437651654)\n（Ghints（ぎんつ）、肉彦、namazu）\n\n### モデルのコスパとGPT／Claudeの使い勝手\n- Cognitionの価格対性能比較：知能はOpus 5.5とGPT-6 Astraが首位、費用効率はGPT-6.1 Sol。「Opus 5.5 xHighがコスパ良さそう」\n- 総括はxHigh、定型作業はHaikuで十分という意見\n- GPTは指示を無視しがち・早期終了する→停止条件の定義、AGENTS.md、/goalで対処。「Claudeは素直、GPTは使いこなしが要る」\n- dotsでChatGPT作業チャットのリトライ監視をする話も\n- [Cognitionの比較](https://x.com/cognition/status/2115132491107651933/photo/1)\n（Ghints（ぎんつ）、hexe、だって人間だもの）\n\n### ローカルLLMのセキュリティとハードウェア\n- ローカルLLMに秘密鍵を扱わせる運用（シードではなく秘密鍵、署名は自サーバ、ウォレットをワークスペースごとに分ける）\n- Qwen3.8-Flash-Nextが指示外の調査・送信を試みたという記事、重みに仕込まれた悪意の懸念\n- 1,980万円のNVIDIA DGX Station（748GB）やDGX Spark、512GBメモリの話題。「ローカルでOpus 5.5水準は1年後」\n- [GIGAZINE記事](https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/) / [悪意ある重みの投稿](https://x.com/pentacoxian_dev/status/2107737308191773108) / [DGX Station](https://x.com/ap_shizuoka/status/2115024838880551146)\n（邪悪なネコ、hexe、だって人間だもの）\n\n### 利用枠の縮小とChatGPTのChat/Work統合\n- Codexの枠が30日から半分に、dotsも30日から枠消費開始。Claude Codeが追随して従量課金化する懸念\n- ChatGPTのChatとWork統合で枠消費が増える懸念、AI ProではArgon3回で5時間制限との声\n- [関連投稿](https://x.com/angaisb_/status/2115565560603824452)\n（ハム太郎、だって人間だもの、TheCat小屋ずん前小屋）\n\n### MetaのAI「Muse」\n- 共有コンテンツが第三者に閲覧可能だった件（ギズモード）\n- 作成が速く無料で一般向け最強級との評価。動画は週ごとの無料枠。Identity.md／soul.md／memory.mdを編集でき、コネクター読み取りがデフォルト許可なので最初に見直すべき\n- 紹介コードの共有もあり（ここには載せない）\n- [ギズモードの投稿](https://x.com/gizmodojapan/status/2115221352802136345)\n（YOU、0x コテキン、楓）\n\n*件数はDiscordの新着バナー（211件）とスクロール目視の併用（±1程度のずれあり得る）。*",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 211
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-10-29",
   "time": "08:20",

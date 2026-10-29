@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-10-30",
+  "time": "08:20",
+  "summary_md": "## バイナンス ハッキング疑惑（05:39〜、最大の話題）\n- ホットウォレットからの流出報道：当初約25.3億ドル→56.4億ドル→08:14時点で9チェーン計約62.6億ドル。内訳はBTC 14.5億・ETH 8.75億・TRX 2.34億・USDT 15.7億・USDC 8.23億ドルなど（Watcher.Guru）\n- Tetherが合計15.67億ドル超のUSDTを凍結、CircleもUSDC 8.23億ドルを凍結。CZは「SAFU（ユーザー資産は安全）」と発言\n- Aaveが貸出市場を凍結、ハッカーは盗んだUSDTをAaveに入れてETHを借入。PEPE・UNI・LINKをETHへ売却中との報告（Lookonchain）。Binance Alpha取引停止、Binance JP含め出金が止まっている様子。08:20時点でも流出は止まらず\n- 相場：BTCは78.5k・79kを割り込み、BNBは約700ドルで踏みとどまる。HYPEは当初強かったが連れ安、TRXは上昇\n- 論点：ホットウォレットに置きすぎ、顧客資産1,294億ドルの約3%でSAFU（約1.5万BTC）では半分も賄えない、ヘアカット・取り付け騒ぎの懸念、「CEXは終わり、ハイパーリキッドが正解」の声、Binance JPは全額補償されそうとの見方。10/10の暴落やBybitハックとの比較も\n- リンク：[Watcher.Guru](https://x.com/WatcherGuru/status/2115922259739349132)、[Paolo Ardoino](https://x.com/paoloardoino/status/2115918000373346709)、[Lookonchain](https://x.com/lookonchain/status/2115938836757037428)、[WazzCrypto](https://x.com/WazzCrypto/status/2115945775632916798)、[Conor Grogan](https://x.com/jconorgrogan/status/2115912896106381513)、[CB Terminal まとめ](https://cb-terminal.dev/ja/topic/3fa1827f-0a2c-425e-80d3-31094802e029)\n（越前、mmk7636、モノアイ）\n\n## HYPE 100ドル目前（00:51〜01:30）\n- 前日のICE提携発表を受けHYPEが約97.9ドルまで上昇し最高値に接近、「100ドル」「120」の目標も。ロング・ショートの声が交錯\n- BTC「覚醒」、PURR（mNAV 1.2）、KNTQ、ZECにも言及\n- 0:38ごろ不審なDMやアカウント乗っ取り疑いの報告があり、フレンド以外のDMをブロックするよう注意喚起\n（越前、kakipi、shottt）\n\n## 深夜帯のニュース（01:30〜05:30）\n- 転送botでトランプのFed批判、イラン議長の7条件、Polymarketのフロント改ざん（02:48発生・03:34修正、被害は補償予定）、ハイテク決算の時間外急落（GOOGL・INTC −13%、AMZN −11%）、Coinbase CEOらの株売却計画など\n- 人の投稿は少なく、HYPE 100ドル到達への期待が中心\n（Ohgami、肉彦）\n\n---\n※コメント数はスクロールで目視カウントした概数（約580件、ボット18件除外、±5%程度、スレッドは確認できず）。08:30時点でもチャンネルは動いていた。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 580
+ },
+ {
   "source": "deg-ai",
   "date": "2026-10-30",
   "time": "06:10",

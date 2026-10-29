@@ -33,6 +33,15 @@
   "daily": true
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-10-29",
+  "time": "23:59",
+  "summary_md": "### HYPE急騰：ICE（NYSEの親会社）がtrade.xyzと提携（この日のメイン話題）\n- ICEがtrade.xyzと組み米国の規制市場に無期限先物を持ち込むと発表。Hyperliquidに$ICE上場、ドラッケンミラーの支援報道も\n- HYPEは20:14ごろ約100ドルまで上昇し夜は90ドル前後。bitFlyer加納氏の過去のHyperliquid批判が掘り返される\n（mmk7636、0x コテキン、越前）\n\n### BTCの8万ドル割れと停滞\n- 10:50ごろBTCが80kを割り、リバウンドしては再下落。「79k鉄壁」「今週の上げが全部なくなった」と悲観ムード\n- 株安への連れ安やAIバブル崩壊リスク、サイクル論。夜は10/30 17:00のDeribit月次オプション満期（約1.7兆円）待ち\n（漢塾、越前、don）\n\n### FOMC据え置きと決算ニュース（深夜〜朝）\n- FOMCは据え置き、ウォーシュ会見の速報やAlphabet・Microsoft決算が転送されたが、人間の反応は少なめ\n（green、Arcana、hexe）\n\n### Hyperliquidの次のエアドロ予想・周辺Perp DEX\n- 次のエアドロ対象や額の予想、Ostium・Variational・Pacifica、BackpackとSK証券の提携など\n（越前、maff、MAGIGAG）\n\n---\n※10/29分を記録した4回（0:20・8:20・16:20、10/30 0:20）の要約から作成。件数はスクロール目視の概数の合計（ボット除外済み、スレッドの動きなし）。10/30 0:20の回は20:23以降の短い投稿を一部読み落としている可能性あり。",
+  "title": "1日まとめ",
+  "comment_count": 842,
+  "daily": true
+ },
+ {
   "date": "2026-10-29",
   "time": "19:00",
   "videos": [

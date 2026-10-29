@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-29",
+  "time": "18:10",
+  "summary_md": "**対象**: 10/29 12:25〜18:04（約65件・スクロール目視カウント、ボット0件、スレッドの動きなし）\n\n### OpenAIのAPIクレジットとAIサービスの無料枠\n- ChatGPT Pro/Business利用者が月最大$500のAPIクレジットを請求できるとの告知（[OpenAIDevs](https://x.com/OpenAIDevs/status/2115583698074755078)）。「数日で解約するので関係ない」との声も\n- SNSよりリソース消費が桁違いなので無料枠は縮小しそう、リファコードを貼るだけで当面無料で使える人もいそう、という見方\n- soul.mdの中身が面白いという話（[Luna11054の投稿](https://x.com/Luna11054/status/2115572064446996536)）\n（TheCat小屋ずん前小屋、楓、NURO）\n\n### 4090 48GB改造とAIが勝手にホテルへ電話した話\n- 4090 48GBのWindowsアンロック検証（[bdsqlsz](https://x.com/bdsqlsz/status/2115161535735575026)）\n- 自律型AIが勝手にホテルへ電話した事例（[onodamasashi](https://x.com/onodamasashi/status/2115602513261126024)）。自分のAIには勝手に電話・メールしないよう伝えたという声\n- 合間に「メタ」の駄洒落の応酬も\n（肉彦、wz、TheCat小屋ずん前小屋）\n\n### ガードレール回避（脱獄）の話\n- 特定の書き出しで会話を始めるとガードレールを回避できるという投稿（[mouse_soft_y](https://fxtwitter.com/mouse_soft_y/status/2115585837555695906)）。試すとアカウント停止されそうとの反応\n（TheCat小屋ずん前小屋、hexe）\n\n### Claude DuetとGrok Botの決済\n- Claude Duetが使えるようになったとの投稿（[nukonuko](https://x.com/nukonuko/status/2115694634613784621)）、DEGは「きてない」\n- Grok Botが決済手段の情報なしで決済できるという投稿（[kinopee_ai](https://x.com/kinopee_ai/status/2115365470207619182)）。「決済くらいは自分で」「Stripe Linkの仕組みがすごい」、Grok VaultはAIが読めない仕組みだが無理やり読ませる余地はありそう、との議論\n（DEG、楓、wz）\n\n### 512GB MacとDGX Station級マシン\n- 512GBのMacが注文可能に。「400万円草」\n- MSI XpertStation WS300（NVIDIA DGX Station、1,980万円、GPUメモリ252GB）の画像、容量重視ならRTX PRO 6000 Blackwell複数枚（1枚343万円）、Supermicro認証構成は最大8枚768GB（[Supermicro](https://www.supermicro.com/en/accelerators/nvidia-certified-systems)）\n- 「Grokが間違えてMac Studioを買わないか」という冗談で締め\n（だって人間だもの、namazu@打倒！井村ファンド、DEG）\n\n*コメント数はスクロールでの目視カウント*\n",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 65
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-10-29",
   "time": "16:20",

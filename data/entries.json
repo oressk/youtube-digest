@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-10-30",
+  "time": "16:20",
+  "summary_md": "### バイナンス流出（約63億ドル）と全面安\n- バイナンスが約63億ドル規模の不正流出を公表。原因はDevOps担当者のPCとサービスコンテナの侵害で、秘密鍵流出の証拠はないとの説明\n- ハッカーはPEPE・UNI・LINKを売却中との報道、WSJは北朝鮮関与を指摘。入出金は全停止、損失は全額補填と表明（Yi He）。13:19には48時間以内の出金再開見込み\n- Arbitrumセキュリティ評議会が74.559M ARBと8,425 ETHを凍結。USDT凍結は間に合わず、約6000万ドル分のUSDTがAAVE担保となり不良債権化\n- BybitのSafe{Wallet}事件との比較やEIP-7702の話も。BTCは76k付近まで下落し57k〜85kの水準が議論、BNBは約700で底堅く資金調達率はマイナス\n- 主な銘柄：BTC、BNB、ETH、ARB、AAVE、PEPE、UNI、LINK、SOL、ZEC、PREDICT（上場延期）\n- リンク：[Yi He](https://x.com/heyibinance/status/2115958049244631357)、[Arbitrum](https://x.com/arbitrum/status/2115961730920841644)、[Lookonchain](https://x.com/lookonchain/status/2115938836757037428)、[CB Terminal](https://x.com/cb_terminal/status/2115981731475988589)、[47NEWS](https://www.47news.jp/15160780.html)、[eqn.news](https://eqn.news/tradfi/9385)\n（越前、mmk7636、花咲天使）\n\n### HYPEだけ底堅い・ロング/ショート談義\n- 全面安の中でHYPEは92ドル前後で耐え、120ドルを狙う声。押し目買い・買い増し、BNBショート（Aster）も\n- 10/29のETFフロー：BTC +1720万ドル、ETH −1億550万ドル、SOL −2770万ドル、HYPE +370万ドル\n- ICE×trade[xyz]提携の話題、Variationalポイント（[投稿](https://x.com/coinkeiba/status/2115959889155829792)）、Machiの清算\n（green、Gula、DEG）\n\n### 忘年会の景品とSwitch 2ゼルダ版投票\n- DEGが景品にSwitch 2ゼルダ限定版を出し、投票は「ほしい」72%（21票対8票）。協賛は明日まで、このチャンネルへの投稿で抽選参加\n（DEG、越前、節子🤜）\n\n### マクロ・政治とリスクオフ／午後は落ち着き\n- 米中間選挙での共和党苦戦、円安と介入観測、オプション満期、日経・株も下落\n- 13時以降はBTC・HYPEがやや戻し小康。イーロンがCZに返信、「FX戦士くるみちゃん」ミーム（[投稿](https://x.com/fxkurumi_info/status/2116002158764048754)）\n（花咲天使、邪悪なネコ、ない）\n\n---\n※件数はスクロール目視の概数（約600件、ボット約9件除外）。08:28〜08:50、09:16〜09:22、13:42〜14:06は一部読み落としの可能性あり。スレッドは未確認。\n",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 600
+ },
+ {
   "date": "2026-10-30",
   "time": "16:00",
   "videos": [

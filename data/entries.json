@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-10-31",
+  "time": "00:20",
+  "summary_md": "### バイナンス流出（約63.4億ドル）と補填\n- バイナンスがSAFU基金と会社資金で全損失を補填すると公式発表、「ユーザー資金は安全」\n- 凍結分が戻っても約20億ドル足りないとの指摘、出金再開まで約45時間の見通し\n- CZのイーロン宛てポストとイーロンのからかいで盛り上がり、FBI・シークレットサービス協力の報も\n- リンク: [Binance発表](https://x.com/binance/status/2116089661408108712)、[Binance続報](https://x.com/binance/status/2116121748555153621)、[CZ](https://x.com/cz_binance/status/2116097554882728341)、[CZ 2](https://x.com/cz_binance/status/2116101255059947839)、[Elon](https://x.com/elonmusk/status/2116034884393213964)、[CB Terminal](https://cb-terminal.dev/ja/topic/7d4ed5bd-553a-4f9b-a010-83d9c4e8bb81)\n（mmk7636、0x コテキン、Albert）\n\n### 価格動向とHYPEの強さ\n- SOLが100ドル割れ、BNBは下げ限定。22時頃BTC弱含み→23時に一時リバウンド\n- 0時台は「底打ち」「出金再開で上がる」と楽観ムード\n- HYPEは「ずっと強い」「90ドルを割らない」と評価。にゃー4ドル割れ、SOXL・金にも言及\n（ない、Gou、節子🤜 [O30W]）\n\n### bitFlyer加納氏の報ステ出演\n- 規制の話、ハッカーのIPが北朝鮮グループと同じだったという話題\n- リンク: [YuzoKano](https://x.com/YuzoKano/status/2116128957791908257)、[TVer](https://tver.jp/live/simul/lewa16bqu1)\n（今年の漢字「漏」@チャンスセンター、越前、moodyblues）\n\n### ジパングコイン事業離脱ネタと雑談\n- 辰巳氏のジパングコイン事業離脱ポストを共有、ジパングニキの「卒業」ネタ\n- 「Don't Trust, Verify」の由来、「お金持ちの基準」雑談\n- リンク: [辰巳氏](https://x.com/y_tatsu3/status/2116077674259161593)、[Trust, but verify](https://en.wikipedia.org/wiki/Trust,_but_verify)\n（ジパングニキ、0x コテキン、Maisen）\n\n### DeFi金利・米株マクロ\n- USDC金利が各所で高く使用率100%、Aaveの影響で他レンディングもフリーズ気味\n- Intel 5年CDSが過去最高123.5bpsに拡大、SOXLロングでHYPE利益が吹き飛んだ報告\n- Paperポイントの報酬停止とclaim可能化\n（おぢおぢさん、邪悪なネコ、irukiti）\n\n---\n※対象は10/30 16:28〜10/31 0:21。コメント数354件（10/30分344・10/31分10）はスクロールで1件ずつ数えたもの（ボット5件除外、スレッドなし）。一部取りこぼしの可能性あり。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 354
+ },
+ {
   "source": "deg-ai",
   "date": "2026-10-31",
   "time": "00:10",

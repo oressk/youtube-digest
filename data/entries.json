@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-31",
+  "time": "00:10",
+  "summary_md": "対象: 10/30 18:15〜10/31 0:00（39件：10/30分37・10/31分2、ボット0件、スレッドの動きなし）\n\n### Claude Codeの「ゲームのコピー禁止」ルール\n- 10/27ごろからClaude Codeに「ゲームのコピーを作らない」ルールが入ったというX投稿が共有された\n- GTA6が出たらコピーが大量に出そう、という話に\n- https://x.com/chasmmmmmmmmmmm/status/2116062991686721968\n（肉彦、0x コテキン）\n\n### AI動画・ショートと長尺\n- 「AI動画ラボコイコイ」の現場監督シミュレーター動画（AKOOL）が共有され、30秒で一度切ってタイトルを見せる構成は教科書通りと評価\n- ラボコイさんは流行を作るのが上手く、higgsfieldやpollo.aiの案件が増えそうとの見方\n- 連休中は長尺が伸びるなら続け、ショートは伸びないという意見。ジジババ動画でバズらせる案も\n- https://youtu.be/Em2XyWwmkEY / https://www.tiktok.com/@mitsui_san14/video/7696351933598141716\n（NINO、なべ、なぞこい）\n\n### AIアビトラの成功談\n- Claude Max20を6アカウントで回し1ヶ月で約500万円というX投稿が共有され、「きっと嘘」との反応\n- https://x.com/nomi_po4/status/2116106667284910534\n（なぞこい、gorillapower）\n\n### 開発モデルの使い分け・Grok bot運用\n- 大きめのリファクタはopusかfableか、fableに計画させopusに実行させるべきかという質問（回答は目立たず）\n- Grok botが自分のPCでClaude Code/Codexを動かす運用のX投稿が共有され、adminが「やってるがアプリがよくバグる」と返答\n- https://x.com/orogongon/status/2115851728419803509\n（てつ、0x コテキン、admin）\n\n### SUNO MCPとChatGPT／Codex\n- SUNO MCPの先行アクセスを得てChatGPTにつないで使ったという報告\n- ChatGPTとCodexの統合を指すとみられる「ついに終わりか」の声。Codexは頻繁に止まるがリサーチ能力は良いとの評価\n- 深夜は ~/.claude が約570GBという内訳画像や「CCの週制限来ちゃった」の雑談\n（YOU、gorillapower、なぞこい）\n\n※件数は画面上のメッセージを1件ずつ数えたもの",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 39
+ },
+ {
   "source": "deg-stock",
   "date": "2026-10-31",
   "time": "00:00",

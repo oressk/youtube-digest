@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-31",
+  "time": "06:10",
+  "summary_md": "対象: 10/31 00:10〜05:58（20件、すべて10/31分）\n\n### Codexの安全性チェックとハーネス\n- codexが安全性チェックで拒否してコマンドを実行できない、自作サイトの更新もできないと不満が続出\n- 「ハーネス自作勢がまた一人誕生？」の声に、pi agentを推す意見。openai-codexとcursorのgrok以外なら途中でモデルを切り替えても上手く動くとのこと\n（TheCat小屋ずん前小屋、gorillapower、NINO）\n\n### AIの逆解析を防ぐ「毒」入りサイト\n- ロシア人が自分のサイトに逆解析対策を仕込んだという話。関数名を危険物っぽい語にし、隠し文字のjailbreak promptでAIの安全機構を発動させて解析を拒否させる\n- https://x.com/MinLiBuilds/status/2115843728074305595\n（邪悪なネコ）\n\n### eMudhra CAの秘密鍵漏洩\n- 秘密鍵の漏洩のおかげで中国製IoTデバイスのエミュ鯖が完成した、という皮肉まじりの投稿\n（だって人間だもの）\n\n### Museの音声をずんだもんに\n- Museの中身がubuntuなのでVOICEVOX Engineが動き、自前サーバーなしでずんだもん音声にできたという共有\n- https://x.com/sakura_beers/status/2115996248448909630?s=20\n（TheCat小屋ずん前小屋）\n\n### 雑談\n- 1000ドルの価値の金銭感覚ジョーク（ziban、とむ）\n- 朝はDiscordのロール・名前の色が変わった話で盛り上がり（Ghints、hexe、邪悪なネコ）\n\n※件数はスクロールで1件ずつ数えた正確な数。ボット0件、スレッド返信なし。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 20
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-10-31",
   "time": "00:20",

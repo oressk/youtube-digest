@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-01",
+  "time": "00:20",
+  "summary_md": "### HYPE（Hyperliquid）の急落と乱高下\n- 17:00〜18:15に下げが集中。ICE（NYSEの親会社）がHyperliquidとの提携ツイートを削除し、20:42に「導入予定」「規制当局の承認が前提」という表現で再投稿した\n- 「ツイ消しが原因か」「FUDでは」「a16zが売っているのでは」と議論。20:57・21:00にも急落して戻し、22:17・23:14にも下げて「HYPEで増えた分が消えた」という声\n- ツイ消しへの皮肉として2015年のブルーボトルの投稿も共有された\n- 共有：[ICEの再投稿についての投稿](https://x.com/cryptojptrans/status/2116500123412771234)、[ブルーボトルの投稿](https://x.com/taromatsumura/status/563510418606673920)\n（ない、nova、邪悪なネコ）\n\n### バイナンス流出の補填\n- 全額補償の方針に続き、23:46以降は「まず90%を補填、残り10%は市場やOTCで調達中、出金再開は日曜の予定」という話に\n- 「BNBがリバってむかつく」「BNBはSAFU」という声も。BNB・BTC・ETH・SOL・ZECの名前が出た\n- 共有：[Richard Tengの投稿](https://x.com/_richardteng/status/2116538946188726474)、[Walter Bloombergの投稿](https://x.com/deitaone/status/2116540825853472908)、[Binanceの発表](https://fixupx.com/binance/status/2116538196259684457)、[CB Terminalの記事1](https://cb-terminal.dev/ja/topic/ff856d64-89ba-4b91-aa52-aa9d1f4e8d80)、[CB Terminalの記事2](https://cb-terminal.dev/ja/topic/c703e2fb-953f-45de-a783-fb27f5f6d68b)\n（2b2c、司/tsukasansan、I'm Momi）\n\n### 相場の不調と各自の売買\n- 「今月の利益の倍を飛ばした」「触ると爆下げ、ノーポジだと爆上げ」といった嘆きと、ロング・ショートの損切り報告が続いた\n- ETFフローはBTC -6.432億ドル、ETH -1.557億ドル、SOL -1,080万ドル。NEARのロングを捌く話も\n- 23:39に「ショーターに転生する」、0:07に「10月終了」という締めの声\n（節子、ない、ハム太郎）\n\n### 雑談・ネタ\n- ジム・クレイマー関連の投稿や「人生には3つの坂」などのネタ\n- 共有：[PsyopAnimeの投稿](https://x.com/PsyopAnime/status/2116302384179892467)\n\n---\n対象：10/31 16:38〜11/01 0:18の138件（10/31分135・11/01分3。スクロールで1件ずつ数えた。ボット3件は除外、スレッドの新着返信は見当たらず）",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 138
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-01",
   "time": "00:10",

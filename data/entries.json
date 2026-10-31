@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-31",
+  "time": "12:10",
+  "summary_md": "### 無制限ストレージとGPTの新機能\n- ChatGPT Siteに付くオブジェクトストレージが「無制限」と言われることに驚きの声。動画出力でディスク不足なので魅力的だが、無制限はいずれ制限されるのが常という見方も\n- ChatGPTのスマホ連携、履歴閲覧の扱いの変化の話題\n- 部屋の写真をGPTに送り「自分について知っていることを元に部屋を埋めて」と頼む遊びが紹介される（[KeepZの投稿](https://x.com/dailyonjeje/status/2114175864145575983)）\n（ハム太郎、Ghints、邪悪なネコ）\n\n### 無規制モデルとローカルLLM\n- OpenCodeの「Operation Cheepseek Phase 4」で、月10ドルでDeepSeek V4.1 Flashが100ドル分使える（[OpenCodeの投稿](https://x.com/opencode/status/2116209960673800474)）\n- フロンティアモデルの安全チェックが低レイヤーのネットワークコードや脆弱性PoCで邪魔になり、無規制モデルが欲しいという声\n- 家庭向けはVRAM容量がボトルネック。DeepSeek V4.1 Flashの量子化版とexpertオフロードで12GB VRAMでも動くという報告、Deepセットは約50万円・qwen3.8なら約30万円という目安も\n- 消費者向けLLM基盤は事実上Macかも、効率の良い推論エンジンやMoEの工夫で今後メモリ依存は減るという見方。一方MoEのルーティングを細かく制御できない不満も\n（だって人間だもの、TheCat小屋ずん前小屋、gorillapower）\n\n### Claudeの上限とメモリ高騰\n- Claude Max 20xで5時間枠がすぐ消える、問題は週の上限の少なさという指摘\n- Max/Ultraプランの比較画像（[Ayoub Ennachatの投稿](https://x.com/aybennachat/status/2116306372455260346)）で、20xの公式表記が実質半分に弱められたと不満\n- サム・アルトマン氏が「全員のPCにDRAMを載せるのはかなりひどい、クラウドに集めるべき」と発言したという記事（[gazlog](https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/)）\n（0x コテキン、Ghints、だって人間だもの）\n\n---\n対象：10/31 06:08〜12:06（53件、1件ずつ数えた件数。ボット0件、スレッドの動きなし）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 53
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-10-31",
   "time": "08:20",

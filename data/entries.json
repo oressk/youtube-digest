@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-10-31",
+  "time": "18:10",
+  "summary_md": "### AIの電話対応とモデル流出の噂\n- AnthropicのモデルがAWS S3の設定ミスで流出した疑いがあるという投稿が共有され、「Opus 5.5か？」と盛り上がる（[Dark Web Informerの投稿](https://x.com/DarkWebInformer/status/2116304098228068572)）\n- 自律型AIが電話をかけられるようになったという話題（[mao_otk_twの投稿](https://x.com/mao_otk_tw/status/2116308918804808050)）。Twilioなしでオンコールできるのは魅力という声の一方、客も企業もAIになって「地獄」、AI同士の通話に意味はあるのかという疑問も\n- アメリカのテスラやスターリンクは電話オペレーターがほぼGrokで、人間と話すには数時間待つらしいという話\n（Ghints、ハム太郎、hexe）\n\n### 画像生成の上限とSuno MCPの音ハメ動画\n- ChatGPT Plusの画像生成が10枚ほどで制限されるという不満。ローカルなら16枚を70秒で作れる、画像はローカルでいいという声と、1日400枚前後使えているという声も\n- Codexの上限リセットの話題（[Tiboの投稿](https://x.com/thsottiaux/status/2116405414921384099)）\n- Suno MCPで音ハメのモーショングラフィックスを作った例（[posi_posiの投稿](https://fixupx.com/posi_posi8/status/2116102597572755766)）。音が少しズレて見えるという指摘に、動画と音声のfpsの食い違いが原因では、という見方。音ハメはOpusが勝手にやってくれるという声も\n（hare、邪悪なネコ、NINO）\n\n### AI小説の賞とMuse\n- 最大5050ドルのAI小説の賞への応募の話（[The Lyson](https://thelyson.ai/)、[元の投稿](https://x.com/seer_pm/status/2115740837376295286)）。PDF化までAIにやらせれば1時間で作れる、匿名ならEVMアドレスが必要\n- 星新一賞（賞金100万円）もAIの応募が可能で、保護者か代理人が必要（[星新一賞](https://hoshiaward.nikkei.co.jp/)）。最終選考に残ったAI小説のnoteも共有（[note](https://note.com/aono_keishi/n/n7686ce6570bf)）\n- MuseでapkのAndroidアプリが作れるらしいという話（[投稿1](https://x.com/2022_technology/status/2116021436049653865)、[投稿2](https://x.com/mouse_soft_y/status/2115933630644224152)）。クラウドでLinuxが動くのは強いが運営がFacebookなのが難点、取引所のapkを解析してMCPにできそうという声も\n- iOS 27.2のジェイルブレイクの話題（[Ikotas Labsの投稿](https://x.com/ikotas00/status/2116122945957532095)）\n（邪悪なネコ、hexe、NINO）\n\n### Claudeの5時間制限\n- 夕方、Claudeの5時間制限が本当になくなっていて課金がはかどるという報告\n（hare）\n\n---\n対象：10/31 12:11〜17:38（55件、1件ずつ数えた件数。ボット0件、スレッドの動きなし）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 55
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-10-31",
   "time": "16:20",

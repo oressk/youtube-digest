@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-01",
+  "time": "12:10",
+  "summary_md": "### OpenCode・OpenRouterの無料枠縮小\n- OpenCodeの無料枠が一気に狭められた気がするという声\n- 安いMuseがなくなり、OpenCode無料枠でのやりくりは厳しいとの反応。OpenRouterも減った\n（ハム太郎、TheCat小屋ずん前小屋）\n\n### Sol 6.1とOpus 5.5のコスト比較\n- APIではSol 6.1がOpus 5.5より39%安いが、定額プランでは2.4〜4.6倍高いという投稿を共有\n- [Adam Holterの投稿](https://x.com/AdamHoltererer/status/2116256713045057846)\n（TheCat小屋ずん前小屋）\n\n### Codexの上限リセットとOpenCodeへの引き継ぎ\n- Tiboの「Banked 1/2」投稿を共有し、チケットが2枚になったのか、今日は通常リセットでは、グローバルリセットもあるのか、と話題に\n- Codexで5時間上限に当たったら `codex resume` をOpenCodeに渡して続きを任せる運用の紹介\n- [Tiboの投稿](https://x.com/thsottiaux/status/2116692529970311254)\n（Ghints (ぎんつ)、ハム太郎）\n\n### 「次世代AI？」Blender風動画\n- Blender CGのように見えるAI動画を共有し、どう作ったのかと疑問\n- ダンス動画を切り抜いて角度を合わせ、Blender CGに見せているのでは、という推測\n- Blenderも触りたいという声\n- [Kaku Dropの投稿](https://x.com/KakuDrop/status/2116699951615111548)\n（ハム太郎、Ghints (ぎんつ)、なべ）\n\n対象: 11/01 02:51〜11:55（12件、1件ずつ数えた。02:51〜06:16は投稿なし）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 12
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-01",
   "time": "08:20",

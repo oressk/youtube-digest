@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-03",
+  "time": "00:20",
+  "summary_md": "### 欧州組織のCEX口座から約1.06億ドル流出・Mercado Bitcoinハック\n- 欧州のMMとみられる組織が11/1に複数CEXから約1.06億ドルを抜かれた件（ZachXBTの報告）。USDC/USDTで引き出し→ETH交換・即時交換サービス（WellWallet、Kyrrex）経由→WagyuでXMRへ。11件のウォレットが公開\n- 「Wagyuはもうそれ用では」とマネロン経路の声\n- ブラジル最大の取引所Mercado Bitcoinもハッキング（推定4,000万ドル超）：https://x.com/WuBlockchain/status/2117255057280204824\n（モノアイ、だって人間だもの、邪悪なネコ）\n\n### KASTのポイント終了\n- KASTのポイントがトークンではなく「KAST Pioneer Units」に変換されることに不満。「KASTくそか」の声と「現金値引賛成」の意見\n- https://concierge.kast.xyz/hc/en-us/articles/18196872344079-The-End-of-Points-Earning-and-the-Transition\n- https://x.com/raagulanpathy/status/2117229646446268689 ／ https://x.com/btcsleep/status/2117241040289862041\n（Albert、Arcana）\n\n### HYPE2ティッカー購入・Strategyの買い増し・相場\n- ParagonがHyperliquidで「HYPE2」ティッカーを購入（https://x.com/cb_terminal/status/2117244713539420590）。「タイミングが謎」「BCHみたいなものか」\n- Strategyが810BTC買い増し、保有849,327BTC。「北朝鮮以外で爆益出してる所あるのか」と皮肉\n- 原油安でもBTCの伸びが弱い、mk4がアルトショートを積み増し。23:30米国市場・24:00 ISM待ちで「命の砂時計」ネタ\n- XTENのトークノミクス当日公開、11/3 3:00からExtendedのライブAMA告知\n（mmk7636、green、邪悪なネコ）\n\n### GMOの謝罪会見と祝日雑談\n- GMOの会見を「社長のポエム発表会」「今年最大のエンタメ」と評し、翌日の株価に注目（https://x.com/ZanEngineer/status/2117153040658841896）。情報漏洩とAIのサイバー攻撃悪用の話も\n- 11/3文化の日で日本市場休み、底探しの下ネタ雑談、HLPの損失とバイナンスへの冗談\n（gorillapower、節子、hexe）\n\n---\n※件数はスクロールで1件ずつ数えた概数（±5）。APPタグのボット（CB Terminal まとめ）2件は除外。スレッドの動きなし。11/02分167件・11/03分3件。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 170
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-03",
   "time": "00:10",

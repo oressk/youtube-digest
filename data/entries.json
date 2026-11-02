@@ -33,6 +33,15 @@
   "daily": true
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-11-02",
+  "time": "23:59",
+  "summary_md": "### バイナンス出金ラッシュとハッカーの動き\n- 出金再開から10時間で5,900億円超が流出したとの話、北朝鮮スパイ報道の続き。ハッカーがGateに25万ドルを入金\n（越前、2b2c、ハム太郎）\n\n### にゃーとHYPEの急落、Hyperliquidの清算\n- 15時台から「にゃー」がHYPEと連動して沈む。ParadigmのHYPEアンステーク説が下げの理由に。XPL清算でHLPが約60万ドル損失し「店長また強盗」\n- 夜はParagonのHYPE2ティッカー購入に「タイミングが謎」\n（長野桃羽ちゃんの奴隷🐤、gorillapower、越前）\n\n### 新たなハック続発\n- 欧州のMMとみられる組織が複数CEXから約1.06億ドルを抜かれ、XMRへ洗浄。ブラジルのMercado Bitcoinもハックされる\n（モノアイ、だって人間だもの、邪悪なネコ）\n\n### MegaETH撤退・KASTのポイント終了・利回り\n- RabbyのMegaETH撤退で「過疎チェーンのサ終時代」論。KASTのポイントがトークンでなくUnitsに変わり不満。WorldアプリのUSDC利回りはMorpho由来でリスクありとの指摘\n（邪悪なネコ、Albert、gorillapower）\n\n### 相場とStrategy・GMO会見\n- ETH強めで「最強の11月」と沸くも昼過ぎ失速。Strategyが810BTC買い増し、原油安でもBTCが伸びず。GMOの会見は「今年最大のエンタメ」扱い\n（mmk7636、green、節子🤜）\n\n---\n※件数は11/02の各回（08:20・16:20、翌0:20回の11/02分）の合計。ボット（CB Terminal・転送bot）除外、スレッドなし。各回はスクロールで数えた概数を含む。",
+  "title": "1日まとめ",
+  "comment_count": 330,
+  "daily": true
+ },
+ {
   "date": "2026-11-02",
   "time": "19:00",
   "videos": [

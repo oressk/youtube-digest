@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-04",
+  "time": "06:10",
+  "summary_md": "### ネットの匿名性と「自由か安全か」\n- AI前提でバグと共存するソフトやライブ更新が当たり前になる世界の話から、ネットの無料・匿名利用の時代は終わるのではという議論へ。\n- 「マイナンバーカードがないとネットが使えなくなる」「自由な世界と安全な世界の二択になる」といった意見が出た。（hexe、YOU、邪悪なネコ）\n\n### ChatGPT「Daybreak Blue」のハードウェアキー認証\n- サーバーで `--device-auth` ログインするとき、Googleパスワードマネージャー経由では通らなくなったとの報告。YubiKeyを使うか、Googleパスワードマネージャーのないブラウザ（Edgeなど）でログインすれば通る。\n- 「authorized hardware keys で認証されていない」というエラーが急に出始めたとのこと。（邪悪なネコ）\n\n### 画像生成とCodexの利用上限\n- Codexのimagegenの代わりにAntigravity CLIの `agy generate_image` を試したが、Gemini AI Proでもすぐ上限に達する。agyとWeb版では上限が違い、Web版のほうが多く使える。ClaudeからCLIとして呼ぶ使い方もできる。\n- Codexの週間上限に達した人も。12月からWebと枠を共有するようになり、気前のよいリセットの時期が終わるのが残念という声。ChatGPTの電話番号・メールは後から変更できないという注意も。（NINO、aruru、ハム太郎）\n\n### 共有リンク\n- OpenAIの「TamaGPT」動画：https://youtu.be/NCxD-qsQcN0 （たまごっちGPT）（NINO）\n- OpenCodeのステルスモデル「Crouton Alpha」が1週間無料（1Mコンテキスト・マルチモーダル・学習なし・地域限定）：https://x.com/opencode/status/2117717721458843711 （TheCat小屋ずん前小屋）\n- そのほか、クルド人ネタの冗談（朝マクド）とXの投稿リンク2件。（TheCat小屋ずん前小屋、Arcana）\n\n---\n対象：11/03 23:52〜11/04 06:00 の26件（すべて11/04分、1件ずつ数えた。ボット0件、スレッドなし、AI宛ての文言なし。23:52〜0:08は投稿なし）\n",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 26
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-04",
   "time": "00:20",

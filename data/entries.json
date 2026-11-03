@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-03",
+  "time": "18:10",
+  "summary_md": "### AIにゲームをさせる話の続き\n- 昔ニコニコで64スマブラのCPU同士の対戦を実況する動画が流行っていた、LoLで全員AIもやってみたい、という声\n- 黎明期のAIによるMOBAとしてOpenAI Five（[OpenAI Dota 2](https://openai.com/index/dota-2/)）を思い出す話、プリンスさんは今もCPUトーナメント実況を続けている（[KING OF CPU 2026](https://youtu.be/JbJ8mGYc8Ew)）という紹介\n（hare、hexe、TheCat小屋ずん前小屋）\n\n### ISUCONとGoかRustか（続き）\n- OSから作る域の話として、Linuxカーネルを作り直してVMとGoに最適化しても間に合いそう、という返信\n- RustとGoの論争はAI時代でも続いている（[Reddit r/golang](https://www.reddit.com/r/golang/comments/1pi3914/is_go_still_the_best_choice_for_highconcurrency/)）。AIが書く部分かつボトルネックだけRustにする組み合わせが良いかも、ただ今はほぼGoで作っている、という意見\n（NINO、namazu@打倒！井村ファンド）\n\n### 政治系YouTubeチャンネル\n- 政治ネタをやりたい、さくっと収益化したら転生させるか、と政治ニュース解説チャンネル（[政界ブーメラン速報](https://www.youtube.com/@政界ブーメラン速報)）を共有\n（だって人間だもの）\n\n### AIの劣化感とitch.ioのAI作品削除\n- ChatGPTがPDFを添付しても認識しない、Opusもアホになっている気がする、そろそろ次のモデルか、という不満\n- itch.ioが「数テラバイトのAI slopを削除した」と投稿（[X投稿](https://x.com/itchio/status/2117458324920967549)）、「itch.ioガチギレ」\n（gorillapower、なぞこい、0x コテキン）\n\n*対象: 11/03 12:40〜17:10 の13件（すべて11/03分、ボット0件、スレッドなし）。件数はページ上で1件ずつ数えた（±1）。11:58〜12:39と17:11以降は投稿なし。*",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 13
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-03",
   "time": "16:20",

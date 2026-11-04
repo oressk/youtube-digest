@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-05",
+  "time": "00:10",
+  "summary_md": "### 個人開発アプリの大当たりとボードゲーム\n- 個人開発者なまはむくんの「リリース1ヶ月経つ前に大台突破」投稿（[X投稿](https://x.com/manabi_ai0307/status/2117591455137239309)）に「えっっぐ、外れ値だ」。公開初日1位のボードゲームアプリ（[X投稿](https://x.com/manabi_ai0307/status/2107926563148947816)）も紹介\n（0x コテキン、TheCat小屋ずん前小屋）\n\n### 無料モデルTencent Hy4とサブスク事情\n- WorkBuddyの次の無料枠はHy4か、無料で使えるモデルとしてはかなり良い（[Tencent Hy4](https://x.com/TencentHunyuan/status/2117870250838630539)）\n- Geminiのサブスクはけちんぼ（[Adam Holterの投稿](https://x.com/AdamHoltererer/status/2117737439779488056)）。OpusはAPIだと高いのにサブスク割引が効きすぎて安くなっている、という指摘\n（TheCat小屋ずん前小屋、0x コテキン）\n\n### Museの料金体系の注意点\n- MuseとMuse Codeは別料金体系だった。フル機能はMuse CodeのPower Usage（月$50）かMaximum Usage（月$200）の契約が必要で、APIキー従量課金では使えない、課金予定の人は要注意（管理画面のスクショ付き）\n（jaka）\n\n### GitHubの障害とYouTube運用\n- git pushできない、Pull Requestで障害が出ていそう（[GitHub Status](https://www.githubstatus.com/)）、「giteaだからセーフだった」\n- YouTube収益化まであと半分、ショートで続けて後でロングも。YouTube StudioのUIが変わりAnalyticsがInsightsに？\n（だって人間だもの、NINO、連鎖阻止）\n\n### 中国でのGPU放出\n- 中国でGPUの放出が始まったと聞いた、もっと安くなれ、に「放出（バックドア付き）」\n（邪悪なネコ、ziban）\n\n*対象: 11/04 18:53〜23:38 の24件（すべて11/04分、ボット0件、スレッドなし）。件数はページ上で1件ずつ数えた（本文なしの添付のみ投稿2件を含む、±2）。16:52〜18:52と23:39以降は投稿なし。*",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 24
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-05",
   "time": "00:00",

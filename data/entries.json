@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-05",
+  "time": "06:10",
+  "summary_md": "### Hy4の無料枠とOpus 5.5の検閲\n- Tencent Hy4はpreview時と比べて無料枠が一瞬で消えるという感想\n- Opus 5.5で初めて検閲（reasoning_extraction）に引っかかった、ハーネスを更新していただけなのに…という報告\n（TheCat小屋ずん前小屋、NINO）\n\n### 求人情報の反応\n- 求人フィード（Alert）に流れたSansanのシニアQAエンジニア求人（年収1,152万〜2,917万円）に「年収でうおおと思ったけどシニアQAか」という反応\n- 共有リンク: https://open.talentio.com/r/1/c/sansan/pages/76503\n（NINO）\n\n### LLMへのイライラ\n- LLMにムカつきすぎて叫んでいたら喉が痛くなったという早朝のぼやき\n（TheCat小屋ずん前小屋）\n\n---\n対象: 11/04 23:39〜11/05 05:59（すべて11/05分）。コメント数はスクロールで1件ずつ数えた8件（±2）。求人フィードのAlertの投稿2件はボットとして除外。スレッドなし。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 8
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-05",
   "time": "00:20",

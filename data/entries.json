@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-06",
+  "time": "08:20",
+  "summary_md": "### 米株急落に連動したBTC急落（0:29〜）\n- S&Pが一時3〜4%安・ナスダック調整入りの報道とともに、BTCが前日安値割れ〜76k割れまで下落との声が連続\n- 「押し目？」投票は「まだ下がる」58%で終了。ショート継続／寝ロング／75k貫通への警戒が混在\n- リンク: [米株1時間で2.3兆ドル蒸発](https://x.com/watcherguru/status/2118367506427482481)、[ナスダック100調整局面](https://x.com/degeneratenews/status/2118382603791110391)\n（サンプル太郎、ない、邪悪なネコ）\n\n### HYPE・ZEC・アルトとポジション\n- HYPEは80割れ前後の弱さから一時リバ、ZECは相対的に強く「ZECとリアルゴールドだけでいい」との声\n- MSTR損切り説、STRC日次配当、ETH売り増し、ハイリキで日経ショートして+50%の報告も\n- 金・銀はほぼ無風／強含みで「ゴールドの時代」「金はハッキングできない」との対比\n（intel.outside、green [HYPE]、サンプル太郎）\n\n### 朝の耐性とファンダ雑談（5:11〜8:26）\n- 起きた人たちから「世界崩壊の割にBTC耐えてる」一方、日経急落・おいしょ換金売り懸念も\n- Anthropic IPO時期のPolymarket、民主勝利→DC規制→AIバブル終焉論、Hyperliquid Strategies決算PR\n- リンク: [Anthropic IPO月](https://polymarket.com/ja/event/in-which-month-will-anthropic-ipo)、[HL Strategies決算](https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-reports-financial-results-for-the-quarter-ended-september-30-2026)、[CB Terminal市況](https://cb-terminal.dev/ja/topic/9dbb162a-4ac8-4620-a81c-cbaf2ab7936d)\n（まーちゃん、邪悪なネコ、おにぎり）\n\n---\n対象: 11/06 00:29〜08:26、約390件±25（すべて11/06分、DOMでバッチ集計した推計、転送bot約9件・CB Terminal 1件除外、スレッドなし）。Discord検索での確認は未実施。3:01〜4:44は投稿なしの実ギャップ。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 390
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-06",
   "time": "06:10",

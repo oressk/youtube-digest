@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-06",
+  "time": "06:10",
+  "summary_md": "### ハーネスとGitHubの不調\n- 「結局harnessが大事」という感想が出た。\n- GitHubにpushできない不具合に遭遇中との報告（ステータスページにはまだ出ていない）。\n（なぞこい、NINO）\n\n### catさんのOpenAI移籍\n- cat（@_catwu）がOpenAIのCore ProductsのPMリードとして参加すると発表した。[投稿](https://x.com/_catwu/status/2118137612577968402?a=D0Enr_pZeyjPvo2k3k0&s=19)\n（YOU）\n\n### GPT‑6 CyberとGLM-5.5\n- OpenAIがセキュリティ研究向けのGPT‑6 Cyberを発表した。Daybreak Redの一部顧客から段階的に提供する。[発表](https://fxtwitter.com/OpenAI/status/2118390190246879554)\n- Z.aiがGLM-5.5（32B/122B/256B）の学習パイプラインを公開した。6つの内部エンジンで学習データを作っている。[投稿](https://fxtwitter.com/bebuu_ai/status/2118052769856888892)\n- 「5.4を飛ばすなら自信作か」「強いけど重い」「前に話した80ドルのは5.3の無検閲版」などの反応。普段はdp4.1flashしか使っていないという声も。\n（TheCat小屋ずん前小屋、WakiyamaP、ハツ太郎）\n\n### サイバー悪用と個人情報の懸念\n- 強力なモデルは反社の稼ぎ頭になり、5.5が出たら個人情報の流出が加速しそうだと懸念する声が出た。\n（TheCat小屋ずん前小屋）\n\n---\n対象：11/06 00:09〜05:06（13件、1件ずつ数えた。ボット0件、スレッドなし。AI宛ての文言やブラウザの警告はなし。DOMの隠し要素は未精査）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 13
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-06",
   "time": "06:00",

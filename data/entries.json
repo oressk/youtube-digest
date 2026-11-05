@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-05",
+  "time": "23:59",
+  "summary_md": "### 1. 顧客向け経理AIエージェントの作り方\n- 夜に約50件と一番盛り上がった相談。Claude Projects・Skills・Cowork・Teamsプランの使い分けと1席ごとの料金が論点\n（nnf、ゲスト４２、邪悪なネコ）\n\n### 2. Opus・Sonnetの劣化と検閲\n- 「Opusが文脈を理解しない」などステルスナーフ疑惑、Sonnetの曖昧な返答で段階的プロンプトの復活論\n- Opus 5.5の検閲（reasoning_extraction、利用規約エラー）に引っかかった報告、ChatGPTのリセット月間終了\n（TheCat小屋ずん前小屋、ziban、0x コテキン）\n\n### 3. 新モデル・ローカルLLM\n- ChatGPT Images 2.6の発表、PFNのPLaMo 3 Translateをローカル翻訳サーバーで運用、Tencent Hy4の無料枠\n- RAM 128GB＋RTX3090でのローカルLLMと量子化レベルの実用ライン\n（juiCYMod、だって人間だもの、gorillapower）\n\n### 4. 米民主党の超知能AI禁止要求とAI規制\n- 民主党議員の超知能AI開発禁止要求に「超知能を$200で使いたい」と反発、トランプの拒否権があるとの見方\n（gorillapower、だって人間だもの、juiCYMod）\n\n### 5. YouTubeとAI動画の収益化\n- パクリ動画のサムネ騒動、AI製動画の収益化審査やYPP早期承認の話、DiscordのRust刷新も話題に\n（0x コテキン、連鎖阻止、hare）\n\n---\n対象: 11/04 23:59〜11/05 23:58:59。コメント数137件は各回の合計（1件ずつ数えた、ボット除外、スレッドなし）。0:00〜5:59台は投稿少なめ。",
+  "title": "1日まとめ",
+  "comment_count": 137,
+  "daily": true
+ },
+ {
   "date": "2026-11-05",
   "time": "19:00",
   "videos": [

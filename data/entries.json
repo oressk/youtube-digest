@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-06",
+  "time": "00:20",
+  "summary_md": "### 株・半導体の急落がクリプトにも波及（23:37〜）\n- 23:38ごろから「株がやばめ」「半導体ぐろい」とキオクシアなどに反応、0時以降はSOX・日経・ナスダック・TQQQの急落で一気に加速\n- 中国のGPU放出（「GPU安くなぁれ」）、BTCが株と連動しているとの声\n（まーちゃん、ない、ハム太郎）\n\n### BTCの下落と節目\n- 21:13に80k割れ、23:52に78.5k、0時以降は77k・72〜73kを割り込む急落との声\n- 50kまでの想定、指値の梯子買い・ロング、中間選挙アノマリー（BTC -30〜-50%説）、「11月終値は100,856」ネタ\n- 「ビットコインのせいで寝れない」との嘆きも\n（ない、ハム太郎、Yajusenpai.hl）\n\n### HYPE・アルト\n- 19時台はHYPEの弱さ（「おはいぷ劣勢」）、22:42にZEC強気（「ZECは2代目BTC!」）\n- TRUMP下落、MSTR/MSTZ、ETH、Hyperliquidのポジション、3倍でBTC-15%・HYPE-28%の試算\n- リンク: https://x.com/tradeparagon/status/2117976089352134928 、 https://x.com/Crypto_bn/status/2118362353255510320\n（gorillapower、Gula、MaskJiro）\n\n### 夕方の規制・ポジション雑談\n- 日本の規制で受け取れない件、大口トレーダーのショート、HYPE関連の質問\n- Soneium AMAのスペース（https://x.com/i/spaces/1AMXAdakBoBLVA ）、明日の雇用統計、冬時間の取引時間ネタ\n- リンク: https://x.com/cryptorover/status/2118274474617540681\n（ハム太郎、タコ、gorillapower）\n\n---\n対象: 11/05 16:21〜11/06 00:28、約364件（11/05分約176±3・11/06分約188±10、DOMで1件ずつ数えた推計、CB Terminal 1件除外、スレッドなし）。Discord検索での確認は未実施、0:16〜0:17と0:26〜0:28は取りこぼしの可能性あり。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 364
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-06",
   "time": "00:10",

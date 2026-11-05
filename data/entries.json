@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-05",
+  "time": "12:10",
+  "summary_md": "### Opusの劣化疑惑（ステルスナーフ？）\n- 「Opusが文脈を理解しなくなった」「突然フランス語を話し出した」との声が相次ぎ、Opus 5.5 xHighもステルスナーフでは、Fable 5.5の予兆か、と推測。\n- ストレスで会話相手をFable 5.1に戻したという人も。\n- リリース後のモデル性能を追跡するベンチマーク [livenerf](https://github.com/ninjahawk/livenerf) が共有され、「めっちゃアホになっているわけではなさそう、何を変えてるんだろう」との見方。\n（ziban、だって人間だもの、A Chicken Burn Humanity）\n\n### ChatGPT Images 2.6 と OpenAIのリセット月間\n- OpenAIが[ChatGPT Images 2.6](https://x.com/OpenAI/status/2118124944928432327)を発表（GIF・参照画像対応、APIに新モデル2つ、生成50%高速化）。新モデル[GPT-Image-2.6 Flare / Sunburst](https://x.com/OpenAI/status/2118124964197114039)は「ポケモンみたい」。\n- SVGエクスポートを評価する声の一方、「GPT imageはAPIしか更新されない」との不満も。\n- ChatGPTのリセット期間が終わり、Opusも使いづらく「どこに逃げたら」との声。リセット月間は2〜4兆円吹き飛ばしてそう、毎月これなら年契約も、との感想。OpenCodeの無料枠運用もきつくなってきた。\n（0x コテキン まとめ職人、TheCat小屋ずん前小屋、namazu）\n\n### 民主党議員の超知能AI開発禁止要求\n- 民主党議員が超知能AIの開発禁止を求めたとの[Xポスト](https://x.com/sou_btc/status/2118139955990204673)に、「超知能を$200で使いたい」「政治家いらなくね？となるのが嫌なだけ」「安いプランで最上位モデルを使わせろ」と反発。\n（だって人間だもの、juiCYMod、ziban）\n\n### DiscordがRustでクライアント刷新\n- DiscordがElectronを捨ててRustでデスクトップクライアントを書き換えるという[話題](https://x.com/i/trending/2118130431350755530?s=20)に「うお〜」。\n（wz）\n\n---\n対象: 11/05 06:00〜11:22の31件（1件ずつ数えた±2、本文なしの2件を含む、ボット0件、スレッドなし、AI宛て文言なし、DOMの隠し要素は未精査）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 31
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-05",
   "time": "12:00",

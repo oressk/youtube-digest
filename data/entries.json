@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-06",
+  "time": "23:59",
+  "summary_md": "### 1. 経理AIエージェントとClaude活用\n- 顧客向け経理のAIエージェント化相談が夜帯で約50件と最も盛り上がり、Projects／Skills／Cowork／Teamsの使い分けや席単価が論点に\n- 日中はClaude Personal Financeや子ども向けClaude Code事例、夜はCCAO-F資格とパートナー制度の話題へ\n（nnf、ゲスト４２、邪悪なネコ、デロンギ）\n\n### 2. ローカルLLMとハード\n- RAM128GB＋RTX3090でのQwen運用や量子化ライン、GLM系への乗り換え、Keychronのバイブコーディング機器、Hy4のコスト感\n（だって人間だもの、ziban、wz、TheCat小屋ずん前小屋）\n\n### 3. 新モデルとセキュリティ懸念\n- GPT‑6 Cyber／GLM-5.5の発表共有から、強力モデルのサイバー悪用や個人情報流出への懸念、脆弱性診断の重要性へ議論がつながった\n（YOU、TheCat小屋ずん前小屋、NINO、ハツ太郎）\n\n### 4. 業界ニュースと雑談\n- catのOpenAI移籍、Steamインディー供給過多、ゆゆうたショート、G検定の価値、Museのカレンダー誤登録、Opus依存からSonnetへの見直し\n（YOU、たこす、肉彦、ゲスト４２）\n\n---\n対象: 11/05 23:59〜11/06 23:58:59。コメント数57件は各回の合計（ボット除外、スレッドなし）。",
+  "title": "1日まとめ",
+  "comment_count": 57,
+  "daily": true
+ },
+ {
   "date": "2026-11-06",
   "time": "19:00",
   "videos": [

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-06",
+  "time": "12:10",
+  "summary_md": "### サイバー悪用の先行き（続き）\n- 資金効率で仮想通貨取引所や大手が狙われているが、性能と台数が上がれば個人宅も狙えるようになるのでは、という懸念。\n（YOU）\n\n### ローカルLLMの乗り換え\n- DeepSeek系からGLM5.3Fへ乗り換えた直後の報告。RAM 96GB・RTX 5080 16GB構成でQwenが動くか質問あり。\n（ziban）\n\n### Keychronのバイブコーディング機器\n- Keychron F4 HE 8K Vibe Coding Keypadの紹介。プロンプト送信・編集承認・音声入力をキー割り当てできる。[製品](https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad)\n- 「Keychronがこんな姿に」との反応。あわせて、マイク付きの小さな無線AIコンパニオン案も共有された。[投稿](https://twitter.com/KeychronMK/status/2085183927334170896)\n（wz、ADAM、ゲスト４２）\n\n### Hy4の強さとコスト\n- Agent Arenaで中国モデル1位など強いが、オープンウェイトとしては高い、との感想。[投稿](https://fxtwitter.com/arena/status/2118501201847423358)\n（TheCat小屋ずん前小屋）\n\n### Claude Personal Finance\n- 米国ベータのPersonal Finance紹介。口座を読み取り専用でつなぎ、残高・取引を自然言語で聞ける。[投稿](https://x.com/claudeai/status/2118403114890137895)\n- 「FIREへの近道はSOXLフルレバ」などのジョークも。\n（ゲスト４２、だって人間だもの）\n\n### 子ども向けClaude Code活用\n- 子どもに欲しいアプリの設計書を書いてもらい、Claude CodeでM5Stack Tab 5に実装した事例が好評。[投稿](https://x.com/marurur/status/2118127326072602681)\n- 「自分の息子にも聞いてみたい」「ショート動画みたい／作る側ならOK」などの反応。ルーター買い替えのぼやきも。\n（ゲスト４２、なべ、だって人間だもの、てつ、gorillapower）\n\n### その他\n- 「grokbot落ちる...」との一言。\n（楓）\n\n---\n対象：11/06 08:12〜12:10（18件、1件ずつ数えた。ボット0件、スレッドなし。05:06〜08:12は投稿なし。AI宛ての文言やブラウザの警告はなし。DOMの隠し要素は未精査。Discordの「完了！」案内は表示されたが操作していない）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 18
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-06",
   "time": "12:00",

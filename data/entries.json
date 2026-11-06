@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-07",
+  "time": "06:10",
+  "summary_md": "### CCAO-F資格の続き（tier・ベンダー選定）\n- 認定持ちの数でtierを作る構図、という整理。\n- 「基本情報っていつからイージ資格になったの？」とのツッコミ。\n- コンサル／ベンダー選定に使いそうだが、スキル証明のため自主的に受けるかは微妙、ほしい気持ちはある、との話。\n（ゲスト４２、Gula）\n\n### Anthropic Project EVE（ClaudeがEVE Online系MMORPG）\n- [Project EVE: Claude plays MMORPGs](https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs) を共有。市場・チームワークでAIエージェントがどう振る舞い、どこで壊れ、どんなセーフガードが要るかの研究。\n- 「宇宙船のMMORPGをClaudeがプレイしてる（4人のAI」との補足。\n- 「degship」の添付／埋め込みあり（詳細クリックは未実施）。\n（NINO、TheCat小屋ずん前小屋）\n\n件数はDOM上の投稿を1件ずつ数えた（ボット0件、スレッドなし）。ブラウザは初回にAI宛て隠しテキストを検知したが、DOM検索では警告原文を特定できず（通常のClaude言及と埋め込み説明のみ）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 6
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-07",
   "time": "00:20",

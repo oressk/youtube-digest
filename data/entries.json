@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-07",
+  "time": "23:59",
+  "summary_md": "### Claude資格CCAO-FとAnthropic Project EVE\n- 深夜はCCAO-Fの認定数でtierが付く構図やベンダー選定での使われ方、ClaudeがEVE系MMORPGをプレイする研究の共有\n（ゲスト４２、NINO、Gula）\n\n### YouTube収益化・ショート制作とAI動画\n- 収益化申請が1日で通った報告、放置チャンネルが伸びたショートの話、チェック不要な動画生成の提案\n- AnthropicのDarioが「AI生成ショートはスロップで競合しない」とした話やClaude Duet、AI生成動画への疲れ\n（DEG@100%、Arcana @敗訴しました、ゲスト４２）\n\n### ローカルLLM・無検閲モデルとOpus/Codexの使い分け\n- GLM無検閲版の速度と画像認識の限界、クラウドに上げられない領域でのローカルLLM需要\n- ガードレールが厳しくなり、Opusで設計・Codexや無検閲モデルで実装する手動オーケストレーションが定番に\n（ziban、おぢおぢさん、なぞこい）\n\n### Museの使い勝手とMythos 5.1\n- Museは便利だがMetaへの権限付与が心配、使用量71%→93%の報告、Mythos 5.1承認スクショ\n（ゲスト４２、Arcana @敗訴しました、とむ）\n\n### 翻訳・移植ネタ（PLaMo、Sonoba、nxnative）\n- PLaMo 3 Translateの速さとChatGPTとの比較、画面翻訳Sonoba、SwitchゲームをApple端末で動かすnxnative、古いROM・ゲームdumpの話\n（だって人間だもの、sashimisoba、ゲスト４２）\n\n---\n※コメント数191件は各回の記録（counts.jsonl）の合計（1件ずつ数えた値）。ボット0件。",
+  "title": "1日まとめ",
+  "comment_count": 191,
+  "daily": true
+ },
+ {
   "date": "2026-11-07",
   "time": "19:00",
   "videos": [

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-08",
+  "time": "00:10",
+  "summary_md": "### 古いROM・ゲームdumpとAI続き制作\n- 「技術が滅んでリメイクされない作品」を処理してほしい、中古ゲームを片っ端からdumpしてほしいという話から、古のROMサイト・エミュ自作・最新作のコピー速度の話題へ\n- ROMベースの改造や、昔のゲーム／アニメの続きをAIが勝手に作る想像、違法コピー系の流れ込み（[X](https://x.com/HAGOVTorrent/status/2118791351018115299/photo/1)）\n（道路使用許可証（メガホン）、邪悪なネコ、ゲスト４２）\n\n### Muse使用量とMythos 5.1\n- Muse使用量93%まで到達した報告（以前の71%話への返信）、返答は遅いが許容範囲との声\n- Mythos 5.1承認・Fable共用のスクショ共有。リバースエンジニアリング即BANネタやDEG脆弱性・プロンプト要求の冗談、5.5がすぐ出るからリリースしたのでは、との見方\n（Arcana @敗訴しました、邪悪なネコ、ゲスト４２）\n\n### AI神経締め・鮮魚処理とSwitchのApple移植\n- Peter Thiel支援のShinkei（AIが魚の脳を処理して鮮度を保つ）を共有（[X](https://x.com/itsolelehmann/status/2118783732316573851)）。脊椎処理と酸化の補足、神経〆ネタ\n- SwitchゲームをiPhone/iPad/Macで動かすnxnative（[GitHub](https://github.com/seedds/nxnative)、[YouTube](https://www.youtube.com/watch?v=WTgzANpzW0U)）。Switch2ハック進展の話はネタで、実際はSwitch1のプログラミングアプリのホール、との訂正\n（ゲスト４２、だって人間だもの、TheCat小屋ずん前小屋）\n\n### 画面翻訳SonobaとPLaMo 3 Translate\n- 画面上の文字をその場で日本語に置き換えるWindowsアプリSonobaの紹介（[X](https://x.com/paisu_supai/status/2118989081858457736)）。Nani!不要になるのでは、スマートグラス＋読み上げで翻訳こんにゃく、という連想\n- PLaMoは0.8B〜2Bでも速い・領域最大2GB程度。Chrome拡張＋WebGPUでローカル自動翻訳できるのでは、無検閲オフライン翻訳機が欲しい、との話\n- BloombergのHyperliquid創業者記事をPLaMo 3 TranslateとChatGPTで比較。直訳感はあるが十分使える、段落差は大きい\n（だって人間だもの、sashimisoba、NINO）\n\n※ 対象は11/07 18:02より後〜11/08 00:04の69件（11/07分67・11/08分2、DOMで1件ずつ数えた、ボット0件、独立スレッドなし・返信カード3件はチャンネル上で本文確認、Discord検索未実施、AI宛て文言・ブラウザ警告なし、Discord「完了！」は未操作）\n",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 69
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-08",
   "time": "00:00",

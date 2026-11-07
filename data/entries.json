@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-07",
+  "time": "12:10",
+  "summary_md": "### YouTube収益化とショート制作の苦労\n- hareが収益化申請から1日で通ったと報告。\n- DEG@100%は放置していたチャンネルが伸び始め、[実は泣ける・スカッとする話](https://www.youtube.com/@ska-story1123/shorts)系ショートを共有。自分はチェックが苦痛でショートおすすめせず長尺志向、と説明。\n- Arcanaやてつ・魚くんさんらもショート増加を話題に。サンプル太郎は元動画クオリティに驚き[X投稿](https://x.com/Kashuuer/status/2118155171209621885)を共有。\n（DEG@100%、Arcana @敗訴しました、hare）\n\n### チェック不要な動画生成\n- Arcanaが「チェックの必要のない動画を生成するのはどうだろう」と提起し、意味不明動画好きの[投稿](https://fixupx.com/kingjuice_1991/status/2118617142405075072)を共有（チェック不要）。\n（Arcana @敗訴しました）\n\n### アプリ外販の勝機と魔境\n- ゲスト４２がiPhone Duo向け「おさかなお絵描き」[アプリ紹介](https://x.com/noshipu/status/2118515782430998802)を共有。てつは「ほぼDS」。\n- ゲスト４２・なぞこい・てつで、アプリは秒でコピーされ勝ち筋がない／Steamは100ドルデポジットでまだマシ、アプリ審査は魔境、という話。\n（ゲスト４２、なぞこい、てつ）\n\n### Anthropicのスロップ拒否とClaude Duet\n- ゲスト４２が[Claude Duet（スマホからClaude Code操作）](https://x.com/davidsuttonca/status/2118785613436698719)と、Dario Amodeiの「AI生成ショートは偽物・中毒・スロップでAnthropicは競合しない」系[投稿](https://x.com/vikktorrrre/status/2118763685564875020)を共有・要約。\n（ゲスト４２）\n\n### GLM・画像認識とローカルLLM需要\n- zibanがGLM5.3無検閲版の快適さと55tok/sを報告。画像はターミナルスクショ程度なら可、普通の写真は弱い、との評価。\n- iamyamadaが[WeVisCut](https://tencent.github.io/WeVisCut/)（9Bで脚本→動画編集）を共有。\n- なぞこい・YOU・TheCat小屋ずん前小屋で、建築などクラウドに上げられない領域でのローカルLLM需要と精度・評価の難しさ。TheCat小屋ずん前小屋はGLMで参照画像→3DのA/B例を添付、着眼点を言語化しないと画像認識は気付けない、と補足。ゲスト４２はthree.js＋ヘッドレスChrome比較ハーネスが要る旨。\n（ziban、なぞこい、TheCat小屋ずん前小屋、YOU、ゲスト４２）\n\n### その他\n- ADAMが「もしも野獣先輩が5秒間消えたら？」系[X投稿](https://x.com/dare_nan_desu/status/2115396173423067509)を共有。\n- YKTK・hareがチャンネル内で `AI総合 during:2026-11-05` 検索を実行（抽出動作の確認っぽい反応あり）。\n\n件数はDOM上の投稿を1件ずつ数えた（ボット0件、スレッドなし）。02:32〜06:49は投稿なし。AI宛て隠し指示・ブラウザ警告なし。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 63
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-07",
   "time": "12:00",

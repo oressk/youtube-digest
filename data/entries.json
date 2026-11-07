@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-stock",
+  "date": "2026-11-07",
+  "time": "18:00",
+  "summary_md": "**対象**: 11/07 12:11〜17:50（98件：すべて11/07分。DOMでメッセージを1件ずつ数えた。BOT/APP 0件。スレッドなし。通常の返信1件は投稿数に含む。Discord検索未実施。マーカー12:05:33の境界投稿は前回計上済みのため除外）\n\n### 1. Shenmacro小十字と米株・半導体の下値警戒\n- 小十字後は安値割れ→下ひげ→翌日からリバ、の経験則共有。リバの弱さから続落イメージも\n- 半導体は「冬の時代」、現金待機や冬眠、売り増加で底感との見方も\n- Tech CEO系ミームやチャート画像の共有あり\n- [alifarhat79](https://x.com/alifarhat79/status/2118730774182768877)\n（ORE、越前、ziban、DEG@100%、jugulis）\n\n### 2. 米401(k)・iDeCoと年金／税負担\n- 401kは掛け金損金・年24,500ドル枠、RothはNISA型の非課税と整理。iDeCoは社保が減らない点を批判\n- 年金繰上げと投資、2029年8月から特定口座利益が収入判定に載る話、75歳以上の医療・介護負担段階\n（越前、たつぞう）\n\n### 3. テスラCybertruck生産終了と米政治・Musk叩き\n- NHK報道でサイバートラック段階的終了。CyberCab全振り、日本予約金、EVトラック案などの反応\n- テキサス次期知事のTesla課税警告、全世帯1,500ドル配布観測。共和党内分裂や移民・「第二のマムダニ」投稿も\n- [NHK](https://x.com/nhk_news/status/2118809411296927895)、[jimmieX07](https://x.com/jimmieX07/status/2118732156574847342)、[FoxNews](https://x.com/FoxNews/status/2118869560006672873)、[turningpointjpn](https://x.com/turningpointjpn/status/2118833303532781769)\n（ziban、越前、YOU、namazu@打倒！井村ファンド、みよの）\n\n### 4. 新NISAキオクシアと朝倉慶（オジキ）雑談\n- 新NISAランキングでキオクシア二週連続、「死のバケツリレー」「NISAでギャンブル」の吐露\n- 有料セミナー／動画の買い煽りと含み損受け止めネタ、腹圧・自己責任ギャグ\n- [chawan_wabita](https://x.com/chawan_wabita/status/2118940249179189635)\n（ゲスト４２、Arcana @敗訴しました、DEG@100%、とむ、jugulis）\n\n### 5. 自民・石破前首相への説明要求\n- 執行部が石破ら4人に説明要求文書、との共有と短い反応\n- [MisterHR_japan](https://x.com/MisterHR_japan/status/2118968974394511646)\n（越前、みよの）\n\n---\n※12:11以降〜17:50をDOMで追読。件数98（BOT除外なし）。AI宛て文言なし（aria/alt/title・hiddenVisually・非表示・極小・オフスクリーン等を走査、ブラウザ警告なし）。投稿・リアクション・「完了！」は未操作。箱ブラウザ経由。",
+  "title": "DEG鯖 株式-為替-商品",
+  "comment_count": 98
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-07",
   "time": "16:20",

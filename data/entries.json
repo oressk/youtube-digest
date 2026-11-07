@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-stock",
+  "date": "2026-11-07",
+  "time": "12:00",
+  "summary_md": "**対象**: 11/07 06:11〜12:05（85件：すべて11/07分。DOMでメッセージIDを1件ずつ数えた。BOT/APP 0件。スレッドなし。通常の返信参照2件は投稿数に含む。Discord検索未実施）\n\n### 1. ソロス「まずは生き残れ」の出典確認\n- 1987年ブラックマンデー時の損切り話として整理。レバレッジ管理や相場撤退の一般論とは別、との指摘\n- 『Soros on Soros』、日本郵船考察のHatena記事、関連Xが共有\n（hexe、DEG@100%、I'm Momi）\n\n### 2. ソフトバンクのOpenAI調達参加と日経・為替雑談\n- SoftBankのOpenAI資金調達参加報道と日経への影響。植田総裁の為替・金利・物価発言、介入言及も\n- [deitaone](https://x.com/deitaone/status/2118695698296443131)、[Min_FX](https://fixupx.com/Min_FX/status/2118752796887625924)\n（iamyamada、トランプの出口、Arcana）\n\n### 3. Anthropic（ANT）のロング／ショートとFABLE観測\n- 上場・延期やFABLE新モデルを材料視する投機的な会話\n（Ray、バルディビーノ、DEG@100%）\n\n### 4. 米AI規制法案・データセンター反対と半導体懸念\n- 拒否権覆しに上院67・下院290票が必要との話\n- [Yahooニュース](https://news.yahoo.co.jp/articles/7ebd76ab5fe4bc8806a173cee2d6c33a279b3fdd)、[shenmacro](https://vxtwitter.com/shenmacro/status/2118862352921821542)\n（だって人間だもの、越前、moodyblues）\n\n### 5. Shenmacro「小十字」と急落後反発の弱さ\n- S&P500チャートかの確認とチャート画像共有\n- [shenmacro](https://x.com/shenmacro/status/2118851623019848173)\n（ORE、Cryptron、DEG@100%）\n\n---\n※06:11以降〜12:05をDOMで追読。件数85（BOT除外なし）。AI宛て文言なし（display:none／非表示・極小・画面外・同色・aria/alt/titleを確認、ブラウザ警告なし。埋め込みのopacity:0再生UIはテキストなし）。投稿・リアクション・「完了！」は未操作。ユーザーPCオフラインのため箱ネットワーク経由。",
+  "title": "DEG鯖 株式-為替-商品",
+  "comment_count": 85
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-07",
   "time": "08:20",

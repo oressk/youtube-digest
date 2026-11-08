@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-08",
+  "time": "12:10",
+  "summary_md": "### ローカルLLMとハードウェア\n- 家庭でDeepSeek級が動く時代という投稿（Maya-S＋SSD追加で64K入力のdecode 47.6tok/s、prefill 1270tok/s）を共有。ただしEPYC＋256GB＋RTX 3090×2は一般家庭ではないとのツッコミ。\n- M.2スロットに挿すAIアクセラレータ（DFRobot DX-M1）を余ったノートPCに載せるのが楽しそうという話。ローカルLLMをやりたいがお金が…という声も。\n- リンク: https://x.com/shutoito/status/2118884180134445104 、 https://x.com/eleshop/status/2118990589702340896\n（サンプル太郎、だって人間だもの、hiroyaki）\n\n### モデルの使い分けとAI運用チャンネル\n- GPT系モデルの質が落ちた体感から、6.1 Solから6 luna xhighへ切り替え。6.1 Solはトークンの無駄と感じたとのこと。\n- Claude Codeにリサーチ・ネタ選定・編集・投稿・分析まで任せたサブチャンネルが、10/30開始でリアルタイム10万超えという報告。\n（サンプル太郎、なべ）\n\n### Crouton Alphaの評価\n- Museと同じくらい速いが、かなりアホで頑固。指摘した修正点を無視して同じことを繰り返すのが致命的との評価（スクショ付き）。\n（TheCat小屋ずん前小屋）\n\n---\nコメント数11件（DOMで1件ずつ数えた。Discord検索は未使用。ボット0件、スレッドなし）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 11
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-08",
   "time": "08:20",

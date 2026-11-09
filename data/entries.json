@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-10",
+  "time": "08:20",
+  "summary_md": "### Museでの監視・利用の話\n- Museで監視できるかという質問、gifteeはすぐ盗まれるという注意、Museのモードをめぐる冗談や管理者許可の話。\n（フィン、キム氏、越前）\n\n### クリプトの弱さと朝の相場観\n- クリプトへの不満、株の反発に乗れなかった嘆き、HYPEへの不満、STRCの反発。\n- 朝には「じわあげ」「ロングするか」との声も。\n- 銘柄：HYPE、STRC\n（サンプル太郎、フィン、マンボウさん）\n\n### xyz:MSTRの取引モニター共有\n- 04:12、あるアドレスのxyz:MSTR取引（約定371回、最新方向はOpen Short、平均約定価格 約126.12）の更新を共有。\n- リンク：[hypurrscan](https://hypurrscan.io/address/0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66)、[Hyperliquid xyz:MSTR](https://app.hyperliquid.xyz/trade/xyz:MSTR/USDC?hloa=0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66)\n（サンプル太郎）\n\n### 株・ニュースへの反応（転送bot投稿が中心）\n- NVDAが4.3%安で7カ月ぶり安値、Anthropicが翌週に株式取引開始予定とのWSJ報道、トランプ氏のフアン氏関連発言の連投。CB Terminalまとめでは米株急反発・SOX +7.5%、PNCがCoinbase経由のUSDC決済を試験導入。\n- 人間側は「はやない？」「怒涛のトランプbot連打」などの反応。\n（サンプル太郎、shottt）\n\n---\n※コメント数27件（11/10 00:32:59より後〜08:01:24、BOT/APP 7件除外、スレッド返信なし）。Discord検索ではなくスクロールで1件ずつ数えた。動画・画像添付は未確認。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 27
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-10",
   "time": "06:10",

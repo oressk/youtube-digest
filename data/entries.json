@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-09",
+  "time": "23:59",
+  "summary_md": "### GitHub障害とAI時代のコード管理\n- GitHub Actionsの障害が多いのでは、という話から、AIのコミット頻度やLLMクローラーの負荷、Gitea・GitLab・cgitなどの代替、AI各社の自社運用やOpenAIのコード管理サービス参入の噂まで\n- バイブコーダー向けに、pushするだけのバージョン管理がほしいという声も\n（NINO、ziban、サンプル太郎）\n\n### ゼルダ「時のオカリナ」移植騒動とAI・著作権\n- Googleの開発者がリメイク版をAIで勝手移植して非難された件。「発売直後のゲームでやるのは悪手」、手法は既存のハッカーの手法だとの見方、AIのポケモン配信と許諾の話も\n（ziban、てつ、NINO）\n\n### AmazonのAI戦略とAlexa+\n- Amazonは他社と競わずコネクターでつなぐ立ち位置で「ツルハシ屋」、倉庫の自動化は勝てないレベルという話。Alexa+やSiri AIの感想も\n（YOU、ziban）\n\n### 深夜の短い雑談\n- Spark 1.3以降のMeta評価、クレカ会社の表現規制への一言など\n（TheCat小屋ずん前小屋、Ghints (ぎんつ)）\n\n---\n※コメント数52件は各回の記録（counts.jsonl）の合計。BOT除外。AIのマーカーは23:15:16（最終投稿時刻）だったが、0:10の回が実行時点まで読んでそれ以降の投稿がなかったため、読み直していない。",
+  "title": "1日まとめ",
+  "comment_count": 52,
+  "daily": true
+ },
+ {
   "date": "2026-11-09",
   "time": "19:00",
   "videos": [

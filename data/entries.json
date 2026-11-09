@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-09",
+  "time": "18:10",
+  "summary_md": "### GitHub障害と代替のコード管理サービス\n- GitHub Actionsの障害が最近多いのでは、という疑問から始まり、AIのコミット頻度が高すぎることや、self-hosted runnerでも取得元がGitHubだと影響を受ける点が話題に。\n- 代替としてGitea、GitLab、X（Origin）、Perforce/Alienbrain（動画・素材向け）、ローカルGitサーバーが挙がった。LLMクローラーのリクエストがDDoS級でサービスが落ちるため、守りを固めるべきとの指摘も。\n- GitHubの無料枠は公開リポジトリならRunnerが無制限だが、非公開は厳しく、VPSで大量に動かすと帯域が問題になりそう、という意見もあった。（NINO、サンプル太郎、ziban）\n\n### AI各社の自社コード管理とAI向けインフラ\n- GitHub離れの流れが来ている、Claudeも完全に自社運用している、OpenAIも自社のコード管理サービスを始めるらしい、との話。\n- AI開発が速い分、GitHubから都度取得することがボトルネックになっている、という指摘も。（TheCat小屋ずん前小屋、ziban、NINO）\n\n### 開発者・クリエイターへの影響\n- フロントエンドエンジニアやBlenderを使う3Dデザイナー見習いへの影響を心配する声があり、Claude OpusでBlenderをほぼ使えるようになっているという話も。（NINO、ziban）\n\n*コメント数はDOMで1件ずつ数えた（人間23件・BOT0件、すべて11/09分）。*",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 23
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-09",
   "time": "18:00",

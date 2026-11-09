@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-10",
+  "time": "06:10",
+  "summary_md": "### Qwen・オープンウェイトモデルの行方\n- Qwen4-27Bの発表時期に関する投稿が共有され、「せめてOpus 5くらいの賢さだと嬉しい」との期待。\n- Qwenシリーズにはオープンウェイトを続けてほしい、closedにならないでほしいという声。Nous ResearchのArete-27Bの記事も共有。\n- リンク: [Xの投稿](https://x.com/xiax0603/status/2119778486072070638)、[GIGAZINE: Nous Research Arete-27B](https://gigazine.net/news/20261109-nous-research-arete-27b/)\n\n（NINO、だって人間だもの）\n\n### AIボーカルシンセ（ボイパ・アカペラ）\n- 音声合成でボイパやアカペラができるAIの投稿を紹介し、CHIMERAで動くデモも共有。\n- リンク: [TomLikesRobotsの投稿](https://fixupx.com/TomLikesRobots/status/2119828029543178726)、[CHIMERA vocal synth](https://chimera-vocal-synth.vercel.app/)\n\n（NINO）\n\n### Claude Fable 5.2／Mythos 5.2の登場とリセットチケット\n- Claude Fable 5.2／Mythos 5.2の告知に「5.5じゃないんだ」との反応。Artificial Analysisの評価では「大分ジャンプした」。\n- ローンチ特典の利用枠リセットチケット（Fable限定、3枚）に盛り上がり、「MaxからUltraにしたくなった」との声も。\n- Mythos 5.2でアニメーション・シミュレーション・3Dワールドまで作れる動画も共有。\n- リンク: [Claude公式の告知](https://fxtwitter.com/claudeai/status/2119867114450268322)、[Artificial Analysisの評価](https://x.com/ArtificialAnlys/status/2119878995386982508)、[Mythos 5.2の動画](https://youtu.be/FMbXUxn_nBw)、[Fable 5.2ローンチオファー（サポート記事）](https://support.claude.com/ja/articles/17506494-claude-fable-5-2-ローンチ-オファー)\n\n（TheCat小屋ずん前小屋、Ghints (ぎんつ)、連鎖阻止）\n\n---\n対象: 11/09 23:15:16より後〜11/10 06:00:30の人間20件（すべて11/10分、DOMで1件ずつ数えた、ボット0件、スレッドなし、Discord検索は未使用）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 20
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-10",
   "time": "00:20",

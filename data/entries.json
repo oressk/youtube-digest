@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-10",
+  "time": "18:10",
+  "summary_md": "### Fable 5.2 の実力と驚きの声\n- Fableで動画・楽曲を作った例や、1段落の指示から電子機器を設計したClaude公式の例が共有され、「すごすぎる」「みんな驚き屋になってる」と反応\n- 曖昧な指示で6時間自走した、maxで7時間使っても使用率20%台、高齢者向けと伝えたら文字を大きくしてくれた等の体験談。「ナーフされる前に試したい」という声も\n- リンク: https://x.com/suna_gaku/status/2119932811889263027 ／ https://fixupx.com/claudeai/status/2119899459761131615\n（NINO、may93182、hare）\n\n### Effort設定とOpus 5.5との使い分け\n- midでもOpus 5.5 xhigh級で安い、仕事はmid常用・個人制作はhigh、maxは考えすぎで頑固なのでhighに変更、という意見が多数\n- effortで秒あたりのトークン速度は変わらず、違いは試行回数との説明。Fableに切り替える前にコンパクションすべきとの指摘、実装はOpusサブエージェントに任せる運用も\n（ゲスト４２、なぞこい、TheCat小屋ずん前小屋）\n\n### Muse・AI画像とAI絵論争\n- Museに位置情報を持たせストリートビューを散歩させる例（https://x.com/FalkRabbit/status/2119602821524025767）、LINE AIでのアイコン加工例、Museの課金後にアクセス権を失った報告など\n- AI絵を批判する人ほど見分けられていない、という議論も\n（邪悪なネコ、juiCYMod、TheCat小屋ずん前小屋）\n\n### その他・雑談\n- Android版「serial experiments lain」の非公式移植（https://github.com/VandalsEmpire/lain-psx-decompiled-android、元ディスクが必要）\n- Opus 5.5とKling 4.0で作ったMVが酷評された話\n- 新モデルが出ても以前ほど話題にならない、スマホと同じで性能差が分からなくなってきた、という雑談\n（NINO、wz、ziban）\n\n---\n※コメント数64件（11/10 11:27:33より後〜18:28:20、メインタイムラインをスクロールして1件ずつ数えた。ボット0件。Discord検索は未使用。別スレッド内の返信は未確認）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 64
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-10",
   "time": "18:00",

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-11",
+  "time": "06:10",
+  "summary_md": "### Notion AIのログ漏えい騒動\n- 個人のNotion AIでもログが漏れていたという投稿（転職の選考状況なども含まれる）が共有され、「ワーオ」「燃えそうだな」との反応。\n- 公式SNSが沈黙しFAQとメールで済ませている対応への批判も共有。「AIにセクハラしてるのが漏れたら終わる」という冗談も。\n- リンク: [kuritaさんの投稿](https://x.com/kurita_zzz/status/2120155167077323129)、[howdy39さんの投稿](https://x.com/howdy39/status/2120113113014161738)、[Notion Japan公式アカウント](https://x.com/NotionJP)\n\n（ゲスト４２、NINO）\n\n### 画像生成：MiniMax H3 image\n- MiniMaxの公式画像生成「H3 image」が登場。Krea2を超える画像編集の定番になるかとの期待。\n\n（saku、TheCat小屋ずん前小屋）\n\n### Gemini 4 Carbon公開とOpus 6への期待\n- GoogleがGemini 4 Carbon（最上位モデル、長期タスクや多段推論向け）を公開。「今更出されても」「Mythosでモデルの出し惜しみはダメと学ばなかったのか」と冷ややかな声。\n- 「Googleも利用枠リセットチケットを配ってほしい」、Anthropic上場記念にOpus 6を期待する声も。\n- リンク: [Googleの告知](https://x.com/Google/status/2120186185423159331)\n\n（Ghints (ぎんつ)、NINO、TheCat小屋ずん前小屋）\n\n### Fable 5.2の作例（ボーカルシンセ）\n- 声道を音響管のネットワークでモデル化するボーカルシンセのリポジトリをFable 5.2に渡して自由に作らせた作例を共有。「先日のやつが進化した」。\n- リンク: [gavinpurcellさんの投稿](https://fixupx.com/gavinpurcell/status/2120002682421182624)\n\n（NINO）\n\n---\n対象: 11/10 22:42:10より後〜11/11 05:54:03の人間16件（すべて11/11分、DOMで1件ずつ数えた、ボット0件、スレッドなし、Discord検索は未使用）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 16
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-11",
   "time": "00:20",

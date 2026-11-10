@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-10",
+  "time": "12:10",
+  "summary_md": "### Fable 5.2とOpus 5.5の使い分け・Effort設定\n- Fable 5.2はOpus 5.5超えの評価だが消費が激しく、「1つの質問で一気に持っていかれた」との声が多数\n- コーディングベンチではMaxで性能が下がるとの話があり、MaxよりxHighがよい、考えすぎが問題という見方\n- Opus 5.5 xHighはコスパが高いとして「Fableに設計、Opusに作業」「xhighを使わないならOpusでいい」「サブスクはFable枠を使い切ってからOpus」などの運用案\n- Fable 5.2の補助率はOpusの半分との投稿、Mythos 5.2のお城ベンチ（大幅進歩もトークン消費大）、台本はFableが一発で意図を汲んだとの報告\n- リンク: [Fable 5.2発表まとめ](https://x.com/SOU_BTC/status/2119877525312765974)、[Effort使い分け](https://x.com/ynishi2015/status/2119924815016718361)、[Mythos 5.2お城ベンチ](https://x.com/nemumusitocha/status/2119927273348636682)、[補助率の話](https://fxtwitter.com/AdamHoltererer/status/2119920571576398055)\n（Ghints (ぎんつ)、だって人間だもの、なぞこい）\n\n### Museでのローカル生成環境・TTS活用\n- MuseからTailscale経由でローカル生成環境（Krea2、Qwen2.1、Irodori-TTS等）を使う投稿を共有\n- Irodoriや専用GoogleアカウントでColab無料枠・Kaggle Notebookを使えるようにした、WSJを購読しMuseに毎朝要約させる予定など\n- Museに動画アップまで丸投げできないか、総務・経理は要らなくなるのでは、という話。WindowsでのTTSは「結局irodoriか課金」\n- リンク: [Muse×ローカル生成](https://fxtwitter.com/tebasaki3D/status/2119691995459502464)、[日本語対応ボーカルシンセ](https://chimera-vocal-synth.vercel.app/)\n（juiCYMod、TheCat小屋ずん前小屋、ziban）\n\n### AIでゲームを作る難しさ\n- 「AIでゲームを作って1週間で40万円」の投稿をきっかけに議論\n- ゲーム制作はゲームサイクルや調整など泥臭い工程が大半で、映えるビジュアルだけでは完成しない、昔から99%は完成しないとの指摘\n- ゲームループがしっくりこない、AIは音が苦手（ピクセルなら8bit風でごまかせる）といった声。Fable 5.2製の「Mirror Earth」ゲームも共有\n- リンク: [AIゲーム制作の投稿](https://x.com/csodafactory/status/2119703134788600216)、[Mirror Earth](https://fxtwitter.com/mattshumer_/status/2119877065701036047)\n（ゲスト４２、てつ、TheCat小屋ずん前小屋）\n\n### その他\n- Fable 5.2で筆描きしたコードアートの共有、エミュレーターなしでゼルダ時のオカリナが遊べる機器の話、燃え尽きて休憩中という雑談\n（TheCat小屋ずん前小屋、YOU）\n\n※コメント数はスクロールしながら1件ずつ数えたもの（Discord検索は未使用、BOT/APP 0件、スレッド活動なし）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 81
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-10",
   "time": "12:00",

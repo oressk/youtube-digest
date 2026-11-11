@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-12",
+  "time": "06:10",
+  "summary_md": "### Museで家計簿ダッシュボード、SaaS不要論\n- MuseにマネーフォワードをつないでラベルをAIで再分類→スペース化したら家計簿ダッシュボードができた\n- 「SaaS is dead」「銀行連携以外はもう要らない」との声。日本版Plaidのような銀行APIが欲しいという話も\n（NINO、だって人間だもの）\n\n### Museの市場調査力\n- 海外の音声作品の市場調査をMuseに頼んだら有益な情報がスラスラ出てきて、ChatGPTより使えるという感想\n（gorillapower）\n\n### Fable 5.2でWindows XPシミュレーター\n- ブラウザで動くXPシミュレーターを一発生成。テーマ（シルバー／オリーブ）選択やペイント、コマンドプロンプトまで動く\n- 共有画像: https://cdn.discordapp.com/attachments/1356850057340649644/1570128932051615915/image.png\n- 「高価な遊び」との反応\n（juiCYMod、namazu@打倒！井村ファンド）\n\n### Meta陣営 vs Grok陣営の予想\n- Muse＋WhatsApp＋FB/IG＋AIグラスと、Grok／Grok bot＋X＋Teslaの2陣営で争いそうという見立て\n（NINO）\n\n※コメント数はスクロール（DOM）で1件ずつ数えた（Discord検索は未使用）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 12
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-12",
   "time": "06:00",

@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-11",
+  "time": "23:59",
+  "summary_md": "### Claude・Fable 5.2の使い方とコスト\n- ClaudeDevsが無料フルリセットチケットを配布して好評、ただしFableは対象外で悲鳴\n- Fable 5.2は消費が大きく、修正回数を考えてOpusに戻すという声。550ドル相当のワンショットゲームなどの作例も\n- Claude Whiteboards・Sheets・Dataの発表\n（NINO、TheCat小屋ずん前小屋、ゲスト４２）\n\n### Muse Mail配布とエージェントのリスク\n- Muse Mailが日本の課金ユーザーにも届き始めた。使い道やメインアドレスを渡したくないとの声\n- 転送メールに仕込まれたプロンプトを指示として受け取る危険、エージェントのCAPTCHA突破とAIクローラーの行儀の悪さも話題\n（wz、とむ、邪悪なネコ）\n\n### 他社モデルの動向\n- Gemini 4 Carbon公開（Ultra限定に不満、コーディング能力は好評）、Qwen4、ERNIE 5.5、MiniMax H3 image\n- マスク氏の「Grok 4.8はOpus 5.5に及ばない」発言に驚きの反応\n（ゲスト４２、NINO、Ghints (ぎんつ)）\n\n### 漏えい・規制のニュース\n- Notion AIのログ漏えい騒動と公式対応への批判\n- 政府のAI開発事業者への罰則検討、専門家WGに開発者がいないとの懸念\n（ゲスト４２、gorillapower、NINO）\n\n---\n※コメント数142件は11/11の各回（counts.jsonl）の合計。ボット除外、スレッド返信込み。",
+  "title": "1日まとめ",
+  "comment_count": 142,
+  "daily": true
+ },
+ {
   "date": "2026-11-11",
   "time": "19:00",
   "videos": [

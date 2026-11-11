@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-12",
+  "time": "00:10",
+  "summary_md": "### CAPTCHA突破とbotアクセス\n- dots・Muse系エージェントにYouTube等を操作させるとbot判定でBANされないか不安、という話から、ChatGPTなどは無言でCAPTCHAを突破する、止まるのはClaudeくらいとの声\n- CloudFrontの無料枠を85%消費した原因がAIクローラーだった件。robots.txtのAI拒否規格は運用開始済みだが無視されがち、と行儀の悪さを嘆く\n（邪悪なネコ、ゲスト４２、連鎖阻止）\n\n### マスク氏「Grok 4.8はOpus 5.5に及ばない」\n- Polymarket Japanの速報を共有（https://fixupx.com/polymarketjapan/status/2120471612839641496 ）。SpaceX内でもOpus 5.5を活用しているのでは、負けを認めるのはすごい、などの反応\n（NINO、ziban）\n\n### 政府がAI開発事業者への罰則を検討\n- 47NEWSの速報（https://www.47news.jp/15215659.html ）。内閣府のAI専門家WG（https://www8.cao.go.jp/cstp/ai/ai_expert_wg/ai_expert_wg.html ）に最前線の開発者がいないことを懸念\n（gorillapower）\n\n### Fable 5.2の使い方とMuse Mailのリスク\n- Fable 5.2を無駄遣いしている気がする、それでメモリが高騰していると思うと…という冗談。Fableはプロジェクト責任者としては問題解決力が足りず、人間の指示の実行役だという評価も\n- Fable 5.2→Sunoの自信作の楽曲を共有（https://suno.com/s/OVCapWYo6ezPHCHg ）\n- Muse Mailのアドレスを取得した人が、Gmailから転送したメールに仕込まれたプロンプトを指示として受け取る危険があるのでは、と懸念\n（Arcana @敗訴しました、wz、TheCat小屋ずん前小屋）\n\n### Google謹製の開発スキル\n- Chrome for Developersの「Modern Web Guidance」を共有（https://developer.chrome.com/docs/modern-web-guidance?hl=ja ）。認証・セキュリティ系は入れておきたいとの声\n（だって人間だもの、NINO）\n\n---\n※コメント数はDiscord検索ではなく、DOMから1件ずつ数えた値（11/11分31件・11/12分1件、ボット0件、スレッドなし）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 32
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-12",
   "time": "00:00",

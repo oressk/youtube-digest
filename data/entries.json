@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-11",
+  "time": "12:10",
+  "summary_md": "### Claudeのリセットチケット配布と新機能\n- ClaudeDevsがPro/Max/Ultra/Team向けに無料フルリセット（12/10まで有効）を配布。「codexのリセチケとは重みが違う」と好評\n- ただしFableはリセット対象外と判明し、使ってしまった人から悲鳴\n- Claude Whiteboards・Sheets・Data発表。エンタープライズ向け実装の速さに感心\n- https://x.com/ClaudeDevs/status/2120275296637321476 / https://x.com/claudeai/status/2120206365759094857\n（てつ、ゲスト４２、0xnoise）\n\n### Google・Grok・Qwenなど他社動向\n- Gemini CarbonがAI Proで使えずUltra要求に不満、「大企業病」との声\n- Grok BotがTailscaleのtailnetに参加可能に（https://x.com/bot/status/2120279511707386263）\n- Grok Buildのアプリ生成で35,000件以上のユーザーアプリ関連の報道（https://fixupx.com/IntCyberDigest/status/2120283610301239778）\n- Qwen4予告（https://x.com/Alibaba_Qwen/status/2120335993643684315）\n（juiCYMod、DEG@やる気が-100%、モノアイ）\n\n### Museの使い方とFable 5.2のコスト\n- Museとccへの直接指示の違いが分からないという声に、zenn記事（https://zenn.dev/watany/articles/342b9815dd0553）が共有され「オレオレアプリ」発想が好評\n- Fable 5.2でワンショット生成したゲームがAPI換算約550ドル（https://x.com/felixrieseberg/status/2119925633564463609）、サブスクなら実質無料とのツッコミ\n（なべ、aruru、Ghints (ぎんつ)）\n\n### 雑談：SSD高騰と中古PCから部品回収、AI動画\n- ストレージ・メモリ高騰で、古いMacBook ProやPCからSSDを抜く話、ジモティー・ハードオフ活用\n- 中華製512GB SSDはAmazonで約1万円（https://www.amazon.co.jp/dp/B0D4YQXZHZ）\n- 競合YouTubeチャンネルの多くがSeedanceに切り替え中という話\n（nnf、gorillapower、だって人間だもの）\n\n---\n対象: 11/11 05:54:03より後〜12:09:07（人間47件、DOMで1件ずつ数えた、ボット0件、スレッドなし、Discord検索未使用）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 47
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-11",
   "time": "12:00",

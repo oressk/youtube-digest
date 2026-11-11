@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-11",
+  "time": "18:10",
+  "summary_md": "### Muse Mail（Museのメールアドレス）配布\n- 米国の有料ユーザー限定との情報から、日本の課金ユーザーにも届き始めた報告（GOROman氏の投稿: https://x.com/GOROman/status/2120363816420778264 ）\n- 課金して即届いた人も。一方「メールが来ても何に使うのか」「メインのアドレスは渡したくない」との声\n- Museをヘルスケア連動のダイエットコーチにしたい、CodexをMuse経由で使う、Museに動画を作らせる・トークンを使い切る案など\n- 長尺4000時間・広告収益の報告機能の話題も\n（wz、とむ、たこす）\n\n### Fable 5.2の消費量とOpusとの使い分け\n- 公式プロンプトガイド（ https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2 ）とコード所有権の話\n- Medium/Highとも消費が大きく、従量課金では厳しいとの感想\n- 結局人手の調整が要るので、修正回数を優先してOpusに戻したという意見\n（NINO、TheCat小屋ずん前小屋、だって人間だもの）\n\n### 中国モデル・画像/動画生成とGemini 4 Carbon\n- Qwen4発表（ https://x.com/Alibaba_Qwen/status/2120335993643684315 ）、Baidu ERNIE 5.5 Flash Preview（ https://fxtwitter.com/Baidu_Inc/status/2120391732248637734 ）\n- MiniMax H3 Imageのtxt2imgを試したい（ https://fxtwitter.com/Noukin_Camera/status/2120312162539516402 ）、Seedanceで価格競争\n- Higgsfieldの売上急成長に「ツルハシ売り、売れすぎ」（ https://x.com/alexmashrabov/status/2120322553600430213 ）\n- Gemini 4 Carbonのコーディング・モデリング能力が強いとの評判（ https://x.com/kenn/status/2120389225824854476 ）\n（ゲスト４２、TheCat小屋ずん前小屋、DEG@2026年あと1億）\n\n### AI動画チャンネルのコメント欄談義\n- 読み方がおかしい動画にもコメントする良客、コメント数が正義、サブチャンネルの数値改善\n- 「AIに返信させるといい」「トークンがもったいない」\n- AIを使った裁判書面・反論の投稿も共有（ https://x.com/koyoarakawa/status/2120099200298111011 ）\n（なべ、DEG@2026年あと1億、なぞこい）\n\n---\n対象: 11/11 12:09:07より後〜17:46:18の人間48件（ブラウザで1件ずつ数えた。ボット0件、12:09:07.697の1件は前回分として除外、スレッドなし）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 48
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-11",
   "time": "16:20",

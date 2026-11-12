@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-13",
+  "time": "08:20",
+  "summary_md": "### BTC安とアルトの動き\n- BTCの下落と弱い反発、70k割れへの警戒。ロングの損切りや利確の報告\n- HYPE・JUPが相対的に強いとの声。ETHを買い始めた人も。AAVE・MSTRの売買、COCO・MEGAへの言及\n- 参考: [関連まとめ](https://cb-terminal.dev/ja/topic/da5442de-46c4-4c9f-93a8-c2019399ad4b)\n（サンプル太郎、ガリンペイロ、green）\n\n### Hyperliquidの手数料と高速取引競争\n- priority feesなど、Hyperliquidでトレーダーが優位を競う動きの記事を共有（HYPE関連）\n- [0xLorisの投稿](https://x.com/0xLoris/status/2120918332123562164)、[Bloomberg記事](https://www.bloomberg.com/news/articles/2026-11-12/at-hyperliquid-traders-bid-for-edge-in-crypto-s-high-speed-race)\n（サンプル太郎）\n\n### Backpackの福岡進出\n- みんなの銀行とTrek Labs Japanの基本合意に関する投稿を共有\n- [みんなの銀行の投稿](https://x.com/minnano_ginko/status/2120794064513843522)\n（gorillapower）\n\n### ビットコイン伝道師の日経ライブ出演\n- 西山祥史氏の日経ライブ出演を共有し、本人の見た目へのコメントも\n- [Nishi8maruの投稿](https://x.com/Nishi8maru/status/2120822274047836452)\n（分散化された新垣結衣、MAGIGAG）\n\n### NVIDIA CEO退任報道などのニュース（APP配信）への反応\n- NVIDIAの「Tim CookがCEOを継ぐべき」発言や退任まとめ、Kalshi、SpaceX・Tesla合併観測、Anthropic IPO、Binance関連の押収報道などがAPPで流れ、NVIDIAの件に人間の反応が集まった\n（てつ、78、沖縄に良いところはない）\n\n### 雑談: 運動と寿命\n- テニス経験者は推定寿命が9.7年長いという記事を共有（[Yahoo!ニュース](https://news.yahoo.co.jp/articles/9da7991c7f6f9c846f7dc703518fabcb16663b7c)）\n（green、DEG@2026年あと1億、nekone）\n\n---\n対象: 11/13 00:29:33より後〜08:27:39。人間60件（BOT/APP 13件は除外）。件数はスクロールで1件ずつ数えたもの（Discord検索は未使用）。スレッドの動きなし。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 60
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-13",
   "time": "06:10",

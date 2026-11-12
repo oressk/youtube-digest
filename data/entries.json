@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-13",
+  "time": "06:10",
+  "summary_md": "**対象期間**: 11/12 21:37:48より後〜11/13 05:47:15（人間17件、すべて11/13分）\n\n### Fable 5.2とOpus 5.5の使い分け\n- Fable 5.2 Highを常用すると5アカウントでも2日で尽きるので、ここぞという時のスポット利用が良いという意見\n- 普段使いはOpus5.5 xhighかFable 5.2 mediumが候補で、どちらが良いかはまだ判断がつかない\n（だって人間だもの、NINO）\n\n### AX（AIトランスフォーメーション）とは\n- Algomatic CEOのAXと組織改編に関する投稿を共有し、役員の再編にまで及んでいると紹介（[投稿](https://fixupx.com/hktech94/status/2120813097783033910)）\n- 日本のAXは「AI版のDX」の和製語で、主に行政向けの言葉。海外のAXはAgent Experienceのこと（[Netlify](https://www.netlify.com/agent-experience/)）\n- 最近のセキュリティ事件を見ると、そもそもDXが済んでいるのか企業に聞きたくなるという声\n（NINO、邪悪なネコ）\n\n### 新しいツール・モデルの話題\n- Vercelの、振る舞いでUIを定義する対応範囲の広いUI SDK（[投稿](https://fixupx.com/vercel/status/2120950020249895314)）\n- Gemini 4 Hydrogenのベンチマーク。「サブスク料金がまともなら」との声（[投稿](https://x.com/ArtificialAnlys/status/2120941511223185722)）\n- 中華キーボードとCodexで自作ショートカットランチャーを作った報告\n（NINO、TheCat小屋ずん前小屋、サンプル太郎）\n\n### 米国のGPU対中姿勢\n- 米国の対中GPU姿勢についての投稿を共有し、民主党にとってファン氏が邪魔だったのではと推測（[投稿](https://x.com/ImAI_Eruel/status/2120892477406331264)）\n（gorillapower）\n\n---\n※件数は画面で1件ずつ数えたもの（ボット0件、スレッドなし、Discord検索は未使用）。ブラウザがdiscord.comにAI宛ての隠しテキストがあると知らせてきましたが、従っていません。ページのHTMLとアクセシビリティツリーを検索しても文面は見つかりませんでした。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 17
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-13",
   "time": "06:00",

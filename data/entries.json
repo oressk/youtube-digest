@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-13",
+  "time": "12:10",
+  "summary_md": "### Gemini 4 Hydrogen／Carbon／Argonの使い分け\n- 「Hydrogen・Carbon・Argonの違いが分からない」「チームごとにバラバラに作ってる？」という声に、Googleの大企業っぽさを指摘する反応\n- HydrogenはGemini 3.8 Flashの2倍、Carbonより25%安い価格との投稿（[X](https://x.com/TJeparskis/status/2120969944611410012)）。Carbonは遅いのでHydrogenがちょうどよさそうとの見方\n- 3時間使った感想として「速く安く、Geminiアプリ・AIモードで無料、性能はSonnet以上Opus未満、ハルシネーションも改善」との紹介（[X](https://x.com/gigabit_million/status/2121024386065154378)）\n（ゲスト４２、Gula、ziban）\n\n### Self-hosted Claude Managed Agentsと企業寄り路線\n- Claude Managed Agentsのセルフホスト版がプライベートベータに（[X](https://x.com/ClaudeDevs/status/2120938988165091693)）。ローカルで動かせると期待されたが、エンタープライズ向けAPIのみと判明\n- Claude Duetもクラウドホストで、Anthropicが企業向けに寄っているという嘆き\n（YOU、ゲスト４２）\n\n### OpenAIのdot更新と使用量リセット\n- dotの更新（返信の高速化、カスタム指示対応など）と、それに合わせた使用量リセットの配布（[Tibo](https://x.com/thsottiaux/status/2120999993079451919)、[ChatGPT](https://x.com/ChatGPT/status/2120970988796170275)）\n- 「リセットよりClaudeのリセットが欲しい」「リセット月間なら再契約するかも」との声\n（Ghints (ぎんつ)、gorillapower、TheCat小屋ずん前小屋）\n\n### 子ども向けマイクラ攻略アプリづくり\n- Maxプランの余った使用量で、息子向けのマイクラぼうけんずかんアプリをOpusと開発。工程をタスクに分け「できた」ボタンで進む仕組みで、友達ごとの進捗管理も構想\n- 「欲しい親は多そう」「Robloxから遠ざけられる」と好評。親子のマイクラ談義で盛り上がった\n（なべ、BIGDANIEL）\n\n### その他\n- 無検閲モデルに仕込まれる休眠ニューロンのバックドア研究の紹介（[X](https://x.com/dimitrispapail/status/2120245027804705121)）（Ghints (ぎんつ)）\n- MuseのNSFW文章の許容範囲についての投稿（[X](https://x.com/hitotoki_0627_C/status/2121001871427211314)）（gorillapower）\n\n*コメント数はスクロールで1件ずつ数えた（Discord検索は未使用、ボット0件、スレッドなし）。*\n",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 49
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-13",
   "time": "08:20",

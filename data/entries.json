@@ -33,6 +33,15 @@
   "daily": true
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-11-13",
+  "time": "23:59",
+  "summary_md": "### BTCの7万ドル割れと反発の行方\n- 未明から下げ続け、昼過ぎに68k台へ。200MA・フィボナッチ・CME窓などの水準を手がかりに、底打ちかまだ下かで終日意見が割れた\n- 夜は低出来高の反発の持続性やETF資金流出（BTC約2.8億ドル）が話題に\n（ない、くまさんドル円おさわり、ジンジャー）\n\n### HYPE・JUPの底堅さとHyperliquid\n- HYPEとJUPはBTCより強くディフェンシブとの見方。HyperliquidのBTCロングの95%が含み損との投稿で清算を警戒\n- BitsoとHyperliquidの連携（中南米でオンチェーンperp）、手数料・高速取引競争の記事も共有\n（green、Gula、サンプル太郎）\n\n### 急落の原因探し（NVIDIA・Anthropic IPO・MSTR）\n- NVIDIA CEO退任報道、Binanceの売り、Anthropic IPOへの資金移動説などを推測。StrategyがBTCの平均取得価格（約75k）を割り込み、MSTR・MSTUのポジション調整も議論\n（越前、Yajusenpai.hl、カメ）\n\n### エアドロ・perpのリスクの反省\n- ポイント稼ぎでポジションが膨らみヘッジ不足になった反省や、損失を受けてperpから撤退する話\n（gorillapower、ない、Yajusenpai.hl）\n\n---\n1日のコメント数968件（0時23・8時60・16時683・翌0時202件の合計。BOT/APP除外、スレッド返信込み）。最も盛り上がったのは昼〜夕方の急落局面。",
+  "title": "1日まとめ",
+  "comment_count": 968,
+  "daily": true
+ },
+ {
   "date": "2026-11-13",
   "time": "19:00",
   "videos": [

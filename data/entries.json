@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-13",
+  "time": "16:20",
+  "summary_md": "### BTCの急落と反発期待\n- 7万ドルを割り込み68k台へ。日足・週足200MA、フィボナッチ、CME窓などの水準が意識され、まだ下があるのか、底打ちして反発するのかで意見が割れた\n- 24時間の清算規模や、売りが続くのに出来高が少ないことを不安視する声も\n- リンク: [CoinGlass（次の支持線は約68k）](https://x.com/coinglass_com/status/2120189227455459710)\n（くまさんドル円おさわり、ジンジャー、KANI Stable）\n\n### アルトはBTCより強いか弱いか\n- HYPEとJUPは比較的底堅く、HYPEをディフェンシブと見る声も。BTCだけが特に弱いという見方もあった\n- ETHの2,000ドル、SOLの80ドル、XRPの1ドルを割る水準や、ZEC・NEARの大幅安が話題に\n- 銘柄: HYPE、JUP、ETH、SOL、XRP、ZEC、NEAR、JLP\n（Gula、green、ぐっつ）\n\n### 急落の原因探しと株・IPOとの連動\n- Binanceの売りや資金流出、NVIDIA・Microsoftの下落が原因ではという推測。CZとNVIDIAのフアン氏をめぐる話は冗談として繰り返されていた（真偽不明）\n- Anthropic IPOの約6倍の応募超過で、資金がIPOに流れる可能性。キオクシアの下落、PPI/PCEの発表予定にも言及\n- リンク: [CB Terminalの市況まとめ](https://cb-terminal.dev/ja/topic/80039cbf-f1c8-4290-9ba4-0a74a31be85e)\n（越前、NINO BTC、マンボウさん）\n\n### StrategyとMSTRまわりのポジション調整\n- BTCがStrategyの平均取得価格（約75,000ドル）を下回ったこと、MSCI除外後に反発する可能性、STRCのショート、MSTRとMSTUのどちらを持つかを議論\n- 戻りは売り場という意見と、反発を期待する意見に分かれた\n（サンプル太郎、Yajusenpai.hl、カメ）\n\n### HyperliquidのBTCロングとBitso連携\n- HyperliquidのBTCロングは95%が含み損で、平均取得価格75,565ドルに対し現在68,588ドル、ロング総額13.2億ドルという投稿を共有し、大量清算を警戒\n- BitsoがHyperliquidと連携し、中南米の1,000万人超がオンチェーンの無期限先物を取引できるようになる\n- リンク: [SOU_BTCの投稿](https://x.com/SOU_BTC/status/2121132086069510337)、[chameleon_jeffの投稿](https://x.com/chameleon_jeff/status/2121135231482896500)\n（gorillapower、green）\n\n### そのほかのニュースと終盤の値動き\n- SANCのUpbit上場、DNAのBithumb上場（APPの転送投稿で、件数には入れていない）\n- 終盤の小さな反発がデッドキャットバウンスかどうかを議論。NVIDIA CEO退任観測の投稿も共有された\n- リンク: [Quantzilla34の投稿](https://x.com/Quantzilla34/status/2120570486530703533)、[0xNairolfの投稿](https://vxtwitter.com/0xNairolf/status/2120893357505515913)\n\n---\n※対象は11/13 08:27:39より後〜16:41:03。人間の投稿683件（すべて11/13分）。DOMで1件ずつ数え、Discord検索は使っていない。BOT/APPの3件は除外し、動きのあったスレッドはなかった。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 683
+ },
+ {
   "date": "2026-11-13",
   "time": "16:00",
   "videos": [

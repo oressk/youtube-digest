@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-14",
+  "time": "00:20",
+  "summary_md": "### BTCの下落・反発と市場見通し\n- 急落後の低出来高での反発、持続性、ロング／ショートの判断が議論に\n- ETF資金流出（BTC約2.841億ドル、ETH約7,050万ドル）との共有\n- NVIDIAのAI投資縮小見通しも市場材料に\n- リンク: https://cb-terminal.dev/ja/topic/82ba0711-621e-4d84-aa2e-899505b73b83 / https://vxtwitter.com/0xNairolf/status/2120893357505515913\n（ない、まーちゃん、nekone）\n\n### HYPE／HyperliquidとBitso連携\n- Bitso利用者がHyperliquidでオンチェーンperpを取引できる連携が共有\n- 発表のタイミング、HYPEの値動き、現物買い・ロングについて議論\n- リンク: https://x.com/chameleon_jeff/status/2121135231482896500\n（green、Gula、Yajusenpai.hl）\n\n### Anthropic IPOと暗号資産の売り圧力説\n- IPOの換金売りがBTCに影響するのではという推測\n- BTCとIPO株のどちらを選ぶか\n（78、arthurOmanko、サンプル太郎）\n\n### エアドロ・perp取引のリスク\n- ポイント稼ぎでポジションが大きくなりがち、ヘッジ不足の反省\n- 損失を振り返ってperpから撤退する話、ZECの値下がりや指値にも言及\n（gorillapower、ない、Yajusenpai.hl）\n\nその他の共有リンク: https://youtu.be/F0AhbfbcVbk\n\n---\n対象: 11/13 16:41:03より後〜11/14 00:27:54の人間217件（11/13分202件・11/14分15件、BOT/APP1件除外）。件数はDiscord検索ではなく、DOM上で1件ずつ数えたもの。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 217
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-14",
   "time": "00:10",

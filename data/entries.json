@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-stock",
+  "date": "2026-11-13",
+  "time": "18:00",
+  "summary_md": "### NVIDIA・AI投資の行方\n- フアンCEO辞任報道を受け、AIスタートアップなどへの出資・信用供与が縮小するとの見通し。投資先がGPUを買う循環構造（CoreWeave、Nebiusなど）を議論\n- Alice Huang氏の件はReutersの投稿を受け「司法省はスパイと結論していない」と訂正する流れも\n- [Masa_Aug2020のポスト](https://x.com/Masa_Aug2020/status/2121122659085996394)、[cb_terminalのポスト](https://x.com/cb_terminal/status/2121125922833109179)、[Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-11-13/TOF1BNRKV2TI00)、[NVenturesのポートフォリオ](https://www.nvidia.com/en-us/startups/nventures/portfolio/)、[Reuters](https://x.com/Reuters/status/2121017723459096670)\n（namazu@打倒！井村ファンド、mmk7636、DEG@2026年あと1億）\n\n### 株・為替・貴金属・BTCの変動\n- キオクシアや日経の下落、ドル円160円近辺での急変、金・貴金属・BTCの弱さ。原因は金利、テクニカル、IPO資金需要などの推測どまり\n- ASICS、WHI、三井住友FG、原油にも言及\n- [aryaryのポスト1](https://x.com/aryarya/status/2121111932090642801)、[aryaryのポスト2](https://x.com/aryarya/status/2121115753013469248)、[日経](https://x.com/nikkei/status/2121050029162979653)、[news9111](https://x.com/news9111/status/2121110014278672518)、[PropTrader88](https://x.com/PropTrader88/status/2120997312667549845)\n（mmk7636、きょ@ダイエット、NINO）\n\n### Outlook障害\n- 財務省を含むメール障害、社外連絡は電話で代替、Teamsは使える、社内のOutlook依存など\n- [AanyaKiDuniyaのポスト](https://x.com/AanyaKiDuniya/status/2121146579197509994)\n（moodyblues、mmk7636、TheCat小屋ずん前小屋）\n\n### Anthropic IPO\n- 応募約6倍の超過（売出825百万株・上限約644億ドルとの説明）、IPO向けの資金需要と「つるはし」銘柄、moomooの勧誘電話\n（越前、ro、アルエ）\n\n### 防衛費と増税\n- 首相が大幅増税に慎重との記事を受け、7.4兆円を金融所得税だけで賄う場合の税率を試算\n- [毎日新聞](https://mainichi.jp/articles/20261112/k00/00m/010/277000c)\n（越前）\n\n※対象: 11/13 12:09:35より後〜18:19:00。件数はスクロールしながら1件ずつ数えた（前回分の12:09:35の投稿1件は除外）。BOT/APPは0件、スレッドの動きなし。Discord検索は未使用。\n",
+  "title": "DEG鯖 株式-為替-商品",
+  "comment_count": 249
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-13",
   "time": "16:20",

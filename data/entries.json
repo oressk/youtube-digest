@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-14",
+  "time": "00:10",
+  "summary_md": "### Claude障害・不安定化（夕方〜夜）\n- 18:53ごろ「Claude死んだ？」から一斉に不調報告、[Claudeステータス](https://status.claude.com/)でパフォーマンス低下を確認\n- 19:00ごろ一時復帰→19:16に再ダウン、「連打で入れた」「詫びチケください」の声。GPTも重いとの指摘\n- 22時台・23時台も「また不安定」「バカになってる」、Artifactsの自動更新バグなど不具合報告が続く（!!炎髪灼眼のほったて小屋🏚️!!、さとちゃん@全財産HYPE、アルエ）\n\n### モデル比較・技術ネタの共有\n- 「Opus xhighとFable midが同等性能」「midは速くて安い」という比較ポストを共有\n- 関連ポスト: [k_matsumaru](https://x.com/k_matsumaru/status/2121127634444689649)、[ynishi2015](https://x.com/ynishi2015/status/2119924815016718361)、[LitoJape](https://x.com/LitoJape/status/2120018376231989657)、[theo](https://x.com/theo/status/2119960608816988596)（「マニアックすぎる」）\n- MS365障害の詫びクレジットの話の続き（仮ゲスト１２、ADAM）\n\n### フアン退任ネタの冗談\n- 「世界を滅亡から守っていたフアンが諦めた」「追われたら世界中のGPUのキルスイッチが入る」とOffice・Claude連続障害を茶化す（仮ゲスト１２、マンボウさん）\n\n### 法律のGit化・AI音楽など\n- [日本の法律をGitで履歴管理する記事](https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git)のコメント欄でAI議論（NINO）\n- 社内で作っていた汎用システムを他社の上位互換に先を越された話（なぞこい、ziban）\n- AI作曲の出来の良さ（[acemusicAI](https://x.com/acemusicAI/status/2120945723005166053)、[aicreataro](https://x.com/aicreataro/status/2120763967178195000)）、広告の「適合性」表示が出るようになった報告（仮ゲスト１２、hare）\n\n---\n対象：11/13 18:25:02より後〜23:43:02の人間53件（DOMで1件ずつ数えた、ボット0件、スレッドなし、Discord検索は未使用）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 53
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-14",
   "time": "00:00",

@@ -8,6 +8,14 @@
   "comment_count": 8
  },
  {
+  "source": "deg-stock",
+  "date": "2026-11-14",
+  "time": "12:00",
+  "summary_md": "対象: 11/14 06:01:32より後〜11:29:22（人間38件、BOT/APP 9件除外、スレッドなし。スクロールで1件ずつ数えた）\n\n### 米国でFAA全便地上待機（通信障害）\n- 米国内線が全便ストップ。FAAの全米地上待機命令は9/11以降2度目の異例対応\n- 原因はL3Harrisネットワークの更新後障害との報道（$LHX）、Microsoftは関連を否定、DHSはサイバー攻撃ではないとしつつ調査継続\n- 10時台に解除。「これで激リバか？」「ショートなくしてセーフか」と相場への影響を気にする声\n- リンク: https://x.com/hormuzletter/status/2121367946077282629 / https://x.com/FoxNews/status/2121353351468310803 / https://x.com/spectatorindex/status/2121386131074027775\n（花咲天使、越前、Do Kroissant🥐）\n\n### NVIDIAフアン問題と中国・スパイ論争\n- 不倫相手は密輸・転売ヤーでスパイではなかったのか、チップ企業にスパイの意味はあるのかで議論。次製品の開発動向を聞く価値はあるとの意見\n- 中国当局によるNVIDIA AIチップ（H20、RTX Pro 6000D）購入停止命令（2025年9月報道）の振り返り\n- 社員がフアン復帰を求めるWIRED記事、マイケル・バーリの「NVIDIA on Fire」、ドゥーロフの「取締役会を持つな、自分が取締役会になれ」投稿も共有（$NVDA）\n- リンク: https://wired.jp/article/nvidia-employees-petition-for-jensen-huangs-return/ / https://x.com/michaeljburry/status/2121259254497566847 / https://x.com/durov/status/2121174800576246058\n（越前、namazu@打倒！井村ファンド、shu）\n\n### 米株見通しとその他\n- Goldman SachsがS&P 500の1年後目標を8700に。「+15%/年ならあり得る、AIのモメンタムもある」\n- 相対的に日経が強い、Anthropicは買ったら儲かるのか、「ツルハシを買えばOK」\n- Raspberry Pi 5のメモリが中国メーカー製に、VIX先物スプレッドの「勝率100%」取引の話\n- リンク: https://x.com/reutersjapanbiz/status/2121377720042959120 / https://x.com/EMakerDragon/status/2121218081582358919 / https://x.com/therobotjames/status/2121225416312779201\n（DEG@2026年あと1億、namazu@打倒！井村ファンド、サンプル太郎）\n\n※コメント数はDiscord検索ではなくスクロールで1件ずつ数えたもの",
+  "title": "DEG鯖 株式-為替-商品",
+  "comment_count": 38
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-14",
   "time": "08:20",

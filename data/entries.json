@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-14",
+  "time": "23:59",
+  "summary_md": "### Claude障害の余波\n- 前夜の障害を受け「詫びにMAX1年無料に」などの冗談、museくんがCodexを使ってくれない笑い話\n（とむ、Donald_Fujita、juiCYMod）\n\n### ChatGPT Walletとdotsの不調\n- OpenAIの「ChatGPT Wallet」（エージェントがユーザー承認のうえ購入まで完了）発表\n- dotsが「できません」と返す問題と再起動での対処、Codexの回答が一般論ばかりという不満\n（ミドルリスク投資家、TheCat小屋ずん前小屋、NINO）\n\n### コーディングエージェントのSSD酷使\n- Claude CodeにBlenderで作らせたら累計50GB以上書き込んだ投稿から、SSDの劣化やブラックフライデーでの確保の話へ\n（aruru、なぞこい、gorillapower）\n\n### モデルの使用感とAI生成物の見分け\n- Fable 5.2はいまいちでOpusに戻した、Gemini 4 Hydrogenの評判\n- AI絵がもう見分けられない、slop誤BANの増加、リアルなAI音声対話\n（TheCat小屋ずん前小屋、邪悪なネコ、仮ゲスト１２）\n\n### YouTube長尺動画の伸び悩み\n- 収益化後に伸びない、サムネのインプが低いなどの悩みと体験談\n（mmmmmrr.、tanaK、てつ）\n\n---\n※ 11/13 23:59〜11/14 23:58:59の人間の投稿75件（各回の記録の合計、ボット除外）。0時の回は00:03ごろまで読んで最後の投稿が23:47:40だったため、それ以降〜23:58:59の投稿はなし",
+  "title": "1日まとめ",
+  "comment_count": 75,
+  "daily": true
+ },
+ {
   "date": "2026-11-14",
   "time": "19:00",
   "videos": [

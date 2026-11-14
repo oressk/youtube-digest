@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-15",
+  "time": "06:10",
+  "summary_md": "### Claudeと長尺動画の待ち時間\n- 直接話すならやはりClaude、という声\n- 長尺動画は人が見る時間はないが生成の待ち時間がネック（may93182、なぞこい）\n\n### 楽待「超知能AI」動画とエミン・ユルマズ氏\n- 楽待の動画を共有：https://youtu.be/iY2MFP2VHi4?si=dTeDqNxrL7FWA9KZ\n- ユルマズ氏のビットコイン煽りからの変化、まどマギ好き・メイドインアビス推しなどの小ネタ（NINO、トランプの出口🏅）\n\n### 動画制作の悩みとAIツール評価\n- 動画制作の苦心、メインチャンネルがスランプ中\n- ChatGPTは簡単な調べ物とdeep research以外は使いにくいという評価\n- imagegen と MiniMax-H3-Image の性能比較を質問 → まだ差がある印象で、乗り換えは見送り（Ghints (ぎんつ)、gorillapower、YOU）\n\n### オープンモデルとDeepSeek 1114\n- オープンモデルでは一番だがクローズドとは差がある：https://x.com/ArtificialAnlys/status/2121339732026445859\n- DeepSeek 1114とサブスクへの期待：https://x.com/superalesha/status/2121280176835494038（TheCat小屋ずん前小屋）\n\n※コメント数はスクロールで1件ずつ数えた値（ボット0件、スレッド返信なし）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 15
+ },
+ {
   "date": "2026-11-15",
   "time": "06:00",
   "videos": [

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-15",
+  "time": "00:20",
+  "summary_md": "### BTCの下落続く（6.7万→6.6万ドル割れ）\n- BTCが6.7万ドル、続いて6.6万ドルを下回ったとの報告。6.4万・6万ドル付近までの下値見通しや、長期トレンド線を巡る議論\n- Binanceのハック・SAFU換金、先物の清算が下落要因ではという推測（いずれも参加者の推測）\n- リンク: [CB Terminal・BTC 6.7万ドル割れ](https://cb-terminal.dev/ja/topic/a35c668b-29ea-4214-9dbe-5a9f105ec19d)、[ChentoTrades](https://x.com/ChentoTrades/status/2120963753218830585)、[BTC長期トレンド線の投稿](https://x.com/ujongg21127/status/2121271846557687967)\n（I’m Momi、78、shu）\n\n### アルトコインの値動き\n- HYPEの弱さとJUPの底堅さ、ETH・SOL・XRPの動向\n- KAVAの急落、Axelarブリッジの停止\n- リンク: [BTC 6.6万ドル割れ・KAVA・Axelar](https://cb-terminal.dev/ja/topic/3736edf3-a4cc-4e57-afe9-43a55dcbc181)\n（Gula、越前、だって人間だもの）\n\n### Anthropic IPOと他市場への波及\n- Anthropic IPOへの資金移動がクリプトの売り圧力になっているという懸念\n- 株・金属市場への波及の話題、「ロングして底か確かめてくる」といった自虐ネタも\n（intel.outside、お鈴、だって人間だもの）\n\n---\n対象: 11/14 16:22:51より後〜11/15 00:58:38の人間295件（11/14分204・11/15分91、スクロールで1件ずつ数えた、APP 2件除外、スレッドなし、Discord検索は未実施）\n",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 295
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-15",
   "time": "00:10",

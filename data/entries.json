@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-16",
+  "time": "06:10",
+  "summary_md": "### Gemini 4 Hydrogenの使いどころ\n- Hydrogenの無料枠をどこで試せるかという質問。Google AI Studioではすぐエラーになるとのこと\n- 忘年会の抽選サイトもGemini 4 Hydrogenで作ったという話（AI Proに加入）。「高級抽選サイトだ」とツッコミ\n（TheCat小屋ずん前小屋、Gula）\n\n### Gemini 4の出力品質への驚き\n- Gemini 4 OxygenとHydrogenの出力比較が共有され、「Geminiお前どうしちまったんだ…」「ついにGeminiが…」の反応\n- リンク: https://fxtwitter.com/LuminaBench/status/2122002025198051463\n（TheCat小屋ずん前小屋、てつ）\n\n### ゲーム・3DモデルをAIでリアルにする手法\n- ClaudeCodeなどのAIエージェントを使って、ゲームや3Dモデルを手軽にリアルにする方法の投稿が共有された\n- リンク: https://x.com/nachat_dayo/status/2121847825768259816\n（邪悪なネコ）\n\n### 雑談\n- 「5席では足りなくなってきた」と、利用枠（5x）についての一言\n（Ghints (ぎんつ)）\n\n---\n※コメント数はスクロールで1件ずつ数えた（Discord検索は未使用）。対象は11/15 23:54:07より後〜11/16 05:45の人間8件で、ボットは0件、スレッドはなし。23:54:07の境界の投稿は前回の回で数えたため除いた。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 8
+ },
+ {
   "date": "2026-11-16",
   "time": "06:00",
   "videos": [

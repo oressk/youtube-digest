@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-16",
+  "time": "12:10",
+  "summary_md": "**対象**: 11/16 05:45:59より後〜11:35（人間19件・ボット0件、スクロールで1件ずつ数えた。Discord検索は未実施）\n\n### Gemini 4 / AI Proは「買い」か\n- Gemini 4になって「結構いい」「そこそこ使えるようになった」という声が出た\n- AI Proの特典（毎月$10のGCP/APIクレジット、Colab 200CCU、YouTube Premium Lite、5TBストレージ）について。ColabもストレージもYouTubeも使わない人にとっては、LLMサブスクとしてはコスパが悪いとの意見\n- AICodeKingのサブスクAPI換算コスパ比較が共有された: https://x.com/aicodeking/status/2122016101164806438\n- 学割や3か月720円のオファーで使っている人、ChatGPTの課金をやめてGeminiに戻ろうか迷っている人もいた\n- 「お金があるならClaudeでいい」という声も\n（TheCat小屋ずん前小屋、Gula、DEG@2026年あと1億）\n\n### YouTube Lite・広告と「ドパガキ」ショート\n- YouTube特典がLiteなので広告が残り、ショート研究には不向き、という不満\n- 広告ブロッカーuBO Liteが紹介された: https://github.com/uBlockOrigin/uBOL-home\n- 深津さんまで「ドパガキ」ショートにハマっているという話: https://x.com/fladdict/status/2122092679488258408\n（Ghints、ハムスター将軍、だって人間だもの）\n\n### Claude離れできない／Qwen4-Max\n- 職場のM365でOpus 5.5が使えるので、私用のChatGPTにイライラする、という声\n- オーケストレーター用のClaudeが手放せない、という声\n- Qwen4-Maxの発表は「思ったより微妙か」という反応: https://x.com/Alibaba_Qwen/status/2122148127520289151\n（TheCat小屋ずん前小屋、gorillapower）\n",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 19
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-16",
   "time": "08:20",

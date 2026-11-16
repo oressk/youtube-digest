@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-17",
+  "time": "00:10",
+  "summary_md": "### GPUレンタルと無検閲生成のリスク\n- 前回からの続きで、会社の金やレンタルGPUでの生成ネタ、ポルノ公開は逮捕されるという冗談\n- RunPodの安さに驚く声、GPUHubのRTX 5090は0.55ドル/時との情報、手元の3070で頑張る声\n- 個人がGPUを貸し出すサービスは、どんな演算に使われるか分からず怖いという懸念。アウトバウンドはVPN経由だという指摘も\n（サンプル太郎、namazu、gorillapower）\n\n### マイニングGPUのVRAM改造とジャンク漁り\n- CMP 170HXを80GB VRAMに改造して成功した報告（https://x.com/nolmerportion/status/2121977009635225703 ）。4万円のカードから300万円相当のGPUが取り出せると話題に\n- メモリアンロック自体は昔からある手法で、改造前の相場はもう上がりすぎという声。大人になってもジャンク漁りを続ける心境も\n（iamyamada、namazu、サンプル太郎）\n\n### 新モデル・サービスの話題\n- Google AIプロフェッショナル認定証が先着1万人に無料（https://setusoku.com/free/907848/ ）\n- Tencent Hy4 flashが「日常作業向けで最安」として登場、OpenCode Goでも利用可能に（https://x.com/TencentHunyuan/status/2122217770314301469 ）\n- Geminiのエラー多発、Hydrogenのハルシネーションがひどいとの声、Grokは新規botを立ち上げればいけるらしいという話。GOROman氏の手のひら返しポスト（https://x.com/GOROman/status/2122166014603628899 ）も\n（TheCat小屋ずん前小屋、ハムスター将軍、なぞこい）\n\n### AIで映像・音楽づくり\n- 3D風画像を生成し、法線マップにして映像に組み込んだら大きく良くなった。「もう普通に開発規模」\n- 韓国で1位のMEOMURU「꿈꾸던 어른이 되었나요?」はボーカルがSuno AI製だと判明（https://www.youtube.com/watch?v=GxChUrrY4bc ）\n- 長尺動画を完成させて「100万再生」を狙う話と、再生カウントのアルゴリズム変更に振り回される話\n（ハムスター将軍、なぞこい）\n\n---\nコメント数はスクロールして1件ずつ数えた値（ボット0件・スレッドなし）。Discordの検索では確かめていません。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 41
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-17",
   "time": "00:00",

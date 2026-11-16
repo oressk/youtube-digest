@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-16",
+  "time": "23:59",
+  "summary_md": "### 🤖 Gemini 4（Hydrogen/Oxygen）とAI Proの評価（未明〜昼）\n- Gemini 4の出力品質に「ついにGeminiが…」。Hydrogenの無料枠はAI Studioですぐエラー、忘年会の抽選サイトもHydrogen製\n- AI Pro特典はLLMサブスクとしてはコスパが悪いとの意見、「お金があるならClaude」。Qwen4-Maxは「思ったより微妙」、夜はTencent Hy4 flashも登場\n（TheCat小屋ずん前小屋、Gula、gorillapower）\n\n### 🚫 Antigravityの垢BANリスク（夕方）\n- OAuth流用や他エージェントからのヘッドレス呼び出し禁止でGoogleアカウントごとBANされうる話に「Gmail・パスキーまで道連れは死活問題」「アカウント人質」\n（ハムスター将軍、juiCYMod、gorillapower）\n\n### 🖥️ GPUレンタルで無検閲LLM・マイニングGPU改造（夕方〜深夜）\n- runpodでRTX6000を借りて無検閲Qwenを作る投稿、RTX 5090が0.55ドル/時、借り物GPUで中身を見られる懸念\n- CMP 170HXを80GB VRAMに改造した報告とジャンク漁り談義\n（namazu、サンプル太郎、iamyamada）\n\n### 🎬 AIで映像・音楽づくりとYouTube収益化（1日を通じて）\n- Blender動画は使用量の減りが激しく、ショート収益化条件は厳しく長尺は競争過多。3D風画像を法線マップ化して映像が改善、韓国1位曲のボーカルがSuno AI製と判明\n（なぞこい、ハムスター将軍、gorillapower）\n\n---\n※コメント数は counts.jsonl の合計（6:10・12:10・18:10の回と11/17 0:10の回のうち11/16分）。ボット0件、スレッドの動きなし。AIのマーカー（11/16 23:49:23）は最後の投稿の時刻で、0:10の回は日付が変わってから読み終えて11/16分を記録済みのため、Discordは読み直していません。",
+  "title": "1日まとめ",
+  "comment_count": 110,
+  "daily": true
+ },
+ {
   "date": "2026-11-16",
   "time": "19:00",
   "videos": [

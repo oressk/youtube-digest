@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-16",
+  "time": "18:10",
+  "summary_md": "### Gemini（Antigravity）のアカウントBANリスク\n- AntigravityがOAuthの流用や他エージェントからの `agy -p` ヘッドレス呼び出しを禁止し、GoogleアカウントごとBANされうるという投稿（まちゅけん氏・そら氏のX投稿）が共有された\n- 「メインアカウントでGeminiは怖い」「Gmail・Authenticator・パスキーまで道連れは死活問題」「Geminiだけ切り分けてBANすると明言してほしい」の声\n- フロンティアAIをガチで使うと垢BANとのチキンレースになる問題、別エージェントからの対話でハーネスに組み込めない不便さ\n（ハムスター将軍、juiCYMod、gorillapower）\n\n### Blender動画とYouTube収益化のハードル\n- Fable 5.2でBlenderを使った動画制作は使用量の減りが激しい\n- ショート1,000万回再生（90日）の条件はエンゲージドビュー基準で実質2,500万回、2月以降の新規チャンネルはさらに厳しく、長尺しか道がないがBlender勢で競争過多という分析\n- 「Blender長尺はコスパが合わない」「長尺視聴回数30回」との自虐も\n（なぞこい、gorillapower）\n\n### Grok NSFW解禁の噂とClaude利用国ランキング\n- StudioYebisuのまとめ投稿（https://x.com/studio_yebisu/status/2122208074945708349）で「GrokがNSFW解禁」と話題になるも、試した人からは「ダメだった」の声\n- 人口比でClaudeを使う国ランキング（米国12位・韓国14位）が共有された\n（Gula、gorillapower、namazu）\n\n### GPUレンタルで無検閲LLM\n- runpodでRTX6000を時給180円ほどで借りて無検閲Qwenを作った投稿（https://vxtwitter.com/kumairoiro/status/2122095446260953205）を共有\n- 購入なら24時間稼働で2年で元が取れる試算に対し、電気代を考えると厳しいとの反論\n- 借りると中身を見られる懸念、Colabは監視しておりマイニングでアカウント停止の話、「GoogleアカウントでAIを触るのが怖い本末転倒」「アカウント人質」\n（A Chicken Burn Humanity、おぢおぢさん、Ghints）\n\n※コメント数はスクロールで1件ずつ数えた件数（ボット0件、スレッドの動きなし）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 42
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-16",
   "time": "18:00",

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-17",
+  "time": "08:20",
+  "summary_md": "### 深夜の暴落後の相場観（0:25〜0:51）\n- 「TLは短期底でロング好機の声ばかり、エコーチェンバーでは？株も重い」との警戒\n- 長い冬入りもあり得るので積極的に買わない、恐怖指数が1桁になったら…など慎重論\n- 「底まだー？」「無限モグラ叩き」「この上げ下げで利益を抜いてるのは誰だ」など短い反応\n（Cryptron、Haru_imori、サンプル太郎）\n\n### 低調な深夜〜早朝とニュース（1:20〜5:20）\n- 転送botでアルトマン発言、フアン氏CEO復帰、Anthropic IPO応募倍率10〜20倍、MS障害など\n- MIT兄弟のMEV事件で無罪判決 →「MEV BOTをファックするのは合法」「当たり前」\n- 相場ネタ共有: https://x.com/sana__hashimoto/status/2122328427198099519 、5:20「nvidiaおわ」\n（だって人間だもの、肉彦、分散化された新垣結衣）\n\n### 朝の相場：株安でもBTCは耐える（6:12〜6:58）\n- 米株2%超安、Lighterは出金再開・約500万USDC返還（https://cb-terminal.dev/ja/topic/1516c6bb-a85b-4dc1-b008-9bc87ea7afc5）\n- エヌビディア13F、フアン氏登壇取りやめなどのニュース\n- 「株が下がってもBTCが耐えている」との見方\n（ジンジャー、santakaikan、day49er）\n\n### CFTCがBackpackを承認 → BP・HYPE上昇（7:12〜7:36）\n- CFTC Selig委員長の投稿: https://x.com/chairmanselig/status/2122443259658056046\n- 承認対象はBackpack（TLD Clearing／Backpack Clearing、ブロックチェーン活用で初のDCO・DCM）: https://x.com/coin_post/status/2122448857196093886 、https://www.cftc.gov/IndustryOversight/IndustryFilings/ClearingOrganizations/60669\n- 「BPロングだ！」「BP上がるまでラグがあった」「ちょびちょび買ってて正解」\n（hanchooo456、だって人間だもの、ひっくす）\n\n### DEG氏のBP売却とアンステーク悩み、BTCは横ばい（7:39〜8:25）\n- bitFlyer加納氏の新会社Custodiemオフィス完成（https://x.com/yuzokano/status/2122283596635623924）、TradingViewのX復活（https://x.com/tradingview/status/2119958988725113131）\n- DEG氏がBPを売却、残りのアンステークに7日かかり全部解除するか悩む・決算前なので持ち越し微妙、Pacificaでのヘッジも検討\n- 「板スカスカで伸びる」「DEGさんの売りで下がりだした」、Pacificaでロングすべきだったとの反省、HYPEを65ドルで売って後悔\n（DEG@2026年あと1億、kakipi、Albert）\n\n---\n※コメント数はDOMで1件ずつ数えた概数（Discord検索は未使用）。転送bot 15件・CB Terminalまとめ1件は除外、スレッドなし。\n",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 71
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-17",
   "time": "06:10",

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-17",
+  "time": "06:10",
+  "summary_md": "### Fable 5.2で作った97KBの海底3Dデモ\n- 97KBで動く海底3Dデモの記事（https://automaton-media.com/articles/newsjp/20261116-479523/）と、そのプロンプト（https://raw.githubusercontent.com/Noniv/abyssal-garden/refs/heads/main/prompt.txt）が共有された\n- Fable 5.2と35行のプロンプトだけで作られており、制作期間は約3日だがモデルが実際に動いたのは2〜3時間ほど\n- 「やばい」「Proでｗ」「すげぇ…」と驚きの声\n（だって人間だもの、NINO）\n\n### AIエージェントとSSDの寿命\n- AstraにサブPCを使わせていたらSSDエラーで落ちるようになったという報告\n- データセンターのSSDも高速で消耗するのか、全部メモリに乗せることはあるのか、という疑問に、ほとんどはHDDでは・AI開発側はSSDを大量に使っていそうとの見方\n- 「気づいたらAstraが最強に逆戻りしている」との声も\n（gorillapower、デロンギってでかいから忘年会で貰っても邪魔だよね、分かる～、iamyamada）\n\n### その他\n- Lean言語の入門書（https://www.lambdanote.com/products/leanbook）を「後から読む」と共有\n（だって人間だもの）\n\n※コメント数はスクロールで1件ずつ数えた件数（ボット0件、スレッドの動きなし）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 14
+ },
+ {
   "date": "2026-11-17",
   "time": "06:00",
   "videos": [

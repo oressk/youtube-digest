@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-17",
+  "time": "23:59",
+  "summary_md": "### ElevenLabsのKotoba買収と多言語TTS\n- Kotoba TechがElevenLabsに合流、日本語性能向上への期待と「exitできて良かった」との見方。EFIGS＋中韓を1つのAPIで扱える実務上の利点\n（NINO、ハムスター将軍、楓）\n\n### AIで作る映像・3D・YouTube収益化\n- Fable 5.2と35行のプロンプトで作った97KBの海底3Dデモ、Fable 5.2×BlenderのYouTubeチャンネルが1本目で3万再生\n- OpusとFableのお絵描き比較から「AIの性癖」談義へ脱線。収益化ライン（ショート1,000万回／ロング4,000時間）の厳しさとアルゴリズム変更\n（だって人間だもの、なべ、ハムスター将軍）\n\n### 新モデル・ツールとアカウントBAN\n- OpenCode GoでGLM 5.3の$100分が$10になるキャンペーン、Claude Max 5xの定額活用。Antigravity CLIをMuseに使わせてGoogleにBANされた例\n- Intelの新GPU「D270」（NVIDIA比最大5.9倍と主張）、if文だけのチャットボットPyBot\n（TheCat小屋ずん前小屋、キクラゲ、NINO）\n\n### AIエージェントとセキュリティ・ハード\n- AstraにサブPCを使わせたらSSDエラーで落ちるようになった報告とSSD寿命談義\n- 1Passwordにウォレットの鍵を預けるか：E2E暗号化を信じる派と別管理派に分かれた\n（gorillapower、楓、ziban）\n\n---\n※1日のコメント数は11/17の各回の counts.jsonl の合計103件（スクロールで1件ずつ数えた値）。ボット0件、スレッドなし。\n※マーカー（最終投稿時刻）はD 23:58:59より前だが、0時の回は完了済み（23:54:33以降〜0時の回の実行時まで投稿なし）のため、Discordは読まず counts.jsonl の合計（103件）で集計。",
+  "title": "1日まとめ",
+  "comment_count": 103,
+  "daily": true
+ },
+ {
   "date": "2026-11-17",
   "time": "19:00",
   "videos": [

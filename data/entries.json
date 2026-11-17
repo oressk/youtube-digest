@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-18",
+  "time": "00:20",
+  "summary_md": "### BTC 6.4〜6.5万ドル台の膠着と小反発（16:40〜19:00）\n- 「劇リバ？」「綺麗な右肩下がり」「64kわれる」など短い実況が中心。BTC・HYPE・アルトの値動き\n- ETF Flows（11/16）：BTC +$7.9M、ETH -$8.4M、SOL +$11.7M、HYPE -$7.9M\n（サンプル太郎、漢塾、gorillapower）\n\n### MEXC／FinCEN関連と国内取引所の出口（18:38〜19:00）\n- Binance JapanのMEXC関連告知が共有された\n- 他の国内取引所もMEXC関連アドレスの入庫を止めれば、円転の出口が塞がれるかもという指摘\n- 「アルトは罠、売るならBTC・ETHだけ」「アルトが耐えているのは不思議」という流れ\n（JPY Miner、2b2c、越前）\n\n### メタプラネット社長の香港移転（19:45〜20:22）\n- ゲロヴィッチ社長が東京から香港へ移転したという話題：https://x.com/aryarya/status/2122585329052041351\n- 「節税」という見方、社長がBTCを持ち逃げした場合のmNAVジョーク、香港での秘密鍵開示リスク\n- BTCの4年サイクル論：https://x.com/blackchankripto/status/2122286095312511304\n（ハムスター将軍、Arcana Aschenbrenner、Yajusenpai.hl）\n\n### ZECとBTCロング・ショートの攻防（22:25〜23:56）\n- 「ZEC現物で寝る」発言、30万ドルのBTCロング報告に「ショートするか」という声。逆指値にかかった報告も\n- BTC ETFの13F保有者が直近四半期に積み増し：https://x.com/JPbrannan/status/2122484353028780062\n- Solana FoundationがCoinGeckoの過半数株式を取得：https://x.com/cb_terminal/status/2122650974875439159\n（isekaitaiko、ハムスター将軍、サンプル太郎）\n\n### 0時過ぎの下落実況（11/18 0:06〜0:18）\n- 「あかんわこれ」「弱すぎる」が続き、「NVIDIA決算で世界崩壊？」という声も。BPを利確した報告もあった\n- CB Terminalまとめ：https://cb-terminal.dev/ja/topic/7062b6af-4ab8-4089-ad53-cbb0c99f8b89\n（サンプル太郎、Haru_imori、あかちゃん）\n\n---\n※ 対象：11/17 16:24:02より後〜11/18 0:18の人間99件（11/17分93件・11/18分6件）。スクロールしながらDOMで1件ずつ数えた。Discord検索は使っていない。BOT/APP（CB Terminal）2件を除外。スレッドなし。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 99
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-18",
   "time": "00:10",

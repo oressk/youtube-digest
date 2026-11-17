@@ -33,6 +33,15 @@
   "daily": true
  },
  {
+  "source": "deg-crypto",
+  "date": "2026-11-17",
+  "time": "23:59",
+  "summary_md": "### BTC 6.4〜6.6万ドルの弱い値動きと底打ち論争\n- 未明の暴落後「短期底でロング好機」の声に慎重論、株安でもBTCは耐えるとの見方。日中は65,000ドル割れ、夕方に「底打ちの兆し」「ショーター降伏」\n- 深夜〜0時過ぎは再び弱く「弱すぎる」「NVIDIA決算で世界崩壊？」\n（サンプル太郎、まーちゃん、Cryptron）\n\n### CFTCがBackpackを承認、BP・HYPEが上昇\n- CFTC委員長がBackpack Clearing（初のブロックチェーン活用DCO・DCM）承認を発表、BP・HYPEが反発。DEG氏はBPを売却しアンステークに悩む\n- 夕方も「BPなんでりばってる？」→「アメリカ上陸確定」、Upbit上場期待\n（DEG@2026年あと1億、hanchooo456、だって人間だもの）\n\n### APIキー流出とMEXC／FinCENの余波\n- Lighterは出金再開・約500万USDC返還。Abraxas CapitalがHyperliquidのショートを解消し口座価値が24時間で約1.6億ドル減、APIキー流出懸念\n- Binance JapanのMEXC関連告知、国内取引所が入庫を止めれば円転の出口が塞がるとの指摘\n（mmk7636、JPY Miner、2b2c）\n\n### メタプラネット社長の香港移転と夜のポジション攻防\n- ゲロヴィッチ社長の香港移転に「節税」説やmNAVジョーク、4年サイクル論\n- ZEC現物・30万ドルBTCロング報告、Solana FoundationのCoinGecko過半数取得、BTC ETF 13F保有者の積み増し\n（ハムスター将軍、isekaitaiko、Arcana Aschenbrenner）\n\n---\n※1日のコメント数は11/17の各回の counts.jsonl の合計258件（一部はスクロールで数えた概数）。BOT/APP（転送bot・CB Terminal）は除外、スレッドなし。0時の回のマーカーは11/18 0:18:59でD分は記録済みのため、Discordは読んでいない。\n",
+  "title": "1日まとめ",
+  "comment_count": 258,
+  "daily": true
+ },
+ {
   "date": "2026-11-17",
   "time": "19:00",
   "videos": [

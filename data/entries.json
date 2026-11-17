@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-18",
+  "time": "06:10",
+  "summary_md": "### GPT-6.2 Astra / Sol 公開と評価\n- OpenAIがGPT-6.2 AstraとSolを公開（[OpenAI](https://fxtwitter.com/OpenAI/status/2122750124543926515)）。Artificial AnalysisのIntelligence Indexでは2位（[Artificial Analysis](https://x.com/ArtificialAnlys/status/2122750634210529569)）\n- 「APIで使うならClaudeより安そう」という声の一方、サブスク価格で均すとClaudeのほうが安く、すぐナーフされそうなので今は手を出す価値を感じないという意見\n- Anthropicの上場に合わせるため、Fableを超えていない状態でも出すしかなかったのでは、という見方。「超えてないのに出してもなぁ」「アンソロも上場で新モデルを出しそう」「今OpenAIに尻尾を振る意味はない」と反応は薄め\n- 早速X上で酷評されている投稿（[argofowl](https://x.com/argofowl/status/2122763000335708238)）や「AstraはまだFableに負ける」という投稿（[AdamHoltererer](https://x.com/AdamHoltererer/status/2122752283968672183)）も共有された\n（TheCat小屋ずん前小屋、gorillapower、Ghints (ぎんつ)）\n\n### 前回の続き：酷使とSSD\n- 前回の「こんな酷使したら早晩壊れる」を受けて「SSDが真っ先に壊れそう」の一言\n（おっさん）\n\n---\n*コメント数は画面上で1件ずつ数えたものです（Discordの検索は未使用、ボット投稿0件、スレッドなし）。*",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 16
+ },
+ {
   "date": "2026-11-18",
   "time": "06:00",
   "videos": [

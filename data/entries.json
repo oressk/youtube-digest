@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-17",
+  "time": "12:10",
+  "summary_md": "### Intelの新GPU「D270」とIntel GPU人気\n- VideoCardzの投稿（https://x.com/videocardz/status/2122386866930368544）が転送され、Intelが350WのD270 GPUはNVIDIAの600W RTX PRO 6000 Blackwellより最大5.9倍速いと主張している話題\n- 「CUDAでもROCmでもないIntelさん」とのツッコミ\n- 界隈ではIntel GPUが最近人気で、売り切れて買えないとの声。「インテル倒産したらインテルGPU買おうとしてたのに」というぼやきも\n（gorillapower、肉彦、サンプル太郎）\n\n### Antigravity CLIでGoogleアカウントBAN\n- @lucianlampの「MuseにAntigravity CLI使わせてたらGoogleにBANされちゃった」（https://x.com/lucianlamp/status/2122262850676924606）と、その続報「Antigravityでだけ使えなくなった、ファミリー垢なら使える」（https://x.com/lucianlamp/status/2122451364076990638）を共有\n- 「ちゃんとバレるんですね」と、前日に話していたBANリスクが実際に起きた例として受け止められた\n（キクラゲ）\n\n### ローカル動画生成の作例\n- MiniMax H3で作ったアニメ調の「Bad Apple!」（50秒）が、ローカル動画生成の作例として転送された（https://vxtwitter.com/SmallKino_/status/2122376340254908649）\n（Alert）\n\n※コメント数はスクロールで1件ずつ数えた件数（同じ人が続けて投稿した行も1件ずつ数えた。リンク転送の「Alert」2件はBOT/APPタグがないため含めた。ボット0件、スレッドの動きなし）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 10
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-17",
   "time": "12:00",

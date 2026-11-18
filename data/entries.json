@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-18",
+  "time": "18:10",
+  "summary_md": "## YouTube収益化その後：次は「実際に収益を貰う壁」\n- 1か月ほどで収益化ラインに到達したことについて、「100万再生のバズがなければ苦しかった」と振り返り。なべさんは「1日あたりの再生数を気にするより、バズらせた者勝ち」とコメント\n- 収益化モジュールの有効化タイミングで弾かれる可能性があるので、まだ油断できないという指摘。収益化の次は「実際に収益を受け取る」という高い壁がある\n- ショート動画は、アップロード直後にもういいねが付いていて驚くという声\n（連鎖阻止、なべ、なぞこい）\n\n## GPT-6.2 Astraの悪評が続く\n- 同じプロンプトでの比較投稿や、「CodexでAstra 6.2はAstra 6の4.7倍遅い」「$200プランはClaude MaxのAPI価値の半分」といったXの投稿が共有された\n  - https://fxtwitter.com/soyukke_game/status/2122767541823225891\n  - https://x.com/miu21590/status/2122811388670157302\n- 「悪評しか聞こえてこない」「高くて遅くてバカで言うこと聞かない」と辛口の評価\n（TheCat小屋ずん前小屋）\n\n## Google AI Ultra/Proの無料オファーの抜け穴とBANリスク\n- 「Google AI Ultraを1年分もらえた」という投稿と、それがTOS違反だとするDevRelの指摘が共有された。この抜け穴は既に塞がれているとの声\n  - https://x.com/qingnianxiaozhe/status/2122713474967228679\n  - https://x.com/supermomonga/status/2122846937158385705\n- 「無料オファーの穴を突いた契約は軒並みBAN・降格」という報告も共有され、「BANリスクが高すぎるので注意」と呼びかけ\n  - https://x.com/doplxyz/status/2122823991429853656\n- 「Google経済圏から永久追放もありうる」「YouTubeに養われているのでGoogleに逆らえない」「GoogleのAIはメイン垢で使ってはいけない」といった反応\n- 余談：Bad Apple 50秒版（MiniMax H3）の動画も共有された（https://x.com/SmallKino_/status/2122376340254908649）\n（なべ、2b2c、邪悪なネコ）\n\n## 無料・格安モデル枠（さくらのAI Engine、OpenCode）\n- さくらのAI Engineが、GLM-5.3-FlashとDeepSeek-V4.1-Flash-1017を月3,000リクエストまで無償で提供。入力・応答の内容は保存されない\n  - https://cloud.sakura.ad.jp/news/2026/11/18/glm-5-3-flash_deepseek-v4-1-flash-1017_pubpreview/\n- 「3000リクエストってどれくらい？」という疑問も\n- OpenCodeが「週末まで$10で$500分のGLM 5.3」を提供すると告知し、「現代の給付金」「紛れもなくエアドロ」と盛り上がった\n  - https://x.com/opencode/status/2122969474571583885\n（だって人間だもの、iamyamada）\n\n---\n*対象：11/18 12:04:16より後〜17:53の人間の投稿26件（すべて11/18分）。スクロール画面のDOMから1件ずつ数えた。Discord検索は使っていない。ボットは0件、スレッドはなし。*",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 26
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-18",
   "time": "16:20",

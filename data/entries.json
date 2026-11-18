@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-18",
+  "time": "23:59",
+  "summary_md": "### GPT-6.2 Astra / Solの公開と辛口評価\n- 早朝に公開、Artificial Analysisでは2位。ただ「Fableを超えていないのにAnthropic上場に合わせて出した」との見方\n- 「細部にこだわりすぎて進まない」「4.7倍遅い」「高くて遅くて言うこと聞かない」と悪評が一日中続き、VoxelBench 2のエラー率やTheo氏の批判も共有\n（TheCat小屋ずん前小屋、gorillapower、Toshico）\n\n### YouTube収益化とAI動画チャンネル\n- なべさんのサブチャンネルがOpusに丸投げで安定3万再生、収益化達成の報告の一方、DEGさんはショート量産で断念し「ショートをやめて人生ロング」と大喜利に\n- 動画生成AIツールの案件（8分以上・報酬200ドル）、量産型AIコンテンツは規制されるとの見方、SUNOの動画生成も\n（なべ、連鎖阻止、DEG@2026年あと1億）\n\n### GLM 5.3の格安枠とGoogle無料オファーのBANリスク\n- OpenCodeの「$10で$500分のGLM 5.3」に「現代の給付金」、さくらのAI EngineでGLM-5.3-Flash等が月3,000リクエスト無料に\n- Google AI Ultraの無料オファーの抜け穴はTOS違反でBAN例も、「GoogleのAIはメイン垢で使うな」\n（TheCat小屋ずん前小屋、iamyamada、なべ）\n\n### 大企業のAI導入と自宅AIラボ\n- JTCでのClaude Fable従量課金（1人月30万円ほど）、Copilotしか使えない職場、ライセンス格差の懸念、「JTCは情報漏洩対策とAI導入のチキンレース」\n- 約500ドルのV100自作機でQwen 27B、SSD寿命とHDD・ポータブルSSDの話題\n（ハムスター将軍、なぞこい、サンプル太郎）\n\n---\n*コメント数は counts.jsonl の合計（06:10・12:10・18:10・翌0:10の回のうち11/18分）。各回DOMで1件ずつ数えた値で、ボット0件、スレッドなし。*",
+  "title": "1日まとめ",
+  "comment_count": 132,
+  "daily": true
+ },
+ {
   "date": "2026-11-18",
   "time": "19:00",
   "videos": [

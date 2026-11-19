@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-20",
+  "time": "00:10",
+  "summary_md": "### Gemini 4の評判とクォータ・新モデル噂\n- Gemini 4のクォータ枠の整理（https://x.com/doplxyz/status/2123241942406648040 ）に「Workspaceだと全モデル同一クオータで呼び出し回数制限、頭おかしい」\n- 「Gemini 4 NeonはClaudeを参考にしているのでは」という投稿（https://x.com/kenn/status/2123230192047141260 ）や「Gemini 4 Xenon？？」の噂（https://x.com/yugen_matuni/status/2123396384737182064 ）を共有\n- 夜には「Gemini急に評判良くなったね」「新しいのが良いらしい」との声\n（ハムスター将軍、とむ）\n\n### AIと仕事：税理士・手足になる人間・楽天流出\n- 税理士のハンコ／AIと経費の税理士ネタ（https://x.com/con_tax_/status/2123193982016741813 ）\n- Anthropic研究者「AIでほぼ全員が二度と仕事に就けなくなる」の転送（https://x.com/polymarketjapan/status/2123335185571971172 ）に、「AIの手足になる人間はいくらでも必要」との反論\n- 情報流出対応で人手が要る、AIで代替できるのは事前にAIを入れていた会社だけ、ミュトスを使えていた楽天がなぜダメだったのか気になる、との議論\n（肉彦、NINO、ハムスター将軍）\n\n### コーディングツール：T3 codeとCodex desktop\n- 「T3 code良さそう」に対し、既存の発言をEditして続きからやり直せずタイプミスも追加会話で直すしかないのが辛い、との使用感\n- 会社はOpenAI依存なのにCodex desktopを使わせてくれないとの愚痴\n（Ghints(ぎんつ)、なぞこい）\n\n### 量産系YouTubeチャンネルと再生数\n- 「もしも系3D動画が全部同じな理由」動画（https://youtu.be/Kzo0d_aLULQ ）に「擦られ過ぎて擦り減ってる」\n- 自動化していそうなショート量産チャンネル（https://www.youtube.com/@nazenotane/shorts ）を発見。投稿数が膨大、内容は良いのに再生されない、登録者数の割に再生が少ない、流入元が気になる、丸パクリして適切な頻度で投稿すれば…との雑談\n（ハムスター将軍、だって人間だもの、Donald_Fujita）\n\n※コメント数はスクロールでDOM上1件ずつ数えた件数（11/19分28件・11/20分2件〔23:59以降〕。18:07:55の境界投稿は前回計上済みのため除外。ボット0件、スレッドなし）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 30
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-20",
   "time": "00:00",

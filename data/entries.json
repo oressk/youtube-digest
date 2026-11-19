@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-20",
+  "time": "00:20",
+  "summary_md": "対象: 11/19 16:24〜11/20 0:27（人間 約184件：11/19分 約167・11/20分 約17）\n\n### Manicテストトレード企画の応募フォーム\n- Solana上のB-book型PerpDEX、10ドル付与のテストトレード企画の続き\n- 18:33に応募フォームと `/trade-entry` コマンドが実装され、試したものの動かない人が続出、19:53に「解決したと思う」\n（DEG@2026年あと1億、sen、まーちゃん）\n\n### VARIATIONALのプレマーケットとポイント\n- LighterでVARIATIONALのプレマが開始、1ポイント約$50の水準\n- 「プレマは高い」「初日ダンプで難しい」、4週で5931pt（約4700万円）の例も\n- 「明日はpoint day」\n（まーちゃん、Arcana Aschenbrenner、ahp）\n\n### BTC相場と米株ニュース\n- 20:34にBTC 64k回復、Fear & Greedは一桁\n- 金とBTCのバスケットが16%下がるとテザーが担保不足になるという分析 https://x.com/loraclexyz/status/2123381714898546738\n- マイナーのAI企業転換、Anthropic上場の初値気配99.60→105ドル（公開価格83ドル）\n- 深夜は過疎気味、6万〜6.2万レンジ観測。AIバブル崩壊の賭け https://polymarket.com/event/ai-bubble-burst-by\n- 銘柄: BTC、ETH、ZEC、TAO、USDT、XRP、HYPE\n（サンプル太郎、MaskJiro、Yajusenpai.hl）\n\n### JPYCの日本直販決済対応\n- 日本直販でJPYC決済に対応 https://x.com/noritaka_okabe/status/2123330513213792589\n- 「利用者にJPYC持ってる人いるのか」との反応、関連 https://x.com/moycoin/status/2123322876489282043\n（Do Kwon Imposter、moodyblues、なぞこい）\n\n### 雑談\n- 「全イー（全財産イーサリアム）」ミームコイン（11/21 17:00予定）、Suica新キャラの紫のうさぎ、忘年会スレなど\n（漢塾、まーちゃん）\n\n---\n※件数はスクロールしてDOM上で1件ずつ数えた概数（±数件）。転送bot5件・CB Terminalまとめ2件は除外。スレッドなし。秒が表示されないため23:59台の2件は11/20分に計上。Discord検索は未使用。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 184
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-20",
   "time": "00:10",

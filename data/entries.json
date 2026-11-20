@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-21",
+  "time": "00:10",
+  "summary_md": "### YouTube動画づくり談義：終わり方・ジャンル選び・釣りサムネ\n- 動画の最後は切り取るより「ここで終わり」と思わせない構成に、締めの「チャンネル登録よろしく」は定番か、という話から始まった\n- 長尺デビューが23時間で13再生という嘆き。安眠BGMは「広告なし」とタイトルに入れると伸びる、という話も\n- ジャンル選びが勝負。「大手ジャンル×ニッチ×競合に勝てる武器」で隙間を狙い、宇宙・雑学・歴史は細分化しないと無理。ずんだもんを入れたら再生数が倍近くになった報告も\n- 海外視聴（フィリピン・韓国・インド）は単価が安い、ElevenLabsの多言語対応、長尺1本で$200プランのweeklyを約50%使った話\n- ちょいエロ系サムネで釣るチャンネルの例：https://youtu.be/RQsbf1_pe-I 、https://youtube.com/channel/UCpr2KjVBzqve6los7Go3F4A 、視点をずらす系の例：https://www.youtube.com/@shachikukensho\n- 結論は「自分の作りたいものを作るのが一番」（なぞこい、ハムスター将軍、juiCYMod）\n\n### YouTube収益化の本人確認トラブル\n- 収益化の2段階認証で「本人確認を行えませんでした」と出て、約1週間制限されたという報告。別端末連携が原因らしい\n- 別チャンネルでも同様で二度とログインできなくなった例があり、パスキーを推奨（tanaK、だって人間だもの）\n\n### Gemini 4 Neonの評判とサブスク比較\n- 職場のAPI課金でNeonを使ったら結構使える。小説・テキストに強いという投稿の共有：https://x.com/K9i_apps/status/2123668518436741160 、https://x.com/ravenwood_09/status/2123597024276922857\n- 「Antigravityというデバフがなければ強い」、Proならやりくりを考えずに使える。Antigravityの加入増がCodexを上回ったという投稿も：https://x.com/tickerplus/status/2123524819090338078\n- nanobanana更新でChatGPTに取って代われそう（https://fxtwitter.com/PawelHuryn/status/2123650574373605874 ）。ChatGPTで修正したらClaude贔屓が直ったが、Opus 5.5の強さは変わらない。Plusは枠もサブスク割引も弱い、という声（なぞこい、ハムスター将軍、namazu@打倒！井村ファンド）\n\n### その他のリンク\n- 京大のAI依存チェックリスト：https://x.com/DropMiin/status/2123610878520205423\n- ベストの羅列：https://x.com/studio_yebisu/status/2123719068670955949\n\n---\n対象：11/20 18:07:59より後〜11/21 0:11の人間92件（11/20分90・11/21分2）。スクロールして1件ずつ数えた件数で、Discord検索は使っていない。ボットは0件、スレッドはなし。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 92
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-21",
   "time": "00:00",

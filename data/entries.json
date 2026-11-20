@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-21",
+  "time": "06:10",
+  "summary_md": "### Gemini Neon・Claude・ChatGPTの使い分け\n- Opusが優秀だがGemini Neonが対抗馬に浮上。「性能とコスパはClaude、文章はGemini、画像はChatGPT」との整理\n- NeonだけArgon/Carbonよりコスパが良く値上げ予定もないのは撒き餌？社内派閥でサブスク補助が違うのでは、との見方（安野氏のAI視察動画の話も）\n- ChatGPT無料版は画像生成1枚で上限に達するようになったとの報告\n（namazu@打倒！井村ファンド、TheCat小屋ずん前小屋ずん、gorillapower）\n\n### grok bot・複数AIの束ね方とGemini枠の節約\n- 「grok botで複数AIを束ねられる？」との質問に、マシンにClaude/Codexを入れて認証する形になる、間接的にClaudeを呼ぶのは面倒でClaudeに戻ったとの回答\n- Antigravityの枠切れ時はdesktop版Taskでフォルダ指定しGemini枠でレビュー、実装だけagyコマンドで節約できる\n- vercel-labs/ui のスキルが良い、Neonでアニメ調24フレーム動画編集アプリがすぐできた：https://github.com/vercel-labs/ui\n（NINO、Unimogu2、ADAM）\n\n### Sites有料化（2027年1月〜）\n- 既存サイト含め月枠超過分が有料に。Plus月125・Pro月375クレジット、静的サイトは10万リクエスト約16クレジット、DB付きは空でも月約25、D1は高額でデータ保存のコストが大きい\n- 無料のうちはPlus継続、との声\n（gorillapower、juiCYMod）\n\n### その他の話題・リンク\n- リーマン予想がAlpöge氏とClaudeで証明されたらしいとの投稿：https://x.com/planckscale/status/2123823102945796560\n- OpenAIは結局スマホを作るのか：https://x.com/sumahoreview/status/2123487142940942811\n- なのばななの更新待ち：https://fxtwitter.com/PawelHuryn/status/2123650574373605874\n（てつ、gorillapower、Ghints (ぎんつ)）\n\n<small>対象: 11/21 00:11:22より後〜05:07:46の26件（スクロールで1件ずつ数えた、ボット0件、スレッドなし）</small>",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 26
+ },
+ {
   "date": "2026-11-21",
   "time": "06:00",
   "videos": [

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-21",
+  "time": "12:10",
+  "summary_md": "### Google AIプランのブラックフライデー割引\n- Google One AIのブラックフライデー（26日まで）：既存の月額→年額変更やPlus→Proは半額、新規の年払いは16%オフ程度、年間無料の特典プランからは割引なしと判明\n- 「3ヶ月720円なら全然アリ」「ズル特典が明日切れる」など反応さまざま。Ultra（100ドルプラン）のYouTube特典がファミリー対応になった一方、今回のセール対象外との指摘\n- サブスク半額でようやくNeonがOpusと僅差、ただ同じタスクではNeonがAPI換算で約30%高いという比較も。「メインはOpus/Fable、スポットでNeon」という使い分け案\n- リンク：one.google.com/ai、x.com/vikaskansalHQ、x.com/tamao_hinan\n（juiCYMod、ハムスター将軍、なぞこい）\n\n### 新しいエージェント／ボットサービス\n- orca.dev/bots の紹介ポストが共有され「T3と似た感じか」「情報追うの大変すぎる」の声。T3 Codeの紹介ポストも\n- poke.com/bots でDevinのMaxプランが1か月無料になるらしいという話\n- リンク：x.com/Hank_agli、orca.dev/bots、x.com/lakeside529、poke.com/bots\n（だって人間だもの、ハムスター将軍、ミドルリスク投資家）\n\n### リーマン予想関連の続報\n- 証明発表の直後の動きとして math216.wordpress.com の記事（Alessandro Masullo・GRH）と関連ニュース記事が共有された\n（NINO）\n\n### .env流出ネタとClaude Saga 6\n- GitHubに.envを上げてしまった話題のポストに「草」「エンジニアでもやらかす」と反応。APIキーはプロジェクトごとに分けて使用上限を設定、といった管理のコツの引用も\n- Claude Saga 6のポストが共有され、モデル名が変わること、ベンチマークで謎の圧倒的1位だった噂の「Gestalt」ではとの声\n- 他にNeonは同じプロンプトでも似た台本ばかりになる（Temperatureが低い？）との感想\n（Gula、wz、TheCat小屋ずん前小屋ずん）\n\n---\n※コメント数はスクロールで1件ずつ数えた（Discord検索は未使用）。ボット0件、スレッドなし。対象：11/21 05:07:46より後〜12:12:41。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 68
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-21",
   "time": "12:00",

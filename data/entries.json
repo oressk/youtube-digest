@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-22",
+  "time": "12:10",
+  "summary_md": "### AIはエンジニアの仕事を奪うのか\n- 「電話交換手と同じ道？」という問いから、コーディングは減ってもセキュリティ対応などの新しい仕事が増えるのでプラマイゼロ、という見方\n- 運用もAIでかなりできるようになってきて、人間に残るのは「責任を取ること」「ドヤされ担当」だというジョーク\n- ユーザーの無茶なシステム化要望を叱るAIが欲しい、仕事を失いたくない人ほどExcelマクロを手放さない、といった声も\n（moodyblues、邪悪なネコ、なぞこい）\n\n### Fable 5.2にBlenderで3Dシーンを作らせた事例\n- r/ClaudeAIの投稿：Fable 5.2がBlenderでシーンを丸ごと作った（Tripo＋Eevee、費用は数ドル） https://www.reddit.com/r/ClaudeAI/comments/1xu4r5m/fable_52_built_this_scene_in_blender/\n- 「パイプラインを細かく調整しているパワーユーザーだからできた例で、カジュアルなユーザーがプロンプトを10回投げても再現できない」という指摘\n- 経験談として、3Dモデリングで強いのは①人力のフィードバックで押し切る、②参考画像とピクセル単位で比べながら合わせる、のどちらか。②は再現度は最高だが裏側はひどい\n（hare、TheCat小屋ずん前小屋ずん、なぞこい）\n\n### 新モデル・ツールと小ネタ\n- 高速版のMiniMax H3「pi-H3」がオープンソース化 https://fxtwitter.com/HanshengCh/status/2124140029715087809 （https://huggingface.co/spaces/Lakonik/pi-H3 、 https://github.com/Lakonik/LakonLab ）\n- serverless APIのプロンプトが一部漏れたという話 https://x.com/vipulved/status/2124283543266496765\n- 互換OS「LiberNT」上で、RTX 3060がWindows 11の公式ドライバで動いた https://x.com/sidihmeed/status/2124250863275213099 →「AIでWindows終わった」\n- Gemini Proを年額で契約したのにほぼ使わなかったという回想、長尺動画が伸びない・新チャンネルを始めてもうまくいかないという愚痴\n（TheCat小屋ずん前小屋ずん、だって人間だもの、hare）\n\n_コメント数は画面をスクロールして1件ずつ数えた値（ボット0件、スレッドなし）_",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 29
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-22",
   "time": "08:20",

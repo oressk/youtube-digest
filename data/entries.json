@@ -76,6 +76,14 @@
   ]
  },
  {
+  "source": "deg-stock",
+  "date": "2026-11-24",
+  "time": "06:00",
+  "summary_md": "### トランプ電話でフアン氏NVIDIA復帰、米株急反発\n- NVIDIA公式は「米政府上級レベルの確認を受け国家安全保障上のリスクなし」と明記。セマフォー報道ではトランプ氏が取締役会に電話参加して復帰を主張し、本人も「私が話をしたから」と自画自賛した\n- NVDAは170付近まで上昇、S&P500は+5〜5.5%、SOXは+15%、ナス100は高値。VIXは26とまだ高め。Fear & Greed指数を使った逆張りが今回も効いたという声\n- トランプ氏がNVDAの政府保有に意欲を示し、インサイダー取引の懸念も出た。上場企業への介入は「米国のため」との発言。民主党の反発や12/3のフアン氏公聴会を警戒\n- 共有: https://x.com/FirstSquawk/status/2124890735254331759 、 https://x.com/tradfi/status/2124894299024420978\n（越前、mmk7636、namazu@打倒！井村ファンド）\n\n### ANTだけ弱い・ARKのAnthropic買い・Gemini 4 Neon\n- 全面高の中でANT（Anthropic）は売られ、IPO価格を守れるか・公募割れを心配する声。「えぬび37%」とANTを言い間違える場面も\n- キャシー・ウッドのARKによるAnthropic 1.46億ドル購入が話題に（https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866 ）\n- Gemini 4 Neonに乗り換えが進むならモデル開発はきつい、という見方。Neonはブラックフライデー向けの一時的なモデルとの見方もあり、nanobanana2の画像生成は高く評価された\n（肉彦、Arcana Aschenbrenner、KANI Stable）\n\n### 焼かれたショートと深夜のたれ\n- NVDA 3倍ショートETFは−80%。SOXLは日足で下げトレンドのまま、NVIDIAもご祝儀相場が終わって息切れ気味\n- 岩井コスモ、岐阜さん・エミン氏のスペースや配信などの雑談\n（KANI Stable、サンプル太郎、アルエ@祈祷中）\n\n※コメント数はスクロールでメッセージIDごとに数えた値（Discord検索は未使用）。BOT/APP（X転送bot）5件を除外。スレッドの動きはなし。",
+  "title": "DEG鯖 株式-為替-商品",
+  "comment_count": 290
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-24",
   "time": "00:20",

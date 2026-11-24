@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-24",
+  "time": "18:10",
+  "summary_md": "### チャッピーの「パンツの色」大喜利とAI画像比較\n- 「君の重みの色何色」→「0.075581くらい」「ノーパン rgba(0,0,0,0)」「透けてるだけ」など、ChatGPT・Grok・Muse・無検閲qwenに同じネタを投げて画像を見比べる遊び\n- AIキャラ「葵ちゃん」の自撮り・ボッチ飯画像でも盛り上がる\n（だって人間だもの、みよの、Gula）\n\n### リーマン予想騒動の本人投稿とAI動画の実用感\n- Levent Alpöge氏本人の釈明ポスト（https://x.com/__alpoge__/status/2124987173439209561 ほか）を共有、「ストレス溜まる書き方」との感想\n- LipSyncをやるならローカルでないと厳しい、Museの動画は良いが歌に後から合わせるのはきついという報告\n- 大金をかけて生成した動画（https://www.youtube.com/watch?v=BYyU78biNyQ）に「面白いかと言われると…」\n（てつ、YOU、Ghints (ぎんつ)）\n\n### Google Sites有料化とAI Pro割引ルート\n- Sites有料化の報（https://x.com/tekonburns/status/2125003460265546227）に「作りまくってるのに」と悲鳴、DBありのサイトから撤去、Cloudflare Workersを推す声も\n- 300円の100GBプランに入るとAI Pro年額半額が出た（明後日まで・ルート封鎖の予感）、年払い「16%お得」表記の謎解き\n- NeonがよければClaude 40xを20xに減らす、Claude手放せない、Duet待ちの声\n（ハムスター将軍、juiCYMod、なぞこい）\n\n### 収益化停止の波とその他\n- 収益化停止の波が再来、てつさんは初の200万再生目前\n- GTA6のPC移植オープンソース計画（https://vxtwitter.com/annunziatabor/status/2125091044614390246）がRockstarにより終了\n（てつ、なべ、だって人間だもの）\n\n※コメント数はスクロールでDOMの投稿を1件ずつ数えた値（ボット0件、スレッドなし）",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 67
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-24",
   "time": "18:00",

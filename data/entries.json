@@ -8,6 +8,14 @@
   "comment_count": 17
  },
  {
+  "source": "deg-stock",
+  "date": "2026-11-26",
+  "time": "00:00",
+  "summary_md": "### MicrosoftのCopilotは株価材料になるか\n- Copilotは、Outlook・OneDrive・SharePointをまたいで情報を集める力が強く、事務職の削減につながるのでAIで一番稼ぎやすいという見方\n- 反対に、すでに囲い込んだ顧客にしか効かず、決め手にはならない・赤字という指摘。Google WorkspaceとMicrosoftのどちらが多く使われているかも議論\n- リンク: [ClaudeDevs](https://x.com/ClaudeDevs/status/2125315491522650299) / [Google Workspace導入事例](https://workspace.google.com/intl/ja/customers/)\n（Albert、namazu、キム氏）\n\n### 半導体急落とANTの公募割れ、深夜の反発\n- 利下げ観測が出ても株は下落。ANT（Anthropic）は上場後に下げて公募割れ、SOXL・SOXSの売買\n- 23:30ごろから半導体が急落し、ナスダック100は弱気相場入りの見通し。23:57ごろから強く反発し「底打ち宣言」も\n- 米10年債利回り4.83%（10bp低下）、VIX、メキシコペソ安、岐阜暴威の追証ネタ\n- リンク: [KoichFuj](https://x.com/KoichFuj/status/2125538331572461863) / [gihuboy](https://x.com/gihuboy/status/2125561351682867645) / [WatcherGuru](https://x.com/WatcherGuru/status/2125601493533483025)\n（DEG、越前、トランプの出口）\n\n### 米USTRの関税案と10月PCE\n- 14か国への関税案（中国20〜40%、ベトナム35%、インド・韓国など最大25%、日本は実質15%）。日本の対応をめぐる政治議論は途中で打ち切り\n- 10月PCEは前月比+0.3%・前年比+3.8%、コアは予想を上回り12月利上げ観測が強まる\n- リンク: [DeItaone](https://x.com/DeItaone/status/2125578817221640632) / [KobeissiLetter](https://x.com/KobeissiLetter/status/2125583144338260387)\n（namazu、Albert、nnf）\n\n### 金・銀の下落\n- 金が3,500ドルを割り、2025年9月以来の安値。銀も急落し、金は戻しては下げるを繰り返す\n（jugulis、サンプル太郎、きょ）\n\n### 雑談\n- 無職か有職かのネタ、GTA・テニス、株クラ勢をここに呼ぶかとDEG鯖のイメージ\n（DEG、Albert、トランプの出口）\n\n※コメント数は推計値（18:07過ぎ〜11/26 0:06）。Discord検索のヒット数（11/25は1,978件、11/26は23件）から前回までの記録分を差し引き、23:59台の約15件（目視）は11/26分として数えた。BOT投稿は確認できた範囲では0件。18:36〜18:42の一部は読み取れていない。",
+  "title": "DEG鯖 株式-為替-商品",
+  "comment_count": 707
+ },
+ {
   "date": "2026-11-25",
   "time": "19:00",
   "videos": [

@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-26",
+  "time": "06:10",
+  "summary_md": "### DeepSeek Harnessの情報送信疑惑\n- KC (@ScarletKc) が、DeepSeek Harness 0.2.2-rc.5 が会話内容やファイル内容を外部送信している可能性を警告（アプリを展開し、ローカルの偽サーバーで検証）\n- 「T3 Codeの次はdsh…？」「claude/codexはプロバイダー製だから仕方ないとして、pi agentは大丈夫か不安」との声\n- 「DeepSeekは使ったら全部漏れてるのが普通では」「Deepに流出します」と皮肉も\n- リンク: https://x.com/ScarletKc/status/2125312989956047308\n（ハムスター将軍、NINO、namazu@打倒！井村ファンド）\n\n### Neonで突破口\n- 前回話題のNeonのおかげで行き詰まりを突破できたとの報告\n（ハムスター将軍）\n\n### AI教育動画とイケハヤAIch\n- 社會部部長チャンネル「『日本はAI教育で遅れている』という朗報」を高クオリティと紹介\n- リンク: https://youtu.be/VpcQ1Pz9qnw\n- イケハヤAIchが思ったよりガッツリやっている一方、このタイミングで晒すのは色々勘ぐってしまうとの感想\n（TheCat小屋ずん前小屋ずん、なぞこい）\n\n_コメント数はスクロールで1件ずつ数えた値（ボット0件、スレッドなし）。_",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 9
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-26",
   "time": "00:20",

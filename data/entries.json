@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-27",
+  "time": "00:20",
+  "summary_md": "### Manic開発陣の来訪と「兄上」大喜利（16:28〜18:11）\n- Flash Optionsアルファテストの告知を受け、ManicのRobin（Robinn.eth）と開発担当leonが自己紹介し、フィードバックを募集\n- DEGの「よろしく兄弟！」から「おにーちゃん」「兄上」「にぃに」と大喜利化。「DEG鯖版シスタープリンセス始まったな」\n- 夜にはスマホ/MacでFlash Optionsが表示されない、約定が遅い・売り失敗といった報告。leonは現状モバイル対応ウェブのみでネイティブアプリは開発中と回答、Robinは事前登録メールでのログインを案内\n（Robinn.eth、leon、Ray）\n\n### ニュース・リンク共有（17:29〜21:12）\n- メタマスクが日本で決済カード提供開始（ステーブルコイン払い） x.com/coin_post/status/2125848277178589447\n- VeniceがOpenRouterにZDRトークンを売ったとのスレッド（x.com/KTibow/status/2125766657213939943）、VVVはプライバシー疑問で14%超下落（CB Terminal）\n- KuCoinが11/30にXMRを上場廃止 kucoin.com/ja/announcement/en-kucoin-will-delist-xmr-on-2026-11-30 。XMRショート追加かロングかの議論\n- ジェンセン氏「予言」ネタ画像は捏造だと検証、杉・林業・花粉症談義に脱線\n（Do Kwontum Breakthrough、節子@デロンギ、邪悪なネコ）\n\n### 冬眠相場とチャートツール談義（21:36〜0:30）\n- 「7万ドル行った？」→「60kです」。週足陰線8本目、「BTCは2年連続陰線になったことない」\n- TradingViewの使いづらさと有料誘導に不満。PineScriptが使えるVela（vela.luxalgo.com）を推す声\n- 米国休場（感謝祭）のなか60.9Kで跳ね返され、0時過ぎに急落し「60k割れるか」「何下げ？」。恐怖指数は一桁、ZEC 1時間6.4%安（CB Terminal）\n（まーちゃん、だって人間だもの、ssano）\n\n※件数はスクロールで1件ずつ数えた概数（±1〜2件）。BOT（CB Terminal）2件除外、スレッドなし。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 98
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-27",
   "time": "00:10",

@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-26",
+  "time": "23:59",
+  "summary_md": "### Anthropic人材のOpenAI移籍とOpus 5.6の作例\n- Thariq（@trq212）やcat（@_catwu）のOpenAI入りに「お前らさあ」「上場ゴール」と茶化す反応\n- Opus 5.6が自前のWebGPUレンダラーを書いた作例やパワポ生成の出来に「three.jsなし！？」「怖い」。KarpathyのCiv風米国地図やTripo H3.5も共有\n（ハムスター将軍、wz、NINO）\n\n### Claude Duet・ChatGPTのChat/Work統合とMuse・Gemini\n- ChatGPTのChat/Work統合、Claude Duetの「できないこと」まとめ、Claudeのリセットチケット配布が「神タイミング」と話題\n- Museの茜ちゃんに生理周期を与えて無料枠を使い切りGeminiでタスクを回す報告。Gemini 4 NeonでECサイトの表示が250ms→12msになったという話も\n（なぞこい、みよの、だって人間だもの）\n\n### DeepSeek Harnessの情報送信疑惑と1Passwordのインシデント\n- DeepSeek Harness 0.2.2-rc.5が会話やファイル内容を外部送信している可能性の警告に「T3 Codeの次はdsh…？」「Deepに流出します」\n- 1Passwordがバックエンドの一部に関わるインシデントを報告（Vault内容は影響なしとの説明）\n（ハムスター将軍、NINO、namazu）\n\n### 長尺動画の収益化とイケハヤAIch\n- イケハヤAIchの本気ぶりを評価する声と「商材・セミナー売りでは」という見方。長尺動画の品質や、収益化停止・パクリ＋著作権通報による嫌がらせリスクも議論\n（なぞこい、wz、Ghints (ぎんつ)）\n\n### その他\n- YouTube Premium Liteのショート広告への不満、24KBの「LLM専用OS」とアセンブラのロマン、新幹線でAI作業が途切れる悩み、アリババのAIレコーダー「QwenNote A1」\n（juiCYMod、てつ、gorillapower）\n\n---\n※1日のコメント数は各回の記録（counts.jsonl）の合計153件（6:10回9・12:10回22・18:10回52・11/27 0:10回70）。各回はスクロールで1件ずつ数えた値。ボット投稿は0件。",
+  "title": "1日まとめ",
+  "comment_count": 153,
+  "daily": true
+ },
+ {
   "date": "2026-11-26",
   "time": "19:00",
   "videos": [

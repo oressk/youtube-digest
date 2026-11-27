@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-stock",
+  "date": "2026-11-27",
+  "time": "12:00",
+  "summary_md": "## 朝の雑談とAltmanインタビュー（06:35〜08:30）\n- 米国休場で動き少なめの雑談\n- Sam Altman（Semafor）のチップ需要の二重計上についての回答、担保チップ値下がりでネオクラウドは厳しいとの見方\n- リンク: https://x.com/ZanEngineer/status/2125963844430475606/video/1 / https://www.youtube.com/watch?v=oi-E6xB4wSU&t=300s\n（wz、MAGIGAG、DEG）\n\n## 東京CPI下振れ（08:33〜08:52）\n- 11月速報: 総合+2.8%（予想+3.1%）、コア+2.9%（予想通り）、コアコア+2.5%（予想+2.7%）\n- 利上げ観測後退→ドル円、円Tビル金利、短期待機資金の置き場（133A）\n- リンク: https://x.com/min_fx/status/2126096379466715200\n（くまさんドル円おさわり、たこす、2b2c）\n\n## 寄り付き〜午前：キオクシア・半導体とTOPIXリバランス（08:54〜10:30）\n- キオクシア(285A)・ディスコの強弱、日経弱いのに半導体一部強い、バリューへの資金移動（NT倍率低下）、東電HD高、KOSPI\n- 東芝の毎月のキオクシア売りをリバランスにぶつけたか、10時ごろの日経急伸\n- 51単元以上の信用新規売りは指値のみ（楽天・SBIのルール）: https://search.sbisec.co.jp/v2/popwin/help/trade_stock_12_04.html\n- リンク: https://s.kabutan.jp/stocks/285A/news/n202611041127/\n（肉彦、mmk7636、namazu）\n\n## アンソロピックとAIバブル論、nota IPO（10:30〜10:50）\n- ANT評価額とAIバブル／ポンジ論、S&P先物+1%・ナスダック先物+2%\n- nota IPOに参加するか、直近IPOの下落、米国IPOの方が有利との声\n（DEG、肉彦、海苔）\n\n## 昼前の地合い回復と電線株格下げ（10:58〜12:03）\n- 「底打ち」の声、ゴールド下ヒゲ・BTC強い、国債売りからリスク資産へ？薄商い\n- 楽天の部分漏洩確定の話、トランプ発言、SMBC日興の電線株（フジクラ・古河電工・住友電工・SWCC）格下げ報道\n- 12:03 JTの上昇に驚く声\n- リンク: https://x.com/vege_kabu/status/2126103350592811366 / https://x.com/deitaone/status/2126118672477372600 / https://x.com/txjmdagjmwtjm/status/2126145284413784359\n（DEG、肉彦、mmk7636）\n\n※コメント数はスクロールで1件ずつ数えた概数（約272件、BOT/APP 0件、スレッドなし、Discord検索未使用）。",
+  "title": "DEG鯖 株式-為替-商品",
+  "comment_count": 272
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-27",
   "time": "08:20",

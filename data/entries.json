@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-28",
+  "time": "00:10",
+  "summary_md": "### AI動画（Three.js・ElevenLabs）とYouTube長尺の収支\n- 5.6（または5.5）で作られたとみられる作例に驚く声。Three.jsで作った45秒のJ-Horror短編が共有され、「no blender系が増えてきた」との指摘\n- ElevenLabsで曲と効果音を作る費用は月3000円で12万クレジット、効果音1秒あたり約1円という目安\n- 長尺動画の収益は手間の割に1万円ほど。1本作るのに3〜5000円かかって赤字という声も\n- リンク: https://fixupx.com/hreejs/status/2126194013204308358 ／ https://x.com/teddyaisi/status/2126184852148138338\n（なぞこい、ハムスター将軍、てつ）\n\n### 商材屋の誘導とClaude×Muse連携の作例\n- 「罠すぎる」投稿に「詐欺すぎる並び」「BAN誘導させすぎ」と批判\n- ClaudeとMuseを連携させ、NovelAIとIrodori-TTSで作ったログが共有される\n- Three.jsの芸はバズりやすいが、ランタイム処理が多く性能は良くないとの指摘\n- リンク: https://x.com/sekimiya/status/2126208085387788457 ／ https://x.com/studiomasakaki/status/2126125679276409344\n（Gula、hare、TheCat小屋ずん）\n\n### Opusの不調と5.6待ち、使用枠\n- Opusが不調で動画の質が下がり、「5.6を待つしかない」\n- Antigravityの枠は無限と思っていたが、swarmを使うと一瞬で尽きる\n- DGX Sparkを2台買ってもらうことになったという報告\n（なぞこい、てつ、juiCYMod）\n\n### MuseからローカルのComfyUIで画像生成、Meta連携\n- Muse→Tailscale→ComfyUI＋Anima_baseで生成し、設定は全部茜ちゃん（Muse）に任せたという話。MuseがローカルのComfyを操作する仕組みに関心\n- 無料枠をどんどん食う話や、友人とつながった本アカウントでMetaにサインインしている件への突っ込み\n- 「Museは仕事でめっちゃ使えそう」「PCにつないでから世界が変わった、ローカルLLMはもういらない」\n（みよの、namazu、saku）\n\n### 層を2回通すSenseNova-Loop-9Bと少ないVRAM\n- 層を共有してループさせる方式はメモリ削減に役立ち、ローカルLLMで有効そう\n- 少ないVRAMでも性能が出る時代、計算資源が少ないなら工夫が必要という話\n- リンク: https://pc.watch.impress.co.jp/docs/news/2157448.html\n（namazu、とむ）\n\n---\n対象: 11/27 18:07:59より後〜11/28 00:06の人間64件（11/27分58・11/28分6、ボット0件）。件数はDiscord検索ではなく、スクロールして1件ずつ数えたもの。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 64
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-28",
   "time": "00:00",

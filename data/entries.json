@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-28",
+  "time": "00:20",
+  "summary_md": "### 金融庁の暗号資産規制案への反発\n- DEXフロントエンドを金融規制下に置く案・AML執行の話題（[AiNA](https://x.com/cryptojptrans/status/2126062002070012101)）\n- 「保護という名の没収」「証券会社の漏洩こそ規制しろ」など批判多数、KNTQ等プロキシへの言及も\n- Deribitの約68億ドル分BTCオプション満期（17時）も共有\n（78、サンプル太郎、ない）\n\n### 日本居住者はどの取引所を使う？\n- GATE.io・BingX・MEXCしか選択肢がないとの声、バイナンスJP・ビットバンク・JPYCEXも候補に\n（Super atamachan.、2b2c、Arcana Aschenbrenner）\n\n### 銘柄・ニュース\n- フランクリン・テンプルトンがHYPEをETFに組み入れとの報道でHYPE +7.7%（[CoinGecko](https://x.com/coingecko/status/2126209429267747013)）、「テンPURRトン」\n- xyz:GOOGLの$1.5Mロングなど\n（78、司/tsukasansan）\n\n### 深夜のBTC急落（6万ドル割れ）\n- 23:35〜23:52にBTCが62kから急落、「59kわれる」「6万割れ」、エヌビ失速も話題\n- 利確で月次1110万円突破の報告、0時以降はリバ期待とさらなる下落警戒が交錯、「ETFの売りが殺到？」\n（ない、サンプル太郎、まーちゃん）\n\n---\n対象: 11/27 16:22:59より後〜11/28 0:24（人間の投稿186件＝11/27分138・11/28分48、BOT 2件除外）。スクロールでDOMを1件ずつ数えた概数（±数件）、Discord検索は未実施。",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 186
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-28",
   "time": "00:10",

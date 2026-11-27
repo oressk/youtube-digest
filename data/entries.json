@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-27",
+  "time": "18:10",
+  "summary_md": "### Sonnet 5.6のルーティングとNeonの評価\n- 5.6らしきモデルに振り分けられたが、試すとまだ物足りないという声。夕方には「返信が速い、5.6に来たっぽい」との報告や、「5.6はよ／エセルーティングはいらん」との声も\n- Gemini 4 Neonは「ポン出しのセンスがいい」「月1000円ちょいとは思えない」と好評。一方で「変わった？」との声も\n- Duetのプレビューが（Proで）届いたという報告\n（てつ、ハムスター将軍、juiCYMod）\n\n### 動画・画像・3D生成とColab／Antigravityの使用枠\n- MiniMax H3やkrea2での生成ネタ。Sonnet 5.6製のMinecraft、Sonnet 5.5で画像参照した3Dモデルの強化で「tripoが要らなくなるかも」\n- Google AI Pro付属のColabでH3の15秒音付き動画を作れたが、A100が取りにくくなってきた（「優良誤認やろ」）。Gemini web版とAntigravityの使用上限・リセットは別\n- Claude Duetの申請でリセットカード3枚、日本でのAntigravity利用急増（デスクトップ版より「CLIを使え」）\n- リンク: https://x.com/RezAIT00/status/2125820112531849337 / https://x.com/gamemangaanime/status/2125995754292715930 / https://fixupx.com/noel_ai_lab/status/2125943869783371922 / https://x.com/LuckyJoe198x/status/2126157647196148093 / https://x.com/ckbrox13/status/2126122314324750571\n（ハムスター将軍、Gula、てつ）\n\n### Opusの誤字・英語返信と、T3 Code／Antigravityの安全性\n- Opus 5.5の誤字が増えた、「日本語で出す」と言った直後に英語で返すなどの不満\n- T3 Codeは「入れたら色々漏れている前提でいるべきレベル」で、セキュリティ面から今は避けるべきとの忠告。DeepSeekも同様らしく「OSSを拾って自分で改造するしか」\n- ClaudeからAntigravityを呼ぶ使い方と規約変更・BANリスク\n- モデル名とモデルカードを偽装し、ClaudeにDeepSeekの推論最適化をさせる例: https://x.com/Hikari_07_jp/status/2126196346856329571\n（てつ、namazu、炎髪灼眼のほったて小屋）\n\n### AIで懸賞自動応募、YouTube収益化チャンネルの量産\n- openclaw＋GLM5.3 flashで懸賞に自動応募する例から「この手の応募は早晩なくなる」「手紙のみに戻りそう」「作文や川柳までAI任せはマナーが悪い」との議論。リンク: https://x.com/yamanoyy/status/2125925722443354200\n- 知り合いが収益化チャンネルを37個持っている話から、ほぼ全自動か、管理の手間、連鎖BANの怖さ。テンプレ化したチャンネルは収益化を外されるだろうとの見方。リンク: https://x.com/rotejin/status/2125975437931340180\n（ハムスター将軍、邪悪なネコ、なぞこい）\n\n### 単発\n- G検定合格の報告、Three.jsのポスト共有（https://fixupx.com/hreejs/status/2126194013204308358）\n\n---\n※コメント数79件は、12:07〜18:07の人間の投稿をスクロールで1件ずつ数えた数（ボット0件、スレッドなし、Discord検索は未使用）。",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 79
+ },
+ {
   "source": "deg-stock",
   "date": "2026-11-27",
   "time": "18:00",

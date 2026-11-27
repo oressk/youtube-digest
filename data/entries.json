@@ -42,6 +42,15 @@
   "daily": true
  },
  {
+  "source": "deg-ai",
+  "date": "2026-11-27",
+  "time": "23:59",
+  "summary_md": "### Opus／Sonnet 5.6への期待とルーティング\n- 「Opus5.6 > Sonnet5.6 >= Opus5.5」予想、来週火曜リリース期待、夕方には「5.6に振り分けられた？」報告も\n- Opus 5.5の誤字・英語返信など不調で「5.6を待つしかない」、T3 Codeのセキュリティ懸念\n（てつ、ハムスター将軍、namazu）\n\n### Gemini 4 Neonの使用量無制限と評価\n- 使用枠無限で「無限に仕事できちゃう」、デザインの大局観やポン出しのセンスは好評、知識の古さやミスも\n- Colab／Antigravityの使用上限、swarmで一瞬で枠が尽きる話\n（てつ、DEG、Gula）\n\n### AI動画・画像・3D生成と収益化\n- MiniMax H3・Three.jsの短編・Sonnet製3Dモデル、ElevenLabsの効果音コスト、長尺動画は赤字という声\n- 収益化チャンネル37個の量産や懸賞自動応募への是非、ChatGPT離れと画像生成\n（ハムスター将軍、なぞこい、hare）\n\n### Muse×ローカル環境の活用\n- MuseからTailscale経由でローカルComfyUIを操作、Claude×Muse連携作例、「PCにつないでから世界が変わった」\n- 層を2回通すSenseNova-Loop-9Bで少ないVRAMでも性能、DGX Spark 2台購入の報告\n（みよの、namazu、juiCYMod）\n\n---\n※ コメント数は counts.jsonl の当日分の合計195件（人間の投稿のみ、ボット0件）。各回はスクロールで1件ずつ数えた値。",
+  "title": "1日まとめ",
+  "comment_count": 195,
+  "daily": true
+ },
+ {
   "date": "2026-11-27",
   "time": "19:00",
   "videos": [

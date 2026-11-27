@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-crypto",
+  "date": "2026-11-28",
+  "time": "08:20",
+  "summary_md": "### 深夜のBTC中折れと「ビットコインいい加減にしろ」\n- 株・半導体は戻すのにBTCは中折れ。6時台には5.9万ドル割れ（CB Terminalまとめ）で「ゴミ」「オワタ」の嘆きが続出\n- 「派遣ならクビ」とビットコインを叱る長文ネタ、「この値動きで週末入るん？」の声\n- 邪悪なネコさんの62付近の当てが話題に（本人は「たまたま」）\n（ハムスター将軍、ダイスケべ、邪悪なネコ）\n\n### 損失報告・マクロ・PAXG\n- Pasteke.hl の「15ヶ月分の利益が消えた」ポストモーテム共有（https://x.com/0xPasteke/status/2126269759377547493）\n- FRBのバランスシートデータ公表の速報（https://x.com/QmoCrypto/status/2126284728617902393）、STRCが買われる謎\n- 最近のPAXGの価格差がひどいとの指摘\n（サンプル太郎、かと）\n\n### 新規上場・Hyperliquid周り\n- Krakenが $XTEN（Extendedのパーペチュアル取引所）上場予告（https://x.com/krakenlistings/status/2126337839793377450）\n- Rabbi/API経由の注文とリキのフロント規制撤廃の話、オプション割当ての嘆き（https://x.com/0xcarlisle/status/2126337654107349449）\n- ハイパーリキッドにVARのティッカーが登場\n（サンプル太郎、DEG、だって人間だもの）\n\n*件数はDOM上で1件ずつ数えた概数（CB Terminal 1件除外、本文なし投稿含む、スレッドなし）。*",
+  "title": "DEG鯖 クリプト雑談",
+  "comment_count": 44
+ },
+ {
   "source": "deg-ai",
   "date": "2026-11-28",
   "time": "06:10",

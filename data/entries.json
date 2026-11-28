@@ -1,5 +1,13 @@
 [
  {
+  "source": "deg-ai",
+  "date": "2026-11-28",
+  "time": "18:10",
+  "summary_md": "### Astra 6.2の生成精度\n- マッサージベッドを頼むと指示していない細部まで再現され一発OK、「6とは全然違う」。オーケストレーターNeonの指示が良かった可能性も\n- 「fable, carbonに負ける」との一言も（Toshico、wz）\n\n### YouTube収益化とRPM\n- 12月に向けて単価上昇？ 長尺RPM850円・ショート40円の報告、収益化直後でもRPMが5日で約$0.03上昇\n- メイン長尺434・ショート35、サブ長尺727と、尺が長いメインの方が低いという声。CPMとRPMの取り違えも\n- AI全任せチャンネルは視聴は安定もバズが出ず、1ヶ月でエンゲージビュー約150万「そろそろミリオン欲しい」\n- Team Premium 5シートでようやく1アカウント分を回収、まだ赤字（なべ、mmmmmrr.、おぢおぢさん）\n\n### Google AI Proの無料クラウドPC・Colab\n- Geminiが2コア・8GBの無料クラウドPC提供開始との話題（https://fixvx.com/xiaomovps/status/2126531529308328270/ja）、Google AI ProはVPS付き・Google Home Premium付き\n- ColabでL4を選んでも在庫切れだとT4(16GB)に自動フォールバック→「っぱローカル生成すわ」（namazu@打倒！井村ファンド、Gula）\n\n### Three.jsとAIの改善ループ\n- Astra 6.2等でThree.jsシーンを23回ループで作り込んだ投稿（https://x.com/teddyaisi/status/2126185557814645186）、AIの能力向上でフィードバックループが回るとの感想\n- Three.js公式の投稿で炎鎮さんが引用されている（https://x.com/threejs/status/2126572609819353574）（てつ、楓）\n\n_コメント数はスクロールでDOMを1件ずつ数えた値（ボット0件、スレッドなし）。_",
+  "title": "DEG鯖 AI総合",
+  "comment_count": 28
+ },
+ {
   "source": "deg-crypto",
   "date": "2026-11-28",
   "time": "16:20",
